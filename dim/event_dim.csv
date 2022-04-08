@@ -1,0 +1,1424 @@
+event_key,event_id,Event Name,ISO,Disaster Type,Disaster Subtype,Total Affected,Disaster Subgroup,Dis No,"Total Damages, Adjusted ('000 US$)",Disaster Group,CPI,Total Deaths,date
+90,0,N/A,AUS,Wildfire,Forest fire,220.0,Climatological,2005-0014-AUS,55501.0,Natural,72.07141045,12.0,2005_January
+91,1,N/A,AUS,Storm,N/A,600.0,Meteorological,2005-0068-AUS,37463.0,Natural,72.07141045,-1.0,2005_January
+92,2,Erwin,DEU,Storm,Extra-tropical storm,2.0,Meteorological,2005-0011-DEU,374628.0,Natural,72.07141045,2.0,2005_January
+93,3,N/A,USA,Flood,Riverine flood,150.0,Hydrological,2005-0103-USA,346878.0,Natural,72.07141045,9.0,2005_February
+94,4,N/A,USA,Flood,Riverine flood,508.0,Hydrological,2005-0015-USA,277503.0,Natural,72.07141045,28.0,2005_January
+95,5,N/A,VEN,Flood,Riverine flood,25042.0,Hydrological,2005-0073-VEN,69376.0,Natural,72.07141045,76.0,2005_February
+96,6,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2005-0029-USA,485629.0,Natural,72.07141045,20.0,2005_January
+97,7,N/A,USA,Transport accident,Rail,950.0,Technological,2005-0009-USA,-1.0,Technological,72.07141045,9.0,2005_January
+98,8,N/A,MEX,Transport accident,Road,13.0,Technological,2005-0006-MEX,-1.0,Technological,72.07141045,12.0,2005_January
+99,9,N/A,TCD,Transport accident,Road,28.0,Technological,2005-0022-TCD,-1.0,Technological,72.07141045,14.0,2005_January
+100,10,N/A,USA,Transport accident,Rail,180.0,Technological,2005-0052-USA,-1.0,Technological,72.07141045,11.0,2005_January
+101,11,Raffinerie BP,USA,Industrial accident,Explosion,170.0,Technological,2005-0148-USA,-1.0,Technological,72.07141045,15.0,2005_March
+102,12,N/A,VEN,Flood,Riverine flood,-1.0,Hydrological,2005-0021-VEN,1388.0,Natural,72.07141045,3.0,2005_January
+103,13,N/A,AUS,Flood,Riverine flood,3000.0,Hydrological,2005-0523-AUS,80476.0,Natural,72.07141045,3.0,2005_June
+104,14,N/A,AUS,Flood,Riverine flood,3000.0,Hydrological,2005-0523-AUS,80476.0,Natural,72.07141045,3.0,2005_July
+105,15,N/A,DEU,Extreme temperature ,Cold wave,165.0,Meteorological,2005-0655-DEU,416254.0,Natural,72.07141045,1.0,2005_November
+106,16,Bi-moteur Fairchild Metroliner,AUS,Transport accident,Air,-1.0,Technological,2005-0241-AUS,-1.0,Technological,72.07141045,15.0,2005_May
+107,17,N/A,AUS,Storm,N/A,600.0,Meteorological,2005-0697-AUS,20813.0,Natural,72.07141045,1.0,2005_December
+108,18,N/A,CAN,Flood,Riverine flood,600.0,Hydrological,2005-0591-CAN,-1.0,Natural,72.07141045,-1.0,2005_September
+109,19,N/A,CAN,Flood,Riverine flood,5000.0,Hydrological,2005-0728-CAN,495342.0,Natural,72.07141045,4.0,2005_June
+110,20,N/A,CAN,Flood,Riverine flood,5000.0,Hydrological,2005-0728-CAN,495342.0,Natural,72.07141045,4.0,2005_July
+111,21,N/A,CAN,Wildfire,Forest fire,-1.0,Climatological,2005-0383-CAN,-1.0,Natural,72.07141045,-1.0,2005_July
+112,22,N/A,CAN,Wildfire,Forest fire,-1.0,Climatological,2005-0460-CAN,-1.0,Natural,72.07141045,-1.0,2005_August
+113,23,Food poisoning,CAN,Miscellaneous accident,Other,506.0,Technological,2005-0764-CAN,-1.0,Technological,72.07141045,-1.0,2005_November
+114,24,Food poisoning,CAN,Miscellaneous accident,Other,506.0,Technological,2005-0764-CAN,-1.0,Technological,72.07141045,-1.0,2005_December
+115,25,Poisoning,CAN,Miscellaneous accident,Other,155.0,Technological,2005-0780-CAN,-1.0,Technological,72.07141045,-1.0,2005_May
+116,26,N/A,CAN,Storm,N/A,300.0,Meteorological,2005-0553-CAN,-1.0,Natural,72.07141045,-1.0,2005_September
+117,27,N/A,CHE,Flood,Riverine flood,2500.0,Hydrological,2005-0451-CHE,2913777.0,Natural,72.07141045,6.0,2005_August
+118,28,N/A,CHE,Extreme temperature ,Severe winter conditions,-1.0,Meteorological,2005-0713-CHE,-1.0,Natural,72.07141045,-1.0,2005_December
+119,29,N/A,CHE,Transport accident,Road,-1.0,Technological,2005-0201-CHE,-1.0,Technological,72.07141045,12.0,2005_April
+120,30,N/A,DEU,Flood,Riverine flood,450.0,Hydrological,2005-0364-DEU,-1.0,Natural,72.07141045,-1.0,2005_July
+121,31,N/A,DEU,Flood,Riverine flood,-1.0,Hydrological,2005-0451-DEU,305253.0,Natural,72.07141045,1.0,2005_August
+122,32,N/A,DEU,Extreme temperature ,Severe winter conditions,-1.0,Meteorological,2005-0713-DEU,-1.0,Natural,72.07141045,10.0,2006_January
+123,33,N/A,CAN,Flood,Riverine flood,2000.0,Hydrological,2006-0224-CAN,-1.0,Natural,74.39638749,-1.0,2006_April
+124,34,N/A,CAN,Flood,Riverine flood,2000.0,Hydrological,2006-0224-CAN,-1.0,Natural,74.39638749,-1.0,2006_May
+125,35,N/A,DEU,Flood,Riverine flood,1000.0,Hydrological,2006-0156-DEU,-1.0,Natural,74.39638749,-1.0,2006_March
+126,36,N/A,DEU,Flood,Riverine flood,1000.0,Hydrological,2006-0156-DEU,-1.0,Natural,74.39638749,-1.0,2006_April
+127,37,N/A,DEU,Storm,Convective storm,100.0,Meteorological,2006-0352-DEU,-1.0,Natural,74.39638749,1.0,2006_June
+128,38,Glenda,AUS,Storm,Tropical cyclone,500.0,Meteorological,2006-0155-AUS,-1.0,Natural,74.39638749,-1.0,2006_March
+129,39,Glenda,AUS,Storm,Tropical cyclone,500.0,Meteorological,2006-0155-AUS,-1.0,Natural,74.39638749,-1.0,2006_April
+130,40,Clare,AUS,Storm,Tropical cyclone,1500.0,Meteorological,2006-0043-AUS,3164.0,Natural,74.39638749,-1.0,2006_January
+131,41,Larry,AUS,Storm,Tropical cyclone,7030.0,Meteorological,2006-0139-AUS,1586099.0,Natural,74.39638749,-1.0,2006_March
+132,42,Larry,AUS,Storm,Tropical cyclone,7030.0,Meteorological,2006-0139-AUS,1586099.0,Natural,74.39638749,-1.0,2006_April
+133,43,N/A,DEU,Storm,N/A,-1.0,Meteorological,2006-0356-DEU,-1.0,Natural,74.39638749,-1.0,2006_July
+134,44,N/A,AUS,Flood,Riverine flood,1100.0,Hydrological,2006-0179-AUS,-1.0,Natural,74.39638749,-1.0,2006_April
+135,45,N/A,AUS,Wildfire,Forest fire,81.0,Climatological,2006-0057-AUS,67208.0,Natural,74.39638749,3.0,2006_January
+136,46,N/A,AUS,Wildfire,Forest fire,81.0,Climatological,2006-0057-AUS,67208.0,Natural,74.39638749,3.0,2006_February
+137,47,N/A,AUS,Wildfire,Forest fire,81.0,Climatological,2006-0057-AUS,67208.0,Natural,74.39638749,3.0,2006_March
+138,48,N/A,AUS,Wildfire,Forest fire,81.0,Climatological,2006-0057-AUS,67208.0,Natural,74.39638749,3.0,2006_April
+139,49,N/A,AUS,Wildfire,Forest fire,60.0,Climatological,2006-0666-AUS,67208.0,Natural,74.39638749,1.0,2006_December
+140,50,N/A,AUS,Wildfire,N/A,-1.0,Climatological,2006-0660-AUS,-1.0,Natural,74.39638749,-1.0,2006_November
+141,51,N/A,CAN,Flood,Riverine flood,200.0,Hydrological,2006-0203-CAN,-1.0,Natural,74.39638749,-1.0,2006_April
+142,52,N/A,CAN,Flood,Riverine flood,1000.0,Hydrological,2006-0206-CAN,-1.0,Natural,74.39638749,-1.0,2006_April
+143,53,N/A,CAN,Flood,Riverine flood,300.0,Hydrological,2006-0261-CAN,-1.0,Natural,74.39638749,-1.0,2006_May
+144,54,N/A,CAN,Flood,Riverine flood,300.0,Hydrological,2006-0261-CAN,-1.0,Natural,74.39638749,-1.0,2006_June
+145,55,N/A,CAN,Flood,Riverine flood,400.0,Hydrological,2006-0269-CAN,-1.0,Natural,74.39638749,1.0,2006_May
+146,56,N/A,CHE,Flood,Riverine flood,3000.0,Hydrological,2006-0419-CHE,-1.0,Natural,74.39638749,-1.0,2006_July
+147,57,N/A,CHE,Storm,N/A,-1.0,Meteorological,2006-0124-CHE,-1.0,Natural,74.39638749,1.0,2006_March
+148,58,N/A,DEU,Extreme temperature ,Heat wave,-1.0,Meteorological,2006-0383-DEU,-1.0,Natural,74.39638749,2.0,2006_July
+149,59,Transrapid,DEU,Transport accident,Rail,10.0,Technological,2006-0529-DEU,-1.0,Technological,74.39638749,23.0,2006_September
+150,60,Roof of a skating-rink,DEU,Miscellaneous accident,Collapse,18.0,Technological,2006-0003-DEU,-1.0,Technological,74.39638749,15.0,2006_January
+151,61,N/A,DEU,Storm,N/A,200.0,Meteorological,2006-0124-DEU,-1.0,Natural,74.39638749,10.0,2006_March
+152,62,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2007-0066-CAN,-1.0,Natural,76.5186792,2.0,2007_February
+153,63,N/A,CHE,Storm,Convective storm,-1.0,Meteorological,2007-0037-CHE,-1.0,Natural,76.5186792,-1.0,2007_January
+154,64,Kyrill,CHE,Storm,Extra-tropical storm,-1.0,Meteorological,2007-0019-CHE,130687.0,Natural,76.5186792,-1.0,2007_January
+155,65,N/A,DEU,Storm,Convective storm,-1.0,Meteorological,2007-0037-DEU,-1.0,Natural,76.5186792,7.0,2007_January
+156,66,Kyrill,DEU,Storm,Extra-tropical storm,130.0,Meteorological,2007-0019-DEU,7187787.0,Natural,76.5186792,11.0,2007_January
+157,67,Katrina,USA,Storm,Tropical cyclone,500000.0,Meteorological,2005-0467-USA,173439092.0,Natural,72.07141045,1833.0,2005_August
+158,68,Katrina,USA,Storm,Tropical cyclone,500000.0,Meteorological,2005-0467-USA,173439092.0,Natural,72.07141045,1833.0,2005_September
+159,69,N/A,USA,Flood,Riverine flood,3600.0,Hydrological,2005-0716-USA,339941.0,Natural,72.07141045,3.0,2005_December
+160,70,N/A,USA,Flood,Riverine flood,3600.0,Hydrological,2005-0716-USA,339941.0,Natural,72.07141045,3.0,2006_January
+161,71,"Hurricane ""Wilma""",USA,Storm,Tropical cyclone,30000.0,Meteorological,2005-0585-USA,19841432.0,Natural,72.07141045,4.0,2005_October
+162,72,N/A,MEX,Flood,Riverine flood,10000.0,Hydrological,2005-0470-MEX,-1.0,Natural,72.07141045,30.0,2005_August
+163,73,Stan,MEX,Storm,Tropical cyclone,1954571.0,Meteorological,2005-0567-MEX,3468782.0,Natural,72.07141045,36.0,2005_October
+164,74,"Hurricane ""Wilma""",MEX,Storm,Tropical cyclone,1000000.0,Meteorological,2005-0585-MEX,6937564.0,Natural,72.07141045,7.0,2005_October
+165,75,N/A,MEX,Flood,N/A,1000.0,Hydrological,2005-0283-MEX,-1.0,Natural,72.07141045,8.0,2005_May
+166,76,N/A,USA,Flood,Flash flood,-1.0,Hydrological,2005-0286-USA,7395.0,Natural,72.07141045,-1.0,2005_May
+167,77,N/A,USA,Flood,Riverine flood,3000.0,Hydrological,2005-0583-USA,-1.0,Natural,72.07141045,11.0,2005_October
+168,78,Bret,MEX,Storm,Tropical cyclone,15000.0,Meteorological,2005-0524-MEX,13875.0,Natural,72.07141045,2.0,2005_June
+169,79,N/A,USA,Storm,Convective storm,104.0,Meteorological,2005-0219-USA,485629.0,Natural,72.07141045,-1.0,2005_April
+170,80,Rita,USA,Storm,Tropical cyclone,300000.0,Meteorological,2005-0547-USA,22200204.0,Natural,72.07141045,10.0,2005_September
+171,81,Rita,USA,Storm,Tropical cyclone,300000.0,Meteorological,2005-0547-USA,22200204.0,Natural,72.07141045,10.0,2005_October
+172,82,N/A,KEN,Flood,Flash flood,25000.0,Hydrological,2005-0215-KEN,694.0,Natural,72.07141045,1.0,2005_April
+173,83,N/A,KEN,Flood,Flash flood,10000.0,Hydrological,2005-0260-KEN,-1.0,Natural,72.07141045,5.0,2005_May
+174,84,N/A,KEN,Flood,Riverine flood,1200.0,Hydrological,2005-0526-KEN,-1.0,Natural,72.07141045,20.0,2005_June
+175,85,Meningococcal disease,KEN,Epidemic,Bacterial disease,45.0,Biological,2005-0755-KEN,-1.0,Natural,72.07141045,12.0,2005_December
+176,86,Meningococcal disease,KEN,Epidemic,Bacterial disease,45.0,Biological,2005-0755-KEN,-1.0,Natural,72.07141045,12.0,2006_January
+177,87,Meningococcal disease,KEN,Epidemic,Bacterial disease,45.0,Biological,2005-0755-KEN,-1.0,Natural,72.07141045,12.0,2006_February
+178,88,N/A,KEN,Epidemic,Viral disease,1600.0,Biological,2005-0813-KEN,-1.0,Natural,72.07141045,41.0,2005_November
+179,89,N/A,KEN,Epidemic,Viral disease,1600.0,Biological,2005-0813-KEN,-1.0,Natural,72.07141045,41.0,2005_December
+180,90,N/A,KEN,Epidemic,Viral disease,1600.0,Biological,2005-0813-KEN,-1.0,Natural,72.07141045,41.0,2006_January
+181,91,N/A,KEN,Epidemic,Viral disease,1600.0,Biological,2005-0813-KEN,-1.0,Natural,72.07141045,41.0,2006_February
+182,92,N/A,KEN,Epidemic,Viral disease,1600.0,Biological,2005-0813-KEN,-1.0,Natural,72.07141045,41.0,2006_March
+183,93,N/A,KEN,Epidemic,Viral disease,1600.0,Biological,2005-0813-KEN,-1.0,Natural,72.07141045,41.0,2006_April
+184,94,N/A,KEN,Transport accident,Road,20.0,Technological,2005-0384-KEN,-1.0,Technological,72.07141045,23.0,2005_July
+185,95,N/A,KEN,Transport accident,Road,4.0,Technological,2005-0431-KEN,-1.0,Technological,72.07141045,17.0,2005_August
+186,96,Poisoning,KEN,Miscellaneous accident,Other,84.0,Technological,2005-0405-KEN,-1.0,Technological,72.07141045,48.0,2005_June
+187,97,Food poisoning,KEN,Miscellaneous accident,Other,-1.0,Technological,2005-0779-KEN,-1.0,Technological,72.07141045,54.0,2005_May
+188,98,N/A,MEX,Flood,Riverine flood,3000.0,Hydrological,2005-0601-MEX,-1.0,Natural,72.07141045,3.0,2005_September
+189,99,Emily,MEX,Storm,Tropical cyclone,-1.0,Meteorological,2005-0382-MEX,555005.0,Natural,72.07141045,2.0,2005_July
+190,100,N/A,MEX,Transport accident,Road,15.0,Technological,2005-0184-MEX,-1.0,Technological,72.07141045,20.0,2005_April
+191,101,Fireworks market,MEX,Miscellaneous accident,Explosion,104.0,Technological,2005-0532-MEX,-1.0,Technological,72.07141045,-1.0,2005_September
+192,102,N/A,TCD,Epidemic,Viral disease,6000.0,Biological,2005-0220-TCD,-1.0,Natural,72.07141045,115.0,2005_January
+193,103,N/A,TCD,Epidemic,Viral disease,6000.0,Biological,2005-0220-TCD,-1.0,Natural,72.07141045,115.0,2005_February
+194,104,N/A,TCD,Epidemic,Viral disease,6000.0,Biological,2005-0220-TCD,-1.0,Natural,72.07141045,115.0,2005_March
+195,105,N/A,TCD,Epidemic,Viral disease,6000.0,Biological,2005-0220-TCD,-1.0,Natural,72.07141045,115.0,2005_April
+196,106,N/A,TCD,Epidemic,Viral disease,6000.0,Biological,2005-0220-TCD,-1.0,Natural,72.07141045,115.0,2005_May
+197,107,N/A,USA,Storm,Convective storm,201.0,Meteorological,2005-0530-USA,-1.0,Natural,72.07141045,-1.0,2005_August
+198,108,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2005-0682-USA,-1.0,Natural,72.07141045,10.0,2005_December
+199,109,N/A,USA,Flood,Riverine flood,11000.0,Hydrological,2005-0203-USA,41625.0,Natural,72.07141045,2.0,2005_April
+200,110,"Hurricane ""Dennis""",USA,Storm,Tropical cyclone,-1.0,Meteorological,2005-0351-USA,3094153.0,Natural,72.07141045,5.0,2005_July
+201,111,N/A,USA,Extreme temperature ,Heat wave,31.0,Meteorological,2005-0687-USA,-1.0,Natural,72.07141045,33.0,2005_July
+202,112,N/A,USA,Wildfire,Forest fire,1410.0,Climatological,2005-0724-USA,138751.0,Natural,72.07141045,5.0,2005_December
+203,113,N/A,USA,Wildfire,Forest fire,1410.0,Climatological,2005-0724-USA,138751.0,Natural,72.07141045,5.0,2006_January
+204,114,Bimoteur Grumman G-73T,USA,Transport accident,Air,-1.0,Technological,2005-0700-USA,-1.0,Technological,72.07141045,19.0,2005_December
+205,115,N/A,USA,Transport accident,Road,17.0,Technological,2005-0546-USA,-1.0,Technological,72.07141045,24.0,2005_September
+206,116,N/A,USA,Transport accident,Water,28.0,Technological,2005-0562-USA,-1.0,Technological,72.07141045,21.0,2005_October
+207,117,N/A,VEN,Flood,Riverine flood,1650.0,Hydrological,2005-0305-VEN,-1.0,Natural,72.07141045,5.0,2005_June
+208,118,N/A,VEN,Flood,Riverine flood,19105.0,Hydrological,2005-0397-VEN,-1.0,Natural,72.07141045,13.0,2005_June
+209,119,McDonnell Douglas MD-82,VEN,Transport accident,Air,-1.0,Technological,2005-0440-VEN,-1.0,Technological,72.07141045,160.0,2005_August
+210,120,N/A,VEN,Transport accident,Road,-1.0,Technological,2005-0642-VEN,-1.0,Technological,72.07141045,19.0,2005_November
+211,121,N/A,VEN,Transport accident,Road,-1.0,Technological,2005-0643-VEN,-1.0,Technological,72.07141045,14.0,2005_November
+212,122,Food poisoning,VEN,Miscellaneous accident,Other,120.0,Technological,2005-0775-VEN,-1.0,Technological,72.07141045,-1.0,2005_June
+213,123,Fireworks and munitions shop,VEN,Miscellaneous accident,Fire,5.0,Technological,2005-0705-VEN,-1.0,Technological,72.07141045,41.0,2005_December
+214,124,N/A,USA,Flood,Riverine flood,600.0,Hydrological,2006-0180-USA,348135.0,Natural,74.39638749,1.0,2006_April
+215,125,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2006-0182-USA,16130.0,Natural,74.39638749,7.0,2006_March
+216,126,John,MEX,Storm,Tropical cyclone,10000.0,Meteorological,2006-0483-MEX,-1.0,Natural,74.39638749,7.0,2006_September
+217,127,Lane,MEX,Storm,Tropical cyclone,240700.0,Meteorological,2006-0505-MEX,3629.0,Natural,74.39638749,4.0,2006_September
+218,128,N/A,USA,Earthquake,Ground movement,3529.0,Geophysical,2006-0704-USA,201623.0,Natural,74.39638749,-1.0,2006_October
+219,129,N/A,USA,Flood,Riverine flood,65000.0,Hydrological,2006-0341-USA,1344151.0,Natural,74.39638749,11.0,2006_June
+220,130,N/A,USA,Flood,Riverine flood,65000.0,Hydrological,2006-0341-USA,1344151.0,Natural,74.39638749,11.0,2006_July
+221,131,N/A,USA,Storm,Convective storm,3636.0,Meteorological,2006-0161-USA,806491.0,Natural,74.39638749,28.0,2006_April
+222,132,N/A,USA,Storm,Convective storm,625.0,Meteorological,2006-0171-USA,2150642.0,Natural,74.39638749,12.0,2006_April
+223,133,N/A,USA,Storm,Convective storm,600.0,Meteorological,2006-0257-USA,604868.0,Natural,74.39638749,1.0,2006_May
+224,134,N/A,USA,Flood,Riverine flood,2500.0,Hydrological,2006-0260-USA,114253.0,Natural,74.39638749,2.0,2006_May
+225,135,N/A,USA,Flood,Riverine flood,1210.0,Hydrological,2006-0546-USA,-1.0,Natural,74.39638749,14.0,2006_September
+226,136,N/A,USA,Storm,N/A,-1.0,Meteorological,2006-0743-USA,-1.0,Natural,74.39638749,11.0,2006_November
+227,137,N/A,USA,Storm,N/A,-1.0,Meteorological,2006-0743-USA,-1.0,Natural,74.39638749,11.0,2006_December
+228,138,Paul,MEX,Storm,Tropical cyclone,20000.0,Meteorological,2006-0604-MEX,-1.0,Natural,74.39638749,4.0,2006_October
+229,139,N/A,USA,Storm,Convective storm,42.0,Meteorological,2006-0128-USA,1612982.0,Natural,74.39638749,10.0,2006_March
+230,140,N/A,USA,Storm,Convective storm,20.0,Meteorological,2006-0595-USA,127694.0,Natural,74.39638749,12.0,2006_November
+231,141,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2006-0642-USA,403245.0,Natural,74.39638749,3.0,2006_October
+232,142,Ernesto,USA,Storm,Tropical cyclone,140.0,Meteorological,2006-0466-USA,44169.0,Natural,74.39638749,6.0,2006_August
+233,143,Ernesto,USA,Storm,Tropical cyclone,140.0,Meteorological,2006-0466-USA,44169.0,Natural,74.39638749,6.0,2006_September
+234,144,N/A,KEN,Flood,Riverine flood,17300.0,Hydrological,2006-0178-KEN,-1.0,Natural,74.39638749,60.0,2006_April
+235,145,N/A,KEN,Flood,Riverine flood,17300.0,Hydrological,2006-0178-KEN,-1.0,Natural,74.39638749,60.0,2006_May
+236,146,N/A,KEN,Flood,Riverine flood,13000.0,Hydrological,2006-0234-KEN,-1.0,Natural,74.39638749,8.0,2006_April
+237,147,N/A,KEN,Flood,Riverine flood,13000.0,Hydrological,2006-0234-KEN,-1.0,Natural,74.39638749,8.0,2006_May
+238,148,N/A,KEN,Flood,Riverine flood,30000.0,Hydrological,2006-0587-KEN,-1.0,Natural,74.39638749,30.0,2006_October
+239,149,N/A,KEN,Flood,Riverine flood,723000.0,Hydrological,2006-0624-KEN,-1.0,Natural,74.39638749,114.0,2006_October
+240,150,N/A,KEN,Flood,Riverine flood,723000.0,Hydrological,2006-0624-KEN,-1.0,Natural,74.39638749,114.0,2006_November
+241,151,N/A,KEN,Flood,Riverine flood,723000.0,Hydrological,2006-0624-KEN,-1.0,Natural,74.39638749,114.0,2006_December
+242,152,Meningococcal disease,KEN,Epidemic,Bacterial disease,59.0,Biological,2006-0136-KEN,-1.0,Natural,74.39638749,15.0,2006_January
+243,153,Disentery,KEN,Epidemic,Parasitic disease,-1.0,Biological,2006-0322-KEN,-1.0,Natural,74.39638749,13.0,2006_May
+244,154,Rift Valley Fever,KEN,Epidemic,Viral disease,529.0,Biological,2006-0750-KEN,-1.0,Natural,74.39638749,155.0,2006_November
+245,155,Rift Valley Fever,KEN,Epidemic,Viral disease,529.0,Biological,2006-0750-KEN,-1.0,Natural,74.39638749,155.0,2006_December
+246,156,Rift Valley Fever,KEN,Epidemic,Viral disease,529.0,Biological,2006-0750-KEN,-1.0,Natural,74.39638749,155.0,2007_January
+247,157,Rift Valley Fever,KEN,Epidemic,Viral disease,529.0,Biological,2006-0750-KEN,-1.0,Natural,74.39638749,155.0,2007_February
+248,158,Rift Valley Fever,KEN,Epidemic,Viral disease,529.0,Biological,2006-0750-KEN,-1.0,Natural,74.39638749,155.0,2007_March
+249,159,Military plane Y-12,KEN,Transport accident,Air,3.0,Technological,2006-0174-KEN,-1.0,Technological,74.39638749,14.0,2006_April
+250,160,N/A,KEN,Transport accident,Road,5.0,Technological,2006-0026-KEN,-1.0,Technological,74.39638749,15.0,2006_January
+251,161,N/A,KEN,Transport accident,Road,25.0,Technological,2006-0273-KEN,-1.0,Technological,74.39638749,29.0,2006_June
+252,162,N/A,KEN,Transport accident,Road,15.0,Technological,2006-0293-KEN,-1.0,Technological,74.39638749,13.0,2006_May
+253,163,N/A,KEN,Transport accident,Road,3.0,Technological,2006-0452-KEN,-1.0,Technological,74.39638749,11.0,2006_August
+254,164,N/A,KEN,Transport accident,Road,1.0,Technological,2006-0588-KEN,-1.0,Technological,74.39638749,12.0,2006_October
+255,165,N/A,KEN,Transport accident,Road,-1.0,Technological,2006-0594-KEN,-1.0,Technological,74.39638749,13.0,2006_November
+256,166,Building in construction,KEN,Industrial accident,Collapse,92.0,Technological,2006-0034-KEN,-1.0,Technological,74.39638749,20.0,2006_January
+257,167,N/A,MEX,Flood,Riverine flood,-1.0,Hydrological,2006-0413-MEX,-1.0,Natural,74.39638749,-1.0,2006_July
+258,168,N/A,MEX,Flood,Riverine flood,-1.0,Hydrological,2006-0413-MEX,-1.0,Natural,74.39638749,-1.0,2006_August
+259,169,N/A,MEX,Landslide,Landslide,-1.0,Hydrological,2006-0407-MEX,-1.0,Natural,74.39638749,11.0,2006_August
+260,170,N/A,MEX,Landslide,Landslide,-1.0,Hydrological,2006-0498-MEX,-1.0,Natural,74.39638749,10.0,2006_September
+261,171,N/A,MEX,Extreme temperature ,Cold wave,-1.0,Meteorological,2006-0709-MEX,-1.0,Natural,74.39638749,5.0,2006_November
+262,172,N/A,MEX,Transport accident,Road,3.0,Technological,2006-0193-MEX,-1.0,Technological,74.39638749,57.0,2006_April
+263,173,N/A,MEX,Transport accident,Road,-1.0,Technological,2006-0561-MEX,-1.0,Technological,74.39638749,14.0,2006_October
+264,174,N/A,MEX,Transport accident,Road,9.0,Technological,2006-0691-MEX,-1.0,Technological,74.39638749,22.0,2006_December
+265,175,Mine,MEX,Industrial accident,Explosion,8.0,Technological,2006-0101-MEX,-1.0,Technological,74.39638749,65.0,2006_February
+266,176,N/A,TCD,Flood,Riverine flood,-1.0,Hydrological,2006-0711-TCD,-1.0,Natural,74.39638749,52.0,2006_September
+267,177,N/A,TCD,Flood,Riverine flood,-1.0,Hydrological,2006-0711-TCD,-1.0,Natural,74.39638749,52.0,2006_October
+268,178,Cholera,TCD,Epidemic,Bacterial disease,216.0,Biological,2006-0639-TCD,-1.0,Natural,74.39638749,20.0,2006_June
+269,179,N/A,USA,Storm,Convective storm,600.0,Meteorological,2006-0706-USA,120974.0,Natural,74.39638749,-1.0,2006_December
+270,180,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2006-0707-USA,-1.0,Natural,74.39638749,-1.0,2006_December
+271,181,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2006-0718-USA,483894.0,Natural,74.39638749,-1.0,2006_December
+272,182,N/A,USA,Flood,Riverine flood,2400.0,Hydrological,2006-0344-USA,9409.0,Natural,74.39638749,2.0,2006_June
+273,183,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2006-0413-USA,134415.0,Natural,74.39638749,-1.0,2006_July
+274,184,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2006-0413-USA,134415.0,Natural,74.39638749,-1.0,2006_August
+275,185,N/A,USA,Flood,Riverine flood,600.0,Hydrological,2006-0418-USA,-1.0,Natural,74.39638749,1.0,2006_July
+276,186,N/A,USA,Flood,Riverine flood,150.0,Hydrological,2006-0461-USA,20834.0,Natural,74.39638749,-1.0,2006_August
+277,187,N/A,USA,Flood,Riverine flood,100.0,Hydrological,2006-0566-USA,-1.0,Natural,74.39638749,-1.0,2006_October
+278,188,N/A,USA,Flood,Riverine flood,1500.0,Hydrological,2006-0598-USA,-1.0,Natural,74.39638749,2.0,2006_November
+279,189,N/A,USA,Extreme temperature ,Heat wave,-1.0,Meteorological,2006-0387-USA,-1.0,Natural,74.39638749,164.0,2006_July
+280,190,N/A,USA,Extreme temperature ,Heat wave,-1.0,Meteorological,2006-0387-USA,-1.0,Natural,74.39638749,164.0,2006_August
+281,191,N/A,USA,Extreme temperature ,Heat wave,-1.0,Meteorological,2006-0427-USA,-1.0,Natural,74.39638749,24.0,2006_July
+282,192,N/A,USA,Extreme temperature ,Heat wave,-1.0,Meteorological,2006-0427-USA,-1.0,Natural,74.39638749,24.0,2006_August
+283,193,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",103.0,Climatological,2006-0576-USA,33604.0,Natural,74.39638749,4.0,2006_October
+284,194,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",15.0,Climatological,2006-0662-USA,33604.0,Natural,74.39638749,-1.0,2006_December
+285,195,N/A,USA,Transport accident,Air,1.0,Technological,2006-0478-USA,-1.0,Technological,74.39638749,49.0,2006_August
+286,196,"""Paquebot ""Crown princess""",USA,Transport accident,Water,100.0,Technological,2006-0399-USA,-1.0,Technological,74.39638749,-1.0,2006_July
+287,197,Mine,USA,Industrial accident,Explosion,7.0,Technological,2006-0005-USA,-1.0,Technological,74.39638749,13.0,2006_January
+288,198,Hall for mentally handicapped people,USA,Miscellaneous accident,Fire,19.0,Technological,2006-0637-USA,-1.0,Technological,74.39638749,10.0,2006_November
+289,199,N/A,USA,Wildfire,N/A,167.0,Climatological,2006-0374-USA,21506.0,Natural,74.39638749,1.0,2006_July
+290,200,N/A,USA,Storm,N/A,-1.0,Meteorological,2006-0744-USA,-1.0,Natural,74.39638749,10.0,2006_December
+291,201,N/A,VEN,Flood,Riverine flood,135.0,Hydrological,2006-0643-VEN,-1.0,Natural,74.39638749,-1.0,2006_October
+292,202,N/A,USA,Storm,N/A,220.0,Meteorological,2007-0026-USA,653435.0,Natural,76.5186792,65.0,2007_January
+293,203,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2007-0066-USA,182962.0,Natural,76.5186792,16.0,2007_February
+294,204,N/A,MEX,Transport accident,Road,25.0,Technological,2007-0038-MEX,-1.0,Technological,76.5186792,29.0,2007_January
+295,205,N/A,USA,Storm,Convective storm,6600.0,Meteorological,2007-0048-USA,169893.0,Natural,76.5186792,20.0,2007_February
+296,206,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2007-0041-USA,-1.0,Natural,76.5186792,24.0,2007_January
+297,207,N/A,AUS,Flood,Flash flood,5000.0,Hydrological,2007-0160-AUS,1698932.0,Natural,76.5186792,9.0,2007_June
+298,208,George and Jacob,AUS,Storm,Tropical cyclone,820.0,Meteorological,2007-0591-AUS,130687.0,Natural,76.5186792,2.0,2007_March
+299,209,N/A,AUS,Transport accident,Rail,23.0,Technological,2007-0714-AUS,-1.0,Technological,76.5186792,11.0,2007_June
+300,210,N/A,CAN,Flood,Riverine flood,500.0,Hydrological,2007-0165-CAN,-1.0,Natural,76.5186792,-1.0,2007_June
+301,211,N/A,CAN,Storm,N/A,-1.0,Meteorological,2007-0621-CAN,-1.0,Natural,76.5186792,4.0,2007_December
+302,212,N/A,CHE,Flood,Riverine flood,101.0,Hydrological,2007-0349-CHE,457405.0,Natural,76.5186792,1.0,2007_August
+303,213,N/A,DEU,Flood,Riverine flood,-1.0,Hydrological,2007-0349-DEU,-1.0,Natural,76.5186792,1.0,2007_August
+304,214,N/A,DEU,Transport accident,Road,30.0,Technological,2007-0223-DEU,-1.0,Technological,76.5186792,13.0,2007_June
+305,215,N/A,AUS,Storm,Convective storm,12000.0,Meteorological,2008-0525-AUS,566349.0,Natural,79.4563044,1.0,2008_November
+306,216,N/A,AUS,Flood,Riverine flood,1200.0,Hydrological,2008-0581-AUS,346102.0,Natural,79.4563044,4.0,2008_November
+307,217,Hilal,DEU,Storm,Convective storm,-1.0,Meteorological,2008-0653-DEU,1887830.0,Natural,79.4563044,3.0,2008_May
+308,218,Hilal,DEU,Storm,Convective storm,-1.0,Meteorological,2008-0653-DEU,1887830.0,Natural,79.4563044,3.0,2008_June
+309,219,Emma,DEU,Storm,Extra-tropical storm,-1.0,Meteorological,2008-0082-DEU,1510264.0,Natural,79.4563044,5.0,2008_February
+310,220,Emma,DEU,Storm,Extra-tropical storm,-1.0,Meteorological,2008-0082-DEU,1510264.0,Natural,79.4563044,5.0,2008_March
+311,221,N/A,CAN,Flood,Riverine flood,2000.0,Hydrological,2008-0264-CAN,-1.0,Natural,79.4563044,-1.0,2008_April
+312,222,N/A,CAN,Flood,Riverine flood,2000.0,Hydrological,2008-0264-CAN,-1.0,Natural,79.4563044,-1.0,2008_May
+313,223,N/A,AUS,Flood,Riverine flood,3000.0,Hydrological,2008-0014-AUS,113270.0,Natural,79.4563044,1.0,2008_January
+314,224,N/A,AUS,Flood,Riverine flood,3200.0,Hydrological,2008-0017-AUS,755132.0,Natural,79.4563044,-1.0,2008_January
+315,225,N/A,AUS,Flood,Riverine flood,3200.0,Hydrological,2008-0017-AUS,755132.0,Natural,79.4563044,-1.0,2008_February
+316,226,N/A,AUS,Flood,Riverine flood,1000.0,Hydrological,2008-0098-AUS,1384409.0,Natural,79.4563044,2.0,2008_February
+317,227,N/A,CAN,Flood,Riverine flood,400.0,Hydrological,2008-0170-CAN,-1.0,Natural,79.4563044,-1.0,2008_April
+318,228,Propone gaz facility,CAN,Industrial accident,Explosion,12518.0,Technological,2008-0606-CAN,-1.0,Technological,79.4563044,2.0,2008_August
+319,229,N/A,DEU,Extreme temperature ,Cold wave,-1.0,Meteorological,2008-0633-DEU,-1.0,Natural,79.4563044,1.0,2009_January
+320,230,N/A,DEU,Transport accident,Road,-1.0,Technological,2008-0664-DEU,-1.0,Technological,79.4563044,20.0,2008_November
+321,231,Factory,DEU,Industrial accident,Gas leak,107.0,Technological,2008-0337-DEU,-1.0,Technological,79.4563044,-1.0,2008_August
+322,232,Car factory,DEU,Industrial accident,Chemical spill,101.0,Technological,2008-0281-DEU,-1.0,Technological,79.4563044,-1.0,2008_July
+323,233,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",9954.0,Climatological,2009-0067-AUS,1641957.0,Natural,79.17380276,180.0,2009_February
+324,234,"Tropical storm ""Dominic""",AUS,Storm,Tropical cyclone,400.0,Meteorological,2009-0048-AUS,-1.0,Natural,79.17380276,-1.0,2009_January
+325,235,"Tropical storm ""Dominic""",AUS,Storm,Tropical cyclone,400.0,Meteorological,2009-0048-AUS,-1.0,Natural,79.17380276,-1.0,2009_February
+326,236,Helicopter,CAN,Transport accident,Air,1.0,Technological,2009-0099-CAN,-1.0,Technological,79.17380276,16.0,2009_March
+327,237,N/A,MEX,Flood,Riverine flood,1600000.0,Hydrological,2007-0521-MEX,3920611.0,Natural,76.5186792,22.0,2007_October
+328,238,N/A,MEX,Flood,Riverine flood,1600000.0,Hydrological,2007-0521-MEX,3920611.0,Natural,76.5186792,22.0,2007_November
+329,239,N/A,USA,Flood,Riverine flood,2840.0,Hydrological,2007-0383-USA,914809.0,Natural,76.5186792,26.0,2007_August
+330,240,Lorenzo,MEX,Storm,Tropical cyclone,33000.0,Meteorological,2007-0464-MEX,-1.0,Natural,76.5186792,5.0,2007_September
+331,241,Lorenzo,MEX,Storm,Tropical cyclone,33000.0,Meteorological,2007-0464-MEX,-1.0,Natural,76.5186792,5.0,2007_October
+332,242,N/A,USA,Storm,N/A,1128.0,Meteorological,2007-0581-USA,1306870.0,Natural,76.5186792,17.0,2007_December
+333,243,N/A,USA,Storm,Convective storm,40.0,Meteorological,2007-0662-USA,457405.0,Natural,76.5186792,12.0,2007_May
+334,244,N/A,USA,Storm,N/A,-1.0,Meteorological,2007-0663-USA,2613741.0,Natural,76.5186792,23.0,2007_April
+335,245,N/A,USA,Flood,Riverine flood,5000.0,Hydrological,2007-0244-USA,-1.0,Natural,76.5186792,8.0,2007_June
+336,246,N/A,USA,Flood,Riverine flood,5000.0,Hydrological,2007-0244-USA,-1.0,Natural,76.5186792,8.0,2007_July
+337,247,N/A,KEN,Flood,Riverine flood,2000.0,Hydrological,2007-0613-KEN,-1.0,Natural,76.5186792,4.0,2007_December
+338,248,N/A,MEX,Landslide,Landslide,-1.0,Hydrological,2007-0537-MEX,-1.0,Natural,76.5186792,16.0,2007_November
+339,249,N/A,KEN,Flood,Riverine flood,40000.0,Hydrological,2007-0408-KEN,-1.0,Natural,76.5186792,13.0,2007_August
+340,250,N/A,KEN,Flood,Riverine flood,40000.0,Hydrological,2007-0408-KEN,-1.0,Natural,76.5186792,13.0,2007_September
+341,251,N/A,KEN,Flood,Riverine flood,40000.0,Hydrological,2007-0408-KEN,-1.0,Natural,76.5186792,13.0,2007_October
+342,252,N/A,USA,Storm,N/A,-1.0,Meteorological,2007-0690-USA,392061.0,Natural,76.5186792,5.0,2007_May
+343,253,N/A,USA,Flood,Flash flood,120.0,Hydrological,2007-0251-USA,-1.0,Natural,76.5186792,4.0,2007_June
+344,254,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",640064.0,Climatological,2007-0519-USA,3267176.0,Natural,76.5186792,8.0,2007_October
+345,255,N/A,USA,Storm,N/A,27.0,Meteorological,2007-0689-USA,392061.0,Natural,76.5186792,4.0,2007_February
+346,256,Dean,MEX,Storm,Tropical cyclone,140000.0,Meteorological,2007-0360-MEX,784122.0,Natural,76.5186792,9.0,2007_August
+347,257,Felix,MEX,Storm,Tropical cyclone,30000.0,Meteorological,2007-0439-MEX,-1.0,Natural,76.5186792,-1.0,2007_September
+348,258,N/A,USA,Storm,Convective storm,280.0,Meteorological,2007-0156-USA,-1.0,Natural,76.5186792,10.0,2007_April
+349,259,Erin,USA,Storm,Tropical cyclone,-1.0,Meteorological,2007-0359-USA,-1.0,Natural,76.5186792,7.0,2007_August
+350,260,N/A,USA,Storm,N/A,-1.0,Meteorological,2007-0621-USA,-1.0,Natural,76.5186792,22.0,2007_December
+351,261,N/A,USA,Storm,N/A,2.0,Meteorological,2007-0641-USA,653435.0,Natural,76.5186792,24.0,2007_December
+352,262,N/A,KEN,Flood,Riverine flood,651.0,Hydrological,2007-0177-KEN,-1.0,Natural,76.5186792,2.0,2007_May
+353,263,N/A,KEN,Flood,Riverine flood,651.0,Hydrological,2007-0177-KEN,-1.0,Natural,76.5186792,2.0,2007_June
+354,264,N/A,KEN,Transport accident,Road,30.0,Technological,2007-0535-KEN,-1.0,Technological,76.5186792,16.0,2007_November
+355,265,N/A,KEN,Transport accident,Road,5.0,Technological,2007-0564-KEN,-1.0,Technological,76.5186792,15.0,2007_December
+356,266,N/A,KEN,Transport accident,Road,-1.0,Technological,2007-0583-KEN,-1.0,Technological,76.5186792,11.0,2007_November
+357,267,N/A,KEN,Transport accident,Road,10.0,Technological,2007-0589-KEN,-1.0,Technological,76.5186792,11.0,2007_November
+358,268,Wall,KEN,Miscellaneous accident,Collapse,-1.0,Technological,2007-0206-KEN,-1.0,Technological,76.5186792,14.0,2007_June
+359,269,N/A,KEN,Landslide,Mudslide,6.0,Hydrological,2007-0356-KEN,-1.0,Natural,76.5186792,20.0,2007_August
+360,270,N/A,MEX,Flood,Coastal flood,55000.0,Hydrological,2007-0435-MEX,-1.0,Natural,76.5186792,-1.0,2007_September
+361,271,Henriette,MEX,Storm,Tropical cyclone,-1.0,Meteorological,2007-0671-MEX,-1.0,Natural,76.5186792,6.0,2007_September
+362,272,N/A,MEX,Transport accident,Road,-1.0,Technological,2007-0266-MEX,-1.0,Technological,76.5186792,32.0,2007_July
+363,273,N/A,MEX,Transport accident,Road,120.0,Technological,2007-0434-MEX,-1.0,Technological,76.5186792,29.0,2007_September
+364,274,N/A,MEX,Transport accident,Road,12.0,Technological,2007-0445-MEX,-1.0,Technological,76.5186792,15.0,2007_September
+365,275,N/A,MEX,Transport accident,Water,-1.0,Technological,2007-0517-MEX,-1.0,Technological,76.5186792,24.0,2007_October
+366,276,Oil plateform,MEX,Industrial accident,Gas leak,63.0,Technological,2007-0549-MEX,-1.0,Technological,76.5186792,23.0,2007_October
+367,277,N/A,TCD,Flood,Riverine flood,170000.0,Hydrological,2007-0403-TCD,-1.0,Natural,76.5186792,12.0,2007_August
+368,278,N/A,TCD,Flood,Riverine flood,170000.0,Hydrological,2007-0403-TCD,-1.0,Natural,76.5186792,12.0,2007_September
+369,279,N/A,TCD,Flood,Riverine flood,3000.0,Hydrological,2007-0411-TCD,-1.0,Natural,76.5186792,3.0,2007_August
+370,280,N/A,TCD,Storm,N/A,145.0,Meteorological,2007-0375-TCD,-1.0,Natural,76.5186792,14.0,2007_May
+371,281,N/A,USA,Storm,Convective storm,20.0,Meteorological,2007-0083-USA,784122.0,Natural,76.5186792,20.0,2007_March
+372,282,N/A,USA,Flood,Riverine flood,100.0,Hydrological,2007-0173-USA,-1.0,Natural,76.5186792,8.0,2007_May
+373,283,N/A,USA,Flood,Riverine flood,750.0,Hydrological,2007-0254-USA,36592.0,Natural,76.5186792,10.0,2007_June
+374,284,N/A,USA,Wildfire,Forest fire,768.0,Climatological,2007-0351-USA,-1.0,Natural,76.5186792,-1.0,2007_June
+375,285,N/A,USA,Wildfire,Forest fire,768.0,Climatological,2007-0351-USA,-1.0,Natural,76.5186792,-1.0,2007_July
+376,286,N/A,USA,Wildfire,Forest fire,10159.0,Climatological,2007-0579-USA,411664.0,Natural,76.5186792,-1.0,2007_November
+377,287,Cessna 208B,USA,Transport accident,Air,-1.0,Technological,2007-0493-USA,-1.0,Technological,76.5186792,10.0,2007_October
+378,288,Bridge,USA,Miscellaneous accident,Collapse,60.0,Technological,2007-0336-USA,-1.0,Technological,76.5186792,29.0,2007_August
+379,289,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2007_October
+380,290,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2007_November
+381,291,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2007_December
+382,292,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_January
+383,293,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_February
+384,294,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_March
+385,295,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_April
+386,296,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_May
+387,297,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_June
+388,298,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_July
+389,299,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_August
+390,300,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_September
+391,301,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_October
+392,302,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_November
+393,303,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2008_December
+394,304,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2009_January
+395,305,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2009_February
+396,306,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2009_March
+397,307,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2009_April
+398,308,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2009_May
+399,309,N/A,USA,Drought,Drought,-1.0,Climatological,2007-9548-USA,392061.0,Natural,76.5186792,-1.0,2009_June
+400,310,Home,USA,Miscellaneous accident,Fire,-1.0,Technological,2007-0118-USA,-1.0,Technological,76.5186792,10.0,2007_March
+401,311,N/A,VEN,Transport accident,Road,5.0,Technological,2007-0209-VEN,-1.0,Technological,76.5186792,29.0,2007_May
+402,312,Hurricane Dolly,MEX,Storm,Tropical cyclone,500000.0,Meteorological,2008-0304-MEX,94392.0,Natural,79.4563044,2.0,2008_July
+403,313,N/A,USA,Flood,Riverine flood,1500.0,Hydrological,2008-0010-USA,-1.0,Natural,79.4563044,2.0,2008_January
+404,314,N/A,USA,Storm,Convective storm,70.0,Meteorological,2008-0210-USA,2013685.0,Natural,79.4563044,7.0,2008_May
+405,315,N/A,USA,Storm,Convective storm,150.0,Meteorological,2008-0194-USA,880987.0,Natural,79.4563044,22.0,2008_May
+406,316,N/A,USA,Storm,Convective storm,150.0,Meteorological,2008-0039-USA,1636119.0,Natural,79.4563044,59.0,2008_February
+407,317,N/A,USA,Storm,Convective storm,177.0,Meteorological,2008-0115-USA,566349.0,Natural,79.4563044,2.0,2008_March
+408,318,Hurricane Dolly,USA,Storm,Tropical cyclone,-1.0,Meteorological,2008-0304-USA,1510264.0,Natural,79.4563044,-1.0,2008_July
+409,319,N/A,KEN,Flood,Riverine flood,30770.0,Hydrological,2008-0518-KEN,-1.0,Natural,79.4563044,17.0,2008_November
+410,320,N/A,VEN,Flood,Riverine flood,1500.0,Hydrological,2008-0580-VEN,-1.0,Natural,79.4563044,8.0,2008_November
+411,321,N/A,USA,Flood,Riverine flood,1000.0,Hydrological,2008-0131-USA,2517.0,Natural,79.4563044,18.0,2008_March
+412,322,N/A,USA,Flood,Riverine flood,1000.0,Hydrological,2008-0131-USA,2517.0,Natural,79.4563044,18.0,2008_April
+413,323,N/A,USA,Flood,Riverine flood,11000148.0,Hydrological,2008-0627-USA,12585534.0,Natural,79.4563044,24.0,2008_June
+414,324,"Tropical Storm ""Fay""",USA,Storm,Tropical cyclone,400.0,Meteorological,2008-0338-USA,226540.0,Natural,79.4563044,12.0,2008_August
+415,325,Hurricane Ike,USA,Storm,Tropical cyclone,200000.0,Meteorological,2008-0384-USA,37756601.0,Natural,79.4563044,82.0,2008_September
+416,326,N/A,KEN,Flood,Flash flood,6000.0,Hydrological,2008-0482-KEN,-1.0,Natural,79.4563044,3.0,2008_October
+417,327,N/A,KEN,Flood,Riverine flood,700.0,Hydrological,2008-0127-KEN,-1.0,Natural,79.4563044,-1.0,2008_March
+418,328,N/A,KEN,Flood,Riverine flood,700.0,Hydrological,2008-0127-KEN,-1.0,Natural,79.4563044,-1.0,2008_April
+419,329,N/A,KEN,Flood,Riverine flood,8658.0,Hydrological,2008-0260-KEN,-1.0,Natural,79.4563044,16.0,2008_June
+420,330,N/A,KEN,Flood,Riverine flood,6310.0,Hydrological,2008-0483-KEN,-1.0,Natural,79.4563044,17.0,2008_October
+421,331,N/A,KEN,Landslide,Landslide,20.0,Hydrological,2008-0513-KEN,-1.0,Natural,79.4563044,10.0,2008_November
+422,332,Cholera,KEN,Epidemic,Bacterial disease,-1.0,Biological,2008-0100-KEN,-1.0,Natural,79.4563044,43.0,2008_February
+423,333,N/A,KEN,Transport accident,Road,24.0,Technological,2008-0376-KEN,-1.0,Technological,79.4563044,15.0,2008_September
+424,334,N/A,KEN,Flood,N/A,10000.0,Hydrological,2008-0129-KEN,-1.0,Natural,79.4563044,2.0,2008_March
+425,335,N/A,KEN,Flood,N/A,10000.0,Hydrological,2008-0129-KEN,-1.0,Natural,79.4563044,2.0,2008_April
+426,336,N/A,MEX,Flood,Flash flood,20000.0,Hydrological,2008-0288-MEX,-1.0,Natural,79.4563044,12.0,2008_July
+427,337,N/A,MEX,Landslide,Landslide,-1.0,Hydrological,2008-0433-MEX,-1.0,Natural,79.4563044,22.0,2008_September
+428,338,Helicopter Bell-212,MEX,Transport accident,Air,-1.0,Technological,2008-0158-MEX,-1.0,Technological,79.4563044,11.0,2008_April
+429,339,Bi-motor,MEX,Transport accident,Air,7.0,Technological,2008-0531-MEX,-1.0,Technological,79.4563044,15.0,2008_November
+430,340,N/A,MEX,Transport accident,Road,-1.0,Technological,2008-0198-MEX,-1.0,Technological,79.4563044,24.0,2008_May
+431,341,N/A,MEX,Transport accident,Road,28.0,Technological,2008-0255-MEX,-1.0,Technological,79.4563044,14.0,2008_June
+432,342,N/A,MEX,Transport accident,Road,-1.0,Technological,2008-0287-MEX,-1.0,Technological,79.4563044,11.0,2008_July
+433,343,N/A,MEX,Transport accident,Road,20.0,Technological,2008-0494-MEX,-1.0,Technological,79.4563044,11.0,2008_October
+434,344,N/A,MEX,Transport accident,Road,5.0,Technological,2008-0512-MEX,-1.0,Technological,79.4563044,17.0,2008_November
+435,345,N/A,MEX,Miscellaneous accident,Other,20.0,Technological,2008-0248-MEX,-1.0,Technological,79.4563044,12.0,2008_June
+436,346,N/A,TCD,Flood,Riverine flood,6450.0,Hydrological,2008-0367-TCD,-1.0,Natural,79.4563044,-1.0,2008_July
+437,347,N/A,TCD,Flood,Riverine flood,6450.0,Hydrological,2008-0367-TCD,-1.0,Natural,79.4563044,-1.0,2008_August
+438,348,N/A,TCD,Flood,Riverine flood,8000.0,Hydrological,2008-0445-TCD,-1.0,Natural,79.4563044,-1.0,2008_September
+439,349,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_January
+440,350,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_February
+441,351,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_March
+442,352,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_April
+443,353,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_May
+444,354,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_June
+445,355,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_July
+446,356,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_August
+447,357,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_September
+448,358,Hepatite E,TCD,Epidemic,Viral disease,1755.0,Biological,2008-0448-TCD,-1.0,Natural,79.4563044,22.0,2008_October
+449,359,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2008-0599-USA,755132.0,Natural,79.4563044,4.0,2008_January
+450,360,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2008-0601-USA,1384409.0,Natural,79.4563044,3.0,2008_April
+451,361,N/A,USA,Storm,Convective storm,200.0,Meteorological,2008-0645-USA,138441.0,Natural,79.4563044,-1.0,2008_April
+452,362,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2008-0654-USA,453079.0,Natural,79.4563044,5.0,2008_December
+453,363,N/A,USA,Extreme temperature ,Severe winter conditions,-1.0,Meteorological,2008-0563-USA,-1.0,Natural,79.4563044,-1.0,2008_December
+454,364,N/A,USA,Earthquake,Ground movement,2103.0,Geophysical,2008-0099-USA,-1.0,Natural,79.4563044,-1.0,2008_February
+455,365,N/A,USA,Flood,Riverine flood,30000.0,Hydrological,2008-0638-USA,-1.0,Natural,79.4563044,-1.0,2008_December
+456,366,N/A,USA,Flood,Riverine flood,30000.0,Hydrological,2008-0638-USA,-1.0,Natural,79.4563044,-1.0,2009_January
+457,367,N/A,USA,Storm,Extra-tropical storm,-1.0,Meteorological,2008-0600-USA,1258553.0,Natural,79.4563044,12.0,2008_January
+458,368,"Hurricane ""Gustav""",USA,Storm,Tropical cyclone,2100000.0,Meteorological,2008-0352-USA,8809874.0,Natural,79.4563044,43.0,2008_September
+459,369,Hurricane Hanna,USA,Storm,Tropical cyclone,-1.0,Meteorological,2008-0378-USA,201369.0,Natural,79.4563044,7.0,2008_August
+460,370,N/A,USA,Wildfire,Forest fire,300.0,Climatological,2008-0253-USA,128372.0,Natural,79.4563044,1.0,2008_June
+461,371,N/A,USA,Wildfire,Forest fire,300.0,Climatological,2008-0253-USA,128372.0,Natural,79.4563044,1.0,2008_July
+462,372,Bimoteur,USA,Transport accident,Air,-1.0,Technological,2008-0356-USA,-1.0,Technological,79.4563044,10.0,2008_August
+463,373,N/A,USA,Transport accident,Road,26.0,Technological,2008-0330-USA,-1.0,Technological,79.4563044,12.0,2008_August
+464,374,N/A,USA,Transport accident,Road,30.0,Technological,2008-0474-USA,-1.0,Technological,79.4563044,10.0,2008_October
+465,375,N/A,USA,Transport accident,Rail,135.0,Technological,2008-0404-USA,-1.0,Technological,79.4563044,25.0,2008_September
+466,376,House,USA,Miscellaneous accident,Fire,2.0,Technological,2008-0143-USA,-1.0,Technological,79.4563044,10.0,2008_April
+467,377,N/A,USA,Wildfire,N/A,55020.0,Climatological,2008-0524-USA,2517107.0,Natural,79.4563044,-1.0,2008_November
+468,378,N/A,VEN,Transport accident,Air,-1.0,Technological,2008-0011-VEN,-1.0,Technological,79.4563044,14.0,2008_January
+469,379,ATR42,VEN,Transport accident,Air,-1.0,Technological,2008-0090-VEN,-1.0,Technological,79.4563044,46.0,2008_February
+470,380,N/A,VEN,Transport accident,Road,21.0,Technological,2008-0225-VEN,-1.0,Technological,79.4563044,11.0,2008_June
+471,381,N/A,USA,Storm,Convective storm,822.0,Meteorological,2009-0140-USA,2147175.0,Natural,79.17380276,9.0,2009_April
+472,382,N/A,KEN,Transport accident,Road,24.0,Technological,2009-0051-KEN,-1.0,Technological,79.17380276,29.0,2009_January
+473,383,Petrol Tanker,KEN,Miscellaneous accident,Explosion,100.0,Technological,2009-0058-KEN,-1.0,Technological,79.17380276,107.0,2009_January
+474,384,Petrol Tanker,KEN,Miscellaneous accident,Explosion,100.0,Technological,2009-0058-KEN,-1.0,Technological,79.17380276,107.0,2009_February
+475,385,"Supermarket ""Nakumatt Downtown""",KEN,Miscellaneous accident,Fire,-1.0,Technological,2009-0060-KEN,-1.0,Technological,79.17380276,56.0,2009_January
+476,386,N/A,MEX,Transport accident,Road,18.0,Technological,2009-0113-MEX,-1.0,Technological,79.17380276,11.0,2009_March
+477,387,N/A,MEX,Transport accident,Road,66.0,Technological,2009-0151-MEX,-1.0,Technological,79.17380276,18.0,2009_April
+478,388,Gas intoxication,MEX,Industrial accident,Other,1.0,Technological,2009-0115-MEX,-1.0,Technological,79.17380276,11.0,2009_March
+479,389,Meningitis,TCD,Epidemic,Viral disease,871.0,Biological,2009-0150-TCD,-1.0,Natural,79.17380276,102.0,2009_January
+480,390,Meningitis,TCD,Epidemic,Viral disease,871.0,Biological,2009-0150-TCD,-1.0,Natural,79.17380276,102.0,2009_February
+481,391,Meningitis,TCD,Epidemic,Viral disease,871.0,Biological,2009-0150-TCD,-1.0,Natural,79.17380276,102.0,2009_March
+482,392,Meningitis,TCD,Epidemic,Viral disease,871.0,Biological,2009-0150-TCD,-1.0,Natural,79.17380276,102.0,2009_April
+483,393,N/A,USA,Flood,Riverine flood,5060.0,Hydrological,2009-0106-USA,209665.0,Natural,79.17380276,2.0,2009_March
+484,394,N/A,USA,Flood,Riverine flood,5060.0,Hydrological,2009-0106-USA,209665.0,Natural,79.17380276,2.0,2009_April
+485,395,N/A,USA,Extreme temperature ,Cold wave,-1.0,Meteorological,2009-0056-USA,1389348.0,Natural,79.17380276,58.0,2009_January
+486,396,Bombardier Dash 8 Q400,USA,Transport accident,Air,-1.0,Technological,2009-0071-USA,-1.0,Technological,79.17380276,50.0,2009_February
+487,397,N/A,USA,Transport accident,Air,-1.0,Technological,2009-0111-USA,-1.0,Technological,79.17380276,14.0,2009_March
+488,398,N/A,CHE,Storm,Convective storm,-1.0,Meteorological,2009-0273-CHE,1263044.0,Natural,79.17380276,-1.0,2009_July
+489,399,N/A,AUS,Storm,Convective storm,15000.0,Meteorological,2009-0230-AUS,75783.0,Natural,79.17380276,1.0,2009_May
+490,400,N/A,AUS,Flood,Riverine flood,200.0,Hydrological,2009-0589-AUS,-1.0,Natural,79.17380276,-1.0,2009_December
+491,401,N/A,AUS,Flood,Riverine flood,9000.0,Hydrological,2009-0615-AUS,189457.0,Natural,79.17380276,7.0,2009_January
+492,402,N/A,AUS,Flood,Riverine flood,9000.0,Hydrological,2009-0615-AUS,189457.0,Natural,79.17380276,7.0,2009_February
+493,403,N/A,AUS,Extreme temperature ,Heat wave,2000.0,Meteorological,2009-0616-AUS,-1.0,Natural,79.17380276,347.0,2009_January
+494,404,N/A,AUS,Extreme temperature ,Heat wave,2000.0,Meteorological,2009-0616-AUS,-1.0,Natural,79.17380276,347.0,2009_February
+495,405,N/A,AUS,Transport accident,Water,15.0,Technological,2009-0467-AUS,-1.0,Technological,79.17380276,25.0,2009_November
+496,406,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2009-0619-CAN,631522.0,Natural,79.17380276,2.0,2009_August
+497,407,N/A,CAN,Flood,Riverine flood,200.0,Hydrological,2009-0189-CAN,-1.0,Natural,79.17380276,-1.0,2009_April
+498,408,Hurricane Bill,CAN,Storm,Tropical cyclone,3.0,Meteorological,2009-0342-CAN,-1.0,Natural,79.17380276,-1.0,2009_August
+499,409,N/A,DEU,Storm,Convective storm,-1.0,Meteorological,2009-0273-DEU,63152.0,Natural,79.17380276,1.0,2009_July
+500,410,N/A,DEU,Flood,Riverine flood,-1.0,Hydrological,2009-0228-DEU,25261.0,Natural,79.17380276,-1.0,2009_June
+501,411,N/A,DEU,Extreme temperature ,Cold wave,-1.0,Meteorological,2009-0571-DEU,-1.0,Natural,79.17380276,14.0,2009_December
+502,412,N/A,DEU,Extreme temperature ,Cold wave,-1.0,Meteorological,2009-0571-DEU,-1.0,Natural,79.17380276,14.0,2010_January
+503,413,N/A,AUS,Storm,Convective storm,-1.0,Meteorological,2010-0102-AUS,1652743.0,Natural,80.47228515,-1.0,2010_March
+504,414,N/A,AUS,Flood,Riverine flood,10000.0,Hydrological,2010-0465-AUS,-1.0,Natural,80.47228515,-1.0,2010_September
+505,415,N/A,AUS,Storm,Convective storm,-1.0,Meteorological,2010-0125-AUS,1727303.0,Natural,80.47228515,-1.0,2010_March
+506,416,N/A,DEU,Flood,Flash flood,-1.0,Hydrological,2010-0380-DEU,-1.0,Natural,80.47228515,3.0,2010_August
+507,417,N/A,AUS,Flood,Riverine flood,-1.0,Hydrological,2010-0066-AUS,-1.0,Natural,80.47228515,-1.0,2010_February
+508,418,N/A,AUS,Flood,Riverine flood,-1.0,Hydrological,2010-0103-AUS,135450.0,Natural,80.47228515,-1.0,2010_February
+509,419,N/A,AUS,Flood,Riverine flood,-1.0,Hydrological,2010-0103-AUS,135450.0,Natural,80.47228515,-1.0,2010_March
+510,420,N/A,AUS,Flood,Riverine flood,1000.0,Hydrological,2010-0624-AUS,-1.0,Natural,80.47228515,-1.0,2010_November
+511,421,N/A,AUS,Flood,Riverine flood,1000.0,Hydrological,2010-0624-AUS,-1.0,Natural,80.47228515,-1.0,2010_December
+512,422,N/A,AUS,Flood,Riverine flood,175000.0,Hydrological,2010-0656-AUS,9071446.0,Natural,80.47228515,35.0,2010_December
+513,423,N/A,AUS,Flood,Riverine flood,175000.0,Hydrological,2010-0656-AUS,9071446.0,Natural,80.47228515,35.0,2011_January
+514,424,N/A,AUS,Flood,Riverine flood,175000.0,Hydrological,2010-0656-AUS,9071446.0,Natural,80.47228515,35.0,2011_February
+515,425,"Cyclone ""Ului""",AUS,Storm,Tropical cyclone,-1.0,Meteorological,2010-0120-AUS,-1.0,Natural,80.47228515,1.0,2010_March
+516,426,N/A,AUS,Transport accident,Water,42.0,Technological,2010-0635-AUS,-1.0,Technological,80.47228515,48.0,2010_December
+517,427,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2010-0655-CAN,-1.0,Natural,80.47228515,-1.0,2010_December
+518,428,Xynthia,CHE,Storm,Extra-tropical storm,-1.0,Meteorological,2010-0088-CHE,17397.0,Natural,80.47228515,-1.0,2010_February
+519,429,N/A,CHE,Extreme temperature ,Cold wave,-1.0,Meteorological,2010-0615-CHE,-1.0,Natural,80.47228515,-1.0,2010_November
+520,430,N/A,CHE,Extreme temperature ,Cold wave,-1.0,Meteorological,2010-0615-CHE,-1.0,Natural,80.47228515,-1.0,2010_December
+521,431,N/A,DEU,Storm,Convective storm,-1.0,Meteorological,2010-0652-DEU,-1.0,Natural,80.47228515,-1.0,2010_December
+522,432,Xynthia,DEU,Storm,Extra-tropical storm,-1.0,Meteorological,2010-0088-DEU,1242664.0,Natural,80.47228515,4.0,2010_February
+523,433,N/A,DEU,Extreme temperature ,Cold wave,-1.0,Meteorological,2010-0615-DEU,-1.0,Natural,80.47228515,1.0,2010_November
+524,434,N/A,DEU,Extreme temperature ,Cold wave,-1.0,Meteorological,2010-0615-DEU,-1.0,Natural,80.47228515,1.0,2010_December
+525,435,N/A,DEU,Transport accident,Road,6.0,Technological,2010-0507-DEU,-1.0,Technological,80.47228515,12.0,2010_September
+526,436,Stampede,DEU,Miscellaneous accident,Other,650.0,Technological,2010-0299-DEU,-1.0,Technological,80.47228515,21.0,2010_July
+527,437,"Tropical Cyclone ""Yasi""",AUS,Storm,Tropical cyclone,7300.0,Meteorological,2011-0070-AUS,3011588.0,Natural,83.01267439,1.0,2011_February
+528,438,N/A,AUS,Flood,Riverine flood,217.0,Hydrological,2011-0080-AUS,-1.0,Natural,83.01267439,-1.0,2011_March
+529,439,N/A,CAN,Flood,Riverine flood,2000.0,Hydrological,2011-0131-CAN,963708.0,Natural,83.01267439,5.0,2011_April
+530,440,N/A,CAN,Flood,Riverine flood,2000.0,Hydrological,2011-0131-CAN,963708.0,Natural,83.01267439,5.0,2011_May
+531,441,N/A,DEU,Flood,Riverine flood,-1.0,Hydrological,2011-0012-DEU,-1.0,Natural,83.01267439,4.0,2011_January
+532,442,N/A,DEU,Transport accident,Rail,-1.0,Technological,2011-0035-DEU,-1.0,Technological,83.01267439,10.0,2011_January
+533,443,Hurricane Jimena,MEX,Storm,Tropical cyclone,72000.0,Meteorological,2009-0384-MEX,50522.0,Natural,79.17380276,4.0,2009_September
+534,444,N/A,USA,Storm,Convective storm,2.0,Meteorological,2009-0601-USA,2526088.0,Natural,79.17380276,1.0,2009_June
+535,445,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2009-0244-USA,303131.0,Natural,79.17380276,6.0,2009_April
+536,446,N/A,KEN,Flood,Riverine flood,44850.0,Hydrological,2009-0494-KEN,-1.0,Natural,79.17380276,16.0,2009_October
+537,447,N/A,KEN,Flood,Riverine flood,44850.0,Hydrological,2009-0494-KEN,-1.0,Natural,79.17380276,16.0,2009_November
+538,448,N/A,KEN,Flood,Riverine flood,91350.0,Hydrological,2009-0597-KEN,-1.0,Natural,79.17380276,40.0,2009_December
+539,449,N/A,KEN,Flood,Riverine flood,91350.0,Hydrological,2009-0597-KEN,-1.0,Natural,79.17380276,40.0,2010_January
+540,450,N/A,MEX,Flood,Riverine flood,18000.0,Hydrological,2009-0377-MEX,-1.0,Natural,79.17380276,3.0,2009_September
+541,451,N/A,USA,Flood,Riverine flood,900.0,Hydrological,2009-0184-USA,-1.0,Natural,79.17380276,-1.0,2009_May
+542,452,N/A,TCD,Flood,Riverine flood,8020.0,Hydrological,2009-0498-TCD,-1.0,Natural,79.17380276,3.0,2009_August
+543,453,N/A,USA,Storm,Convective storm,25.0,Meteorological,2009-0644-USA,1894566.0,Natural,79.17380276,6.0,2009_March
+544,454,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2009-0603-USA,1263044.0,Natural,79.17380276,1.0,2009_July
+545,455,N/A,USA,Storm,Convective storm,50.0,Meteorological,2009-0287-USA,3157610.0,Natural,79.17380276,16.0,2009_February
+546,456,"Hurricane ""Ida""",USA,Storm,Tropical cyclone,-1.0,Meteorological,2009-0477-USA,757826.0,Natural,79.17380276,6.0,2009_November
+547,457,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2009_December
+548,458,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2010_January
+549,459,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2010_February
+550,460,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2010_March
+551,461,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2010_April
+552,462,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2010_May
+553,463,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2010_June
+554,464,N/A,TCD,Drought,Drought,2400000.0,Climatological,2009-9654-TCD,-1.0,Natural,79.17380276,-1.0,2010_July
+555,465,Hurricane Bill,USA,Storm,Tropical cyclone,9.0,Meteorological,2009-0342-USA,-1.0,Natural,79.17380276,3.0,2009_August
+556,466,Cholera,KEN,Epidemic,Bacterial disease,10048.0,Biological,2009-0202-KEN,-1.0,Natural,79.17380276,201.0,2009_January
+557,467,Cholera,KEN,Epidemic,Bacterial disease,10048.0,Biological,2009-0202-KEN,-1.0,Natural,79.17380276,201.0,2009_February
+558,468,Cholera,KEN,Epidemic,Bacterial disease,10048.0,Biological,2009-0202-KEN,-1.0,Natural,79.17380276,201.0,2009_March
+559,469,Cholera,KEN,Epidemic,Bacterial disease,10048.0,Biological,2009-0202-KEN,-1.0,Natural,79.17380276,201.0,2009_April
+560,470,Cholera,KEN,Epidemic,Bacterial disease,10048.0,Biological,2009-0202-KEN,-1.0,Natural,79.17380276,201.0,2009_May
+561,471,Cholera,KEN,Epidemic,Bacterial disease,193.0,Biological,2009-0549-KEN,-1.0,Natural,79.17380276,24.0,2009_November
+562,472,Cholera,KEN,Epidemic,Bacterial disease,193.0,Biological,2009-0549-KEN,-1.0,Natural,79.17380276,24.0,2009_December
+563,473,Cholera,KEN,Epidemic,Bacterial disease,205.0,Biological,2009-0576-KEN,-1.0,Natural,79.17380276,26.0,2009_November
+564,474,Cholera,KEN,Epidemic,Bacterial disease,205.0,Biological,2009-0576-KEN,-1.0,Natural,79.17380276,26.0,2009_December
+565,475,N/A,KEN,Transport accident,Road,50.0,Technological,2009-0281-KEN,-1.0,Technological,79.17380276,21.0,2009_July
+566,476,Building collapse,KEN,Miscellaneous accident,Collapse,-1.0,Technological,2009-0456-KEN,-1.0,Technological,79.17380276,41.0,2009_October
+567,477,N/A,KEN,Miscellaneous accident,Fire,2500.0,Technological,2009-0361-KEN,-1.0,Technological,79.17380276,-1.0,2009_September
+568,478,N/A,MEX,Flood,Riverine flood,1500.0,Hydrological,2009-0367-MEX,-1.0,Natural,79.17380276,4.0,2009_September
+569,479,N/A,MEX,Flood,Riverine flood,107670.0,Hydrological,2009-0515-MEX,-1.0,Natural,79.17380276,-1.0,2009_November
+570,480,N/A,MEX,Flood,Riverine flood,13014.0,Hydrological,2009-0561-MEX,-1.0,Natural,79.17380276,10.0,2009_October
+571,481,N/A,MEX,Flood,Riverine flood,-1.0,Hydrological,2009-0614-MEX,-1.0,Natural,79.17380276,11.0,2009_July
+572,482,"Hurricane ""Ida""",MEX,Storm,Tropical cyclone,40000.0,Meteorological,2009-0477-MEX,-1.0,Natural,79.17380276,-1.0,2009_November
+573,483,Dengue,MEX,Epidemic,Viral disease,41687.0,Biological,2009-0594-MEX,-1.0,Natural,79.17380276,-1.0,2009_October
+574,484,Dengue,MEX,Epidemic,Viral disease,41687.0,Biological,2009-0594-MEX,-1.0,Natural,79.17380276,-1.0,2009_November
+575,485,Dengue,MEX,Epidemic,Viral disease,41687.0,Biological,2009-0594-MEX,-1.0,Natural,79.17380276,-1.0,2009_December
+576,486,Nursery,MEX,Miscellaneous accident,Fire,30.0,Technological,2009-0216-MEX,-1.0,Technological,79.17380276,49.0,2009_June
+577,487,N/A,TCD,Flood,Riverine flood,4895.0,Hydrological,2009-0433-TCD,-1.0,Natural,79.17380276,3.0,2009_September
+578,488,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2009-0604-USA,1073587.0,Natural,79.17380276,7.0,2009_May
+579,489,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2009-0599-USA,-1.0,Natural,79.17380276,19.0,2009_December
+580,490,N/A,USA,Flood,Riverine flood,1000.0,Hydrological,2009-0190-USA,-1.0,Natural,79.17380276,-1.0,2009_April
+581,491,N/A,USA,Flood,Riverine flood,3000.0,Hydrological,2009-0405-USA,631522.0,Natural,79.17380276,9.0,2009_September
+582,492,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",263.0,Climatological,2009-0178-USA,126304.0,Natural,79.17380276,-1.0,2009_May
+583,493,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",192.0,Climatological,2009-0349-USA,-1.0,Natural,79.17380276,2.0,2009_July
+584,494,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",192.0,Climatological,2009-0349-USA,-1.0,Natural,79.17380276,2.0,2009_August
+585,495,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",192.0,Climatological,2009-0349-USA,-1.0,Natural,79.17380276,2.0,2009_September
+586,496,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",192.0,Climatological,2009-0349-USA,-1.0,Natural,79.17380276,2.0,2009_October
+587,497,N/A,USA,Transport accident,Water,16.0,Technological,2009-0180-USA,-1.0,Technological,79.17380276,12.0,2009_May
+588,498,Helicopter,VEN,Transport accident,Air,-1.0,Technological,2009-0173-VEN,-1.0,Technological,79.17380276,18.0,2009_May
+589,499,Tropical storm Matthew,MEX,Storm,Tropical cyclone,1075.0,Meteorological,2010-0503-MEX,-1.0,Natural,80.47228515,3.0,2010_September
+590,500,Tropical storm Matthew,VEN,Storm,Tropical cyclone,-1.0,Meteorological,2010-0503-VEN,-1.0,Natural,80.47228515,8.0,2010_September
+591,501,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2010-0690-USA,-1.0,Natural,80.47228515,20.0,2010_May
+592,502,N/A,MEX,Flood,Riverine flood,20000.0,Hydrological,2010-0058-MEX,19883.0,Natural,80.47228515,41.0,2010_January
+593,503,N/A,MEX,Flood,Riverine flood,20000.0,Hydrological,2010-0058-MEX,19883.0,Natural,80.47228515,41.0,2010_February
+594,504,Hurricane Frank,MEX,Storm,Tropical cyclone,154000.0,Meteorological,2010-0426-MEX,-1.0,Natural,80.47228515,6.0,2010_August
+595,505,N/A,KEN,Flood,Riverine flood,141164.0,Hydrological,2010-0094-KEN,-1.0,Natural,80.47228515,94.0,2010_March
+596,506,N/A,KEN,Flood,Riverine flood,141164.0,Hydrological,2010-0094-KEN,-1.0,Natural,80.47228515,94.0,2010_April
+597,507,N/A,KEN,Flood,Riverine flood,141164.0,Hydrological,2010-0094-KEN,-1.0,Natural,80.47228515,94.0,2010_May
+598,508,N/A,MEX,Flood,Riverine flood,1000000.0,Hydrological,2010-0467-MEX,-1.0,Natural,80.47228515,25.0,2010_September
+599,509,N/A,VEN,Flood,Riverine flood,94800.0,Hydrological,2010-0616-VEN,211253.0,Natural,80.47228515,41.0,2010_November
+600,510,N/A,VEN,Flood,Riverine flood,94800.0,Hydrological,2010-0616-VEN,211253.0,Natural,80.47228515,41.0,2010_December
+601,511,N/A,USA,Storm,Convective storm,58.0,Meteorological,2010-0196-USA,3355192.0,Natural,80.47228515,5.0,2010_May
+602,512,Hurricane Earl,USA,Storm,Tropical cyclone,-1.0,Meteorological,2010-0468-USA,124266.0,Natural,80.47228515,1.0,2010_September
+603,513,"Tropical storm ""Alex""",MEX,Storm,Tropical cyclone,170000.0,Meteorological,2010-0260-MEX,2485328.0,Natural,80.47228515,22.0,2010_June
+604,514,"Tropical storm ""Alex""",MEX,Storm,Tropical cyclone,170000.0,Meteorological,2010-0260-MEX,2485328.0,Natural,80.47228515,22.0,2010_July
+605,515,Hurricane Karl,MEX,Storm,Tropical cyclone,230000.0,Meteorological,2010-0494-MEX,4846389.0,Natural,80.47228515,12.0,2010_September
+606,516,N/A,USA,Storm,Convective storm,100.0,Meteorological,2010-0689-USA,-1.0,Natural,80.47228515,20.0,2010_June
+607,517,N/A,USA,Storm,Convective storm,8000.0,Meteorological,2010-0187-USA,2920260.0,Natural,80.47228515,30.0,2010_April
+608,518,N/A,USA,Storm,Convective storm,8000.0,Meteorological,2010-0187-USA,2920260.0,Natural,80.47228515,30.0,2010_May
+609,519,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2010-0612-USA,1863996.0,Natural,80.47228515,11.0,2010_March
+610,520,Tropical storm Hermine,USA,Storm,Tropical cyclone,-1.0,Meteorological,2010-0522-USA,-1.0,Natural,80.47228515,8.0,2010_September
+611,521,N/A,KEN,Drought,Drought,4300000.0,Climatological,2010-9082-KEN,-1.0,Natural,80.47228515,-1.0,2011_January
+612,522,"Oil platform ""Deepwater Horizon""",USA,Industrial accident,Explosion,17.0,Technological,2010-0167-USA,24853277.0,Technological,80.47228515,11.0,2010_April
+613,523,N/A,KEN,Flood,Riverine flood,70000.0,Hydrological,2010-0285-KEN,-1.0,Natural,80.47228515,100.0,2010_May
+614,524,N/A,KEN,Landslide,Landslide,-1.0,Hydrological,2010-0186-KEN,-1.0,Natural,80.47228515,10.0,2010_April
+615,525,Cholera,KEN,Epidemic,Bacterial disease,2834.0,Biological,2010-0141-KEN,-1.0,Natural,80.47228515,46.0,2010_January
+616,526,Cholera,KEN,Epidemic,Bacterial disease,2834.0,Biological,2010-0141-KEN,-1.0,Natural,80.47228515,46.0,2010_February
+617,527,Cholera,KEN,Epidemic,Bacterial disease,2834.0,Biological,2010-0141-KEN,-1.0,Natural,80.47228515,46.0,2010_March
+618,528,Cholera,KEN,Epidemic,Bacterial disease,2834.0,Biological,2010-0141-KEN,-1.0,Natural,80.47228515,46.0,2010_April
+619,529,Cholera,KEN,Epidemic,Bacterial disease,2834.0,Biological,2010-0141-KEN,-1.0,Natural,80.47228515,46.0,2010_May
+620,530,Measles,KEN,Epidemic,Viral disease,1046.0,Biological,2010-0700-KEN,-1.0,Natural,80.47228515,11.0,2010_December
+621,531,Measles,KEN,Epidemic,Viral disease,1046.0,Biological,2010-0700-KEN,-1.0,Natural,80.47228515,11.0,2011_January
+622,532,Measles,KEN,Epidemic,Viral disease,1046.0,Biological,2010-0700-KEN,-1.0,Natural,80.47228515,11.0,2011_February
+623,533,Measles,KEN,Epidemic,Viral disease,1046.0,Biological,2010-0700-KEN,-1.0,Natural,80.47228515,11.0,2011_March
+624,534,Measles,KEN,Epidemic,Viral disease,1046.0,Biological,2010-0700-KEN,-1.0,Natural,80.47228515,11.0,2011_April
+625,535,N/A,MEX,Earthquake,Ground movement,25232.0,Geophysical,2010-0158-MEX,1429063.0,Natural,80.47228515,2.0,2010_April
+626,536,N/A,MEX,Landslide,Landslide,-1.0,Hydrological,2010-0496-MEX,-1.0,Natural,80.47228515,27.0,2010_September
+627,537,N/A,MEX,Landslide,Landslide,-1.0,Hydrological,2010-0510-MEX,-1.0,Natural,80.47228515,44.0,2010_September
+628,538,Helicopter Bell 412,MEX,Transport accident,Air,-1.0,Technological,2010-0244-MEX,-1.0,Technological,80.47228515,11.0,2010_June
+629,539,Helicopter,MEX,Transport accident,Air,-1.0,Technological,2010-0638-MEX,-1.0,Technological,80.47228515,11.0,2010_December
+630,540,N/A,MEX,Transport accident,Road,11.0,Technological,2010-0462-MEX,-1.0,Technological,80.47228515,13.0,2010_September
+631,541,N/A,MEX,Transport accident,Road,-1.0,Technological,2010-0540-MEX,-1.0,Technological,80.47228515,18.0,2010_October
+632,542,N/A,MEX,Transport accident,Road,-1.0,Technological,2010-0603-MEX,-1.0,Technological,80.47228515,21.0,2010_November
+633,543,N/A,MEX,Transport accident,Rail,4.0,Technological,2010-0237-MEX,-1.0,Technological,80.47228515,11.0,2010_June
+634,544,Pipeline,MEX,Industrial accident,Explosion,52.0,Technological,2010-0634-MEX,-1.0,Technological,80.47228515,27.0,2010_December
+635,545,N/A,TCD,Flood,Riverine flood,144579.0,Hydrological,2010-0300-TCD,-1.0,Natural,80.47228515,24.0,2010_August
+636,546,N/A,TCD,Flood,Riverine flood,144579.0,Hydrological,2010-0300-TCD,-1.0,Natural,80.47228515,24.0,2010_September
+637,547,Cholera,TCD,Epidemic,Bacterial disease,1730.0,Biological,2010-0400-TCD,-1.0,Natural,80.47228515,92.0,2010_June
+638,548,Cholera,TCD,Epidemic,Bacterial disease,1730.0,Biological,2010-0400-TCD,-1.0,Natural,80.47228515,92.0,2010_July
+639,549,Cholera,TCD,Epidemic,Bacterial disease,1730.0,Biological,2010-0400-TCD,-1.0,Natural,80.47228515,92.0,2010_August
+640,550,Cholera,TCD,Epidemic,Bacterial disease,1730.0,Biological,2010-0400-TCD,-1.0,Natural,80.47228515,92.0,2010_September
+641,551,Meningitis,TCD,Epidemic,Viral disease,1090.0,Biological,2010-0131-TCD,-1.0,Natural,80.47228515,115.0,2010_January
+642,552,Meningitis,TCD,Epidemic,Viral disease,1090.0,Biological,2010-0131-TCD,-1.0,Natural,80.47228515,115.0,2010_February
+643,553,Meningitis,TCD,Epidemic,Viral disease,1090.0,Biological,2010-0131-TCD,-1.0,Natural,80.47228515,115.0,2010_March
+644,554,Measles,TCD,Epidemic,Viral disease,2499.0,Biological,2010-0137-TCD,-1.0,Natural,80.47228515,32.0,2010_January
+645,555,Measles,TCD,Epidemic,Viral disease,2499.0,Biological,2010-0137-TCD,-1.0,Natural,80.47228515,32.0,2010_February
+646,556,Measles,TCD,Epidemic,Viral disease,2499.0,Biological,2010-0137-TCD,-1.0,Natural,80.47228515,32.0,2010_March
+647,557,N/A,USA,Storm,Convective storm,2770.0,Meteorological,2010-0163-USA,-1.0,Natural,80.47228515,12.0,2010_April
+648,558,N/A,USA,Storm,Convective storm,13.0,Meteorological,2010-0663-USA,-1.0,Natural,80.47228515,8.0,2010_December
+649,559,N/A,USA,Storm,Convective storm,13.0,Meteorological,2010-0663-USA,-1.0,Natural,80.47228515,8.0,2011_January
+650,560,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2010-0045-USA,2485328.0,Natural,80.47228515,2.0,2010_February
+651,561,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2010-0089-USA,621332.0,Natural,80.47228515,1.0,2010_February
+652,562,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2010-0655-USA,-1.0,Natural,80.47228515,-1.0,2010_December
+653,563,N/A,USA,Earthquake,Ground movement,630.0,Geophysical,2010-0027-USA,15533.0,Natural,80.47228515,-1.0,2010_January
+654,564,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2010-0162-USA,-1.0,Natural,80.47228515,-1.0,2010_March
+655,565,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2010-0225-USA,-1.0,Natural,80.47228515,20.0,2010_June
+656,566,N/A,USA,Flood,Riverine flood,1000.0,Hydrological,2010-0651-USA,-1.0,Natural,80.47228515,-1.0,2010_December
+657,567,"Coal mine ""Upper Big Branch""",USA,Industrial accident,Explosion,2.0,Technological,2010-0151-USA,-1.0,Technological,80.47228515,27.0,2010_April
+658,568,Gazoduc,USA,Industrial accident,Explosion,-1.0,Technological,2010-0209-USA,-1.0,Technological,80.47228515,13.0,2010_June
+659,569,Gas pipeline,USA,Miscellaneous accident,Explosion,171.0,Technological,2010-0474-USA,310666.0,Technological,80.47228515,8.0,2010_September
+660,570,Cholera,VEN,Epidemic,Bacterial disease,118.0,Biological,2010-0557-VEN,-1.0,Natural,80.47228515,-1.0,2011_January
+661,571,ATR-42-300,VEN,Transport accident,Air,35.0,Technological,2010-0478-VEN,-1.0,Technological,80.47228515,16.0,2010_September
+662,572,"Tropical storm ""Beatrix""",MEX,Storm,Tropical cyclone,450.0,Meteorological,2011-0228-MEX,-1.0,Natural,83.01267439,3.0,2011_June
+663,573,N/A,USA,Storm,Convective storm,200.0,Meteorological,2011-0195-USA,-1.0,Natural,83.01267439,3.0,2011_May
+664,574,N/A,USA,Storm,Convective storm,200.0,Meteorological,2011-0195-USA,-1.0,Natural,83.01267439,3.0,2011_June
+665,575,"Tropical Storm ""Arlene""",MEX,Storm,Tropical cyclone,300000.0,Meteorological,2011-0241-MEX,84324.0,Natural,83.01267439,22.0,2011_June
+666,576,"Tropical Storm ""Arlene""",MEX,Storm,Tropical cyclone,300000.0,Meteorological,2011-0241-MEX,84324.0,Natural,83.01267439,22.0,2011_July
+667,577,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0029-USA,2288807.0,Natural,83.01267439,39.0,2011_January
+668,578,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0029-USA,2288807.0,Natural,83.01267439,39.0,2011_February
+669,579,N/A,MEX,Wildfire,"Land fire (Brush, Bush, Pasture)",-1.0,Climatological,2011-0161-MEX,-1.0,Natural,83.01267439,-1.0,2011_March
+670,580,N/A,MEX,Wildfire,"Land fire (Brush, Bush, Pasture)",-1.0,Climatological,2011-0161-MEX,-1.0,Natural,83.01267439,-1.0,2011_April
+671,581,N/A,MEX,Wildfire,"Land fire (Brush, Bush, Pasture)",-1.0,Climatological,2011-0161-MEX,-1.0,Natural,83.01267439,-1.0,2011_May
+672,582,"Tropical storm ""Dora""",MEX,Storm,Tropical cyclone,200000.0,Meteorological,2011-0267-MEX,-1.0,Natural,83.01267439,3.0,2011_July
+673,583,N/A,USA,Storm,Convective storm,17200.0,Meteorological,2011-0145-USA,13250989.0,Natural,83.01267439,354.0,2011_April
+674,584,Building,KEN,Industrial accident,Collapse,-1.0,Technological,2011-0224-KEN,-1.0,Technological,83.01267439,16.0,2011_June
+675,585,Slum,KEN,Miscellaneous accident,Fire,8969.0,Technological,2011-0103-KEN,-1.0,Technological,83.01267439,1.0,2011_February
+676,586,N/A,MEX,Extreme temperature ,Cold wave,120000.0,Meteorological,2011-0105-MEX,602318.0,Natural,83.01267439,3.0,2011_February
+677,587,Coal mine,MEX,Industrial accident,Explosion,-1.0,Technological,2011-0163-MEX,-1.0,Technological,83.01267439,14.0,2011_May
+678,588,Prison,MEX,Miscellaneous accident,Fire,-1.0,Technological,2011-0174-MEX,-1.0,Technological,83.01267439,14.0,2011_May
+679,589,Meningitis,TCD,Epidemic,Viral disease,2085.0,Biological,2011-0181-TCD,-1.0,Natural,83.01267439,124.0,2011_March
+680,590,N/A,USA,Storm,Convective storm,43.0,Meteorological,2011-0134-USA,2409271.0,Natural,83.01267439,46.0,2011_April
+681,591,N/A,USA,Storm,Convective storm,1150.0,Meteorological,2011-0172-USA,16864895.0,Natural,83.01267439,176.0,2011_May
+682,592,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0189-USA,-1.0,Natural,83.01267439,11.0,2011_May
+683,593,N/A,USA,Flood,Riverine flood,25000.0,Hydrological,2011-0166-USA,-1.0,Natural,83.01267439,1.0,2011_May
+684,594,N/A,USA,Extreme temperature ,Heat wave,-1.0,Meteorological,2011-0264-USA,-1.0,Natural,83.01267439,22.0,2011_July
+685,595,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",1305.0,Climatological,2011-0140-USA,220448.0,Natural,83.01267439,2.0,2011_April
+686,596,N/A,USA,Transport accident,Road,20.0,Technological,2011-0118-USA,-1.0,Technological,83.01267439,14.0,2011_March
+687,597,Hurricane Irene,CAN,Storm,Tropical cyclone,-1.0,Meteorological,2011-0328-CAN,-1.0,Natural,83.01267439,1.0,2011_August
+688,598,Joachim,CHE,Storm,Extra-tropical storm,3.0,Meteorological,2011-0518-CHE,-1.0,Natural,83.01267439,-1.0,2011_December
+689,599,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",120.0,Climatological,2011-0640-AUS,65050.0,Natural,83.01267439,-1.0,2011_August
+690,600,Nursing home,AUS,Miscellaneous accident,Fire,-1.0,Technological,2011-0483-AUS,-1.0,Technological,83.01267439,10.0,2011_November
+691,601,N/A,CAN,Storm,Convective storm,20.0,Meteorological,2011-0323-CAN,-1.0,Natural,83.01267439,1.0,2011_August
+692,602,N/A,CAN,Wildfire,Forest fire,7000.0,Climatological,2011-0630-CAN,1806953.0,Natural,83.01267439,1.0,2011_May
+693,603,Boeing 737,CAN,Transport accident,Air,3.0,Technological,2011-0321-CAN,-1.0,Technological,83.01267439,12.0,2011_August
+694,604,N/A,AUS,Flood,Riverine flood,13000.0,Hydrological,2012-0029-AUS,265548.0,Natural,84.7304789,2.0,2012_January
+695,605,N/A,AUS,Flood,Riverine flood,13000.0,Hydrological,2012-0029-AUS,265548.0,Natural,84.7304789,2.0,2012_February
+696,606,N/A,AUS,Flood,Riverine flood,13000.0,Hydrological,2012-0029-AUS,265548.0,Natural,84.7304789,2.0,2012_March
+697,607,N/A,AUS,Flood,Riverine flood,3000.0,Hydrological,2012-0037-AUS,428417.0,Natural,84.7304789,2.0,2012_February
+698,608,N/A,AUS,Flood,Riverine flood,3000.0,Hydrological,2012-0037-AUS,428417.0,Natural,84.7304789,2.0,2012_March
+699,609,N/A,AUS,Transport accident,Water,-1.0,Technological,2012-0224-AUS,-1.0,Technological,84.7304789,75.0,2012_June
+700,610,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2012-0493-CAN,-1.0,Natural,84.7304789,-1.0,2012_December
+701,611,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2012-0626-CAN,1239223.0,Natural,84.7304789,-1.0,2012_August
+702,612,N/A,CAN,Flood,Riverine flood,1500.0,Hydrological,2012-0068-CAN,40127.0,Natural,84.7304789,-1.0,2012_March
+703,613,N/A,CAN,Transport accident,Road,-1.0,Technological,2012-0036-CAN,-1.0,Technological,84.7304789,11.0,2012_February
+704,614,N/A,CHE,Extreme temperature ,Cold wave,-1.0,Meteorological,2012-0019-CHE,-1.0,Natural,84.7304789,-1.0,2012_February
+705,615,N/A,CHE,Extreme temperature ,Cold wave,-1.0,Meteorological,2012-0485-CHE,-1.0,Natural,84.7304789,11.0,2012_December
+706,616,N/A,CHE,Transport accident,Road,-1.0,Technological,2012-0064-CHE,-1.0,Technological,84.7304789,28.0,2012_March
+707,617,N/A,DEU,Extreme temperature ,Cold wave,-1.0,Meteorological,2012-0019-DEU,-1.0,Natural,84.7304789,4.0,2012_February
+708,618,N/A,DEU,Extreme temperature ,Cold wave,-1.0,Meteorological,2012-0485-DEU,-1.0,Natural,84.7304789,2.0,2012_December
+709,619,Factory,DEU,Miscellaneous accident,Fire,9.0,Technological,2012-0513-DEU,-1.0,Technological,84.7304789,14.0,2012_November
+710,620,Storm Xaver,DEU,Storm,Extra-tropical storm,-1.0,Meteorological,2013-0517-DEU,-1.0,Natural,85.97164225,-1.0,2013_December
+711,621,N/A,CHE,Storm,Convective storm,84.0,Meteorological,2013-0216-CHE,290794.0,Natural,85.97164225,-1.0,2013_June
+712,622,Ex-Tropical cyclone Oswald,AUS,Storm,Tropical cyclone,7500.0,Meteorological,2013-0008-AUS,2326348.0,Natural,85.97164225,6.0,2013_January
+713,623,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",450.0,Climatological,2013-0024-AUS,113991.0,Natural,85.97164225,1.0,2013_January
+714,624,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",990.0,Climatological,2013-0402-AUS,311731.0,Natural,85.97164225,2.0,2013_October
+715,625,N/A,AUS,Transport accident,Water,-1.0,Technological,2013-0253-AUS,-1.0,Technological,85.97164225,13.0,2013_June
+716,626,N/A,CAN,Extreme temperature ,Severe winter conditions,-1.0,Meteorological,2013-0528-CAN,232635.0,Natural,85.97164225,10.0,2013_December
+717,627,N/A,CAN,Flood,Riverine flood,100000.0,Hydrological,2013-0190-CAN,6630093.0,Natural,85.97164225,4.0,2013_June
+718,628,N/A,CAN,Transport accident,Road,100.0,Technological,2013-0171-CAN,-1.0,Technological,85.97164225,-1.0,2013_March
+719,629,N/A,CAN,Transport accident,Rail,2000.0,Technological,2013-0240-CAN,273346.0,Technological,85.97164225,47.0,2013_July
+720,630,Storm Dirk,CHE,Storm,Extra-tropical storm,-1.0,Meteorological,2013-0530-CHE,-1.0,Natural,85.97164225,-1.0,2013_December
+721,631,N/A,DEU,Flood,Riverine flood,6350.0,Hydrological,2013-0205-DEU,15004948.0,Natural,85.97164225,4.0,2013_May
+722,632,N/A,DEU,Flood,Riverine flood,6350.0,Hydrological,2013-0205-DEU,15004948.0,Natural,85.97164225,4.0,2013_June
+723,633,Storm Christian,DEU,Storm,Extra-tropical storm,2.0,Meteorological,2013-0398-DEU,-1.0,Natural,85.97164225,7.0,2013_October
+724,634,Hurricane Jova,MEX,Storm,Tropical cyclone,50000.0,Meteorological,2011-0385-MEX,33368.0,Natural,83.01267439,5.0,2011_October
+725,635,Hurricane Jova,MEX,Storm,Tropical cyclone,50000.0,Meteorological,2011-0385-MEX,33368.0,Natural,83.01267439,5.0,2011_November
+726,636,Hurricane Nate,MEX,Storm,Tropical cyclone,-1.0,Meteorological,2011-0460-MEX,-1.0,Natural,83.01267439,10.0,2011_September
+727,637,N/A,KEN,Flood,Riverine flood,4000.0,Hydrological,2011-0423-KEN,-1.0,Natural,83.01267439,8.0,2011_August
+728,638,N/A,KEN,Flood,Riverine flood,4000.0,Hydrological,2011-0423-KEN,-1.0,Natural,83.01267439,8.0,2011_September
+729,639,N/A,KEN,Flood,Riverine flood,5000.0,Hydrological,2011-0476-KEN,-1.0,Natural,83.01267439,-1.0,2011_November
+730,640,N/A,KEN,Flood,Riverine flood,91692.0,Hydrological,2011-0504-KEN,-1.0,Natural,83.01267439,25.0,2011_November
+731,641,N/A,KEN,Flood,Riverine flood,91692.0,Hydrological,2011-0504-KEN,-1.0,Natural,83.01267439,25.0,2011_December
+732,642,N/A,KEN,Transport accident,Road,-1.0,Technological,2011-0285-KEN,-1.0,Technological,83.01267439,13.0,2011_August
+733,643,N/A,KEN,Transport accident,Road,15.0,Technological,2011-0322-KEN,-1.0,Technological,83.01267439,23.0,2011_August
+734,644,OIl pipeline,KEN,Industrial accident,Explosion,100.0,Technological,2011-0369-KEN,-1.0,Technological,83.01267439,119.0,2011_September
+735,645,N/A,KEN,Miscellaneous accident,Fire,445.0,Technological,2011-0280-KEN,-1.0,Technological,83.01267439,-1.0,2011_February
+736,646,N/A,KEN,Miscellaneous accident,Fire,410.0,Technological,2011-0281-KEN,-1.0,Technological,83.01267439,-1.0,2011_February
+737,647,N/A,KEN,Miscellaneous accident,Fire,6252.0,Technological,2011-0282-KEN,-1.0,Technological,83.01267439,1.0,2011_March
+738,648,N/A,MEX,Earthquake,Ground movement,152.0,Geophysical,2011-0512-MEX,-1.0,Natural,83.01267439,2.0,2011_December
+739,649,N/A,MEX,Flood,Riverine flood,250000.0,Hydrological,2011-0392-MEX,-1.0,Natural,83.01267439,-1.0,2011_October
+740,650,N/A,MEX,Flood,Riverine flood,190000.0,Hydrological,2011-0589-MEX,-1.0,Natural,83.01267439,3.0,2011_July
+741,651,N/A,MEX,Flood,Riverine flood,40000.0,Hydrological,2011-0633-MEX,-1.0,Natural,83.01267439,74.0,2011_August
+742,652,N/A,MEX,Flood,Riverine flood,40000.0,Hydrological,2011-0633-MEX,-1.0,Natural,83.01267439,74.0,2011_September
+743,653,N/A,MEX,Drought,Drought,2500000.0,Climatological,2011-9363-MEX,-1.0,Natural,83.01267439,-1.0,2011_September
+744,654,N/A,MEX,Drought,Drought,2500000.0,Climatological,2011-9363-MEX,-1.0,Natural,83.01267439,-1.0,2011_October
+745,655,N/A,MEX,Drought,Drought,2500000.0,Climatological,2011-9363-MEX,-1.0,Natural,83.01267439,-1.0,2011_November
+746,656,N/A,MEX,Drought,Drought,2500000.0,Climatological,2011-9363-MEX,-1.0,Natural,83.01267439,-1.0,2011_December
+747,657,Cholera,TCD,Epidemic,Bacterial disease,16038.0,Biological,2011-0333-TCD,-1.0,Natural,83.01267439,433.0,2011_August
+748,658,Cholera,TCD,Epidemic,Bacterial disease,16038.0,Biological,2011-0333-TCD,-1.0,Natural,83.01267439,433.0,2011_September
+749,659,Cholera,TCD,Epidemic,Bacterial disease,16038.0,Biological,2011-0333-TCD,-1.0,Natural,83.01267439,433.0,2011_October
+750,660,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0060-USA,5901064.0,Natural,84.7304789,41.0,2012_March
+751,661,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2012_June
+752,662,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2012_July
+753,663,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2012_August
+754,664,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2012_September
+755,665,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2012_October
+756,666,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2012_November
+757,667,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2012_December
+758,668,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2013_January
+759,669,N/A,TCD,Drought,Drought,1600000.0,Climatological,2012-9160-TCD,-1.0,Natural,84.7304789,-1.0,2013_February
+760,670,N/A,KEN,Flood,Riverine flood,280670.0,Hydrological,2012-0166-KEN,118021.0,Natural,84.7304789,73.0,2012_April
+761,671,N/A,KEN,Flood,Riverine flood,280670.0,Hydrological,2012-0166-KEN,118021.0,Natural,84.7304789,73.0,2012_May
+762,672,N/A,KEN,Transport accident,Water,-1.0,Technological,2012-0001-KEN,-1.0,Technological,84.7304789,28.0,2012_January
+763,673,N/A,MEX,Earthquake,Ground movement,49011.0,Geophysical,2012-0124-MEX,377668.0,Natural,84.7304789,2.0,2012_March
+764,674,Ernesto,MEX,Storm,Tropical cyclone,-1.0,Meteorological,2012-0276-MEX,354064.0,Natural,84.7304789,12.0,2012_August
+765,675,Hurricane Carlotta,MEX,Storm,Tropical cyclone,87000.0,Meteorological,2012-0401-MEX,655018.0,Natural,84.7304789,7.0,2012_June
+766,676,N/A,MEX,Transport accident,Road,20.0,Technological,2012-0099-MEX,-1.0,Technological,84.7304789,43.0,2012_April
+767,677,N/A,MEX,Transport accident,Road,22.0,Technological,2012-0229-MEX,-1.0,Technological,84.7304789,28.0,2012_June
+768,678,Gaz factory,MEX,Industrial accident,Explosion,26.0,Technological,2012-0381-MEX,-1.0,Technological,84.7304789,32.0,2012_September
+769,679,N/A,TCD,Flood,Riverine flood,594831.0,Hydrological,2012-0347-TCD,11802.0,Natural,84.7304789,20.0,2012_July
+770,680,N/A,TCD,Flood,Riverine flood,594831.0,Hydrological,2012-0347-TCD,11802.0,Natural,84.7304789,20.0,2012_August
+771,681,N/A,TCD,Flood,Riverine flood,594831.0,Hydrological,2012-0347-TCD,11802.0,Natural,84.7304789,20.0,2012_September
+772,682,N/A,TCD,Flood,Riverine flood,18800.0,Hydrological,2012-0384-TCD,-1.0,Natural,84.7304789,-1.0,2012_September
+773,683,N/A,TCD,Flood,Riverine flood,18800.0,Hydrological,2012-0384-TCD,-1.0,Natural,84.7304789,-1.0,2012_October
+774,684,Meningitis,TCD,Epidemic,Viral disease,1708.0,Biological,2012-0108-TCD,-1.0,Natural,84.7304789,88.0,2012_January
+775,685,Meningitis,TCD,Epidemic,Viral disease,1708.0,Biological,2012-0108-TCD,-1.0,Natural,84.7304789,88.0,2012_February
+776,686,Meningitis,TCD,Epidemic,Viral disease,1708.0,Biological,2012-0108-TCD,-1.0,Natural,84.7304789,88.0,2012_March
+777,687,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0234-USA,-1.0,Natural,84.7304789,1.0,2012_June
+778,688,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0612-USA,4012724.0,Natural,84.7304789,-1.0,2012_May
+779,689,N/A,USA,Storm,Convective storm,2.0,Meteorological,2012-0613-USA,1652298.0,Natural,84.7304789,-1.0,2012_June
+780,690,N/A,USA,Storm,Convective storm,9003.0,Meteorological,2012-0614-USA,2242404.0,Natural,84.7304789,-1.0,2012_June
+781,691,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0615-USA,826149.0,Natural,84.7304789,1.0,2012_July
+782,692,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0616-USA,247845.0,Natural,84.7304789,5.0,2012_September
+783,693,N/A,USA,Storm,Convective storm,100.0,Meteorological,2012-0010-USA,206537.0,Natural,84.7304789,2.0,2012_January
+784,694,N/A,USA,Storm,Convective storm,200.0,Meteorological,2012-0055-USA,590106.0,Natural,84.7304789,14.0,2012_February
+785,695,N/A,USA,Storm,Convective storm,3300.0,Meteorological,2012-0122-USA,1829330.0,Natural,84.7304789,-1.0,2012_April
+786,696,N/A,USA,Storm,Convective storm,297.0,Meteorological,2012-0156-USA,2124383.0,Natural,84.7304789,6.0,2012_April
+787,697,Tropical storm Fernand,MEX,Storm,Tropical cyclone,5000.0,Meteorological,2013-0335-MEX,2326.0,Natural,85.97164225,14.0,2013_August
+788,698,Hurricane Manuel ,MEX,Storm,Tropical cyclone,105000.0,Meteorological,2013-0358-MEX,4885332.0,Natural,85.97164225,169.0,2013_September
+789,699,Hurricane Ingrid,MEX,Storm,Tropical cyclone,50000.0,Meteorological,2013-0406-MEX,1744761.0,Natural,85.97164225,23.0,2013_September
+790,700,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0334-USA,348952.0,Natural,85.97164225,-1.0,2013_August
+791,701,N/A,KEN,Flood,Riverine flood,100020.0,Hydrological,2013-0123-KEN,41874.0,Natural,85.97164225,96.0,2013_March
+792,702,N/A,KEN,Flood,Riverine flood,100020.0,Hydrological,2013-0123-KEN,41874.0,Natural,85.97164225,96.0,2013_April
+793,703,N/A,MEX,Flood,Riverine flood,-1.0,Hydrological,2013-0348-MEX,-1.0,Natural,85.97164225,13.0,2013_September
+794,704,N/A,KEN,Flood,Riverine flood,5000.0,Hydrological,2013-0281-KEN,-1.0,Natural,85.97164225,-1.0,2013_August
+795,705,N/A,KEN,Flood,Riverine flood,10780.0,Hydrological,2013-0305-KEN,-1.0,Natural,85.97164225,18.0,2013_January
+796,706,N/A,KEN,Transport accident,Road,-1.0,Technological,2013-0048-KEN,-1.0,Technological,85.97164225,11.0,2013_January
+797,707,N/A,KEN,Transport accident,Road,-1.0,Technological,2013-0095-KEN,-1.0,Technological,85.97164225,35.0,2013_February
+798,708,N/A,KEN,Transport accident,Road,-1.0,Technological,2013-0353-KEN,-1.0,Technological,85.97164225,37.0,2013_August
+799,709,N/A,KEN,Transport accident,Road,24.0,Technological,2013-0499-KEN,-1.0,Technological,85.97164225,12.0,2013_October
+800,710,Hurricane Barbara,MEX,Storm,Tropical cyclone,12000.0,Meteorological,2013-0188-MEX,-1.0,Natural,85.97164225,4.0,2013_May
+801,711,N/A,MEX,Transport accident,Air,-1.0,Technological,2013-0394-MEX,-1.0,Technological,85.97164225,14.0,2013_October
+802,712,N/A,MEX,Transport accident,Road,14.0,Technological,2013-0129-MEX,-1.0,Technological,85.97164225,25.0,2013_May
+803,713,N/A,MEX,Transport accident,Road,25.0,Technological,2013-0479-MEX,-1.0,Technological,85.97164225,12.0,2013_October
+804,714,Oil company Pemex Building,MEX,Industrial accident,Explosion,100.0,Technological,2013-0052-MEX,-1.0,Technological,85.97164225,37.0,2013_January
+805,715,Fireworks,MEX,Miscellaneous accident,Explosion,80.0,Technological,2013-0103-MEX,-1.0,Technological,85.97164225,17.0,2013_March
+806,716,N/A,MEX,Industrial accident,Chemical spill,1540.0,Technological,2013-0382-MEX,-1.0,Technological,85.97164225,9.0,2013_August
+807,717,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0211-USA,1046857.0,Natural,85.97164225,4.0,2013_June
+808,718,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2011-0610-USA,5541322.0,Natural,83.01267439,9.0,2011_April
+809,719,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2011-0610-USA,5541322.0,Natural,83.01267439,9.0,2011_May
+810,720,Hurricane Irene,USA,Storm,Tropical cyclone,370000.0,Meteorological,2011-0328-USA,8793838.0,Natural,83.01267439,46.0,2011_August
+811,721,Hurricane Irene,USA,Storm,Tropical cyclone,370000.0,Meteorological,2011-0328-USA,8793838.0,Natural,83.01267439,46.0,2011_September
+812,722,Tropical Storm Lee,USA,Storm,Tropical cyclone,600.0,Meteorological,2011-0456-USA,903476.0,Natural,83.01267439,15.0,2011_September
+813,723,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0444-USA,3613906.0,Natural,83.01267439,29.0,2011_October
+814,724,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0527-USA,-1.0,Natural,83.01267439,6.0,2011_December
+815,725,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0607-USA,-1.0,Natural,83.01267439,11.0,2011_January
+816,726,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0608-USA,-1.0,Natural,83.01267439,10.0,2011_January
+817,727,N/A,USA,Flood,Riverine flood,100.0,Hydrological,2011-0425-USA,-1.0,Natural,83.01267439,2.0,2011_August
+818,728,N/A,USA,Flood,Riverine flood,11000.0,Hydrological,2011-0646-USA,2409271.0,Natural,83.01267439,5.0,2011_May
+819,729,N/A,USA,Flood,Riverine flood,11000.0,Hydrological,2011-0646-USA,2409271.0,Natural,83.01267439,5.0,2011_June
+820,730,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0609-USA,4216224.0,Natural,83.01267439,9.0,2011_April
+821,731,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2011-0611-USA,-1.0,Natural,83.01267439,7.0,2011_August
+822,732,N/A,USA,Wildfire,Forest fire,4800.0,Climatological,2011-0349-USA,1204635.0,Natural,83.01267439,4.0,2011_September
+823,733,N/A,USA,Wildfire,Forest fire,-1.0,Climatological,2011-0639-USA,240927.0,Natural,83.01267439,2.0,2011_May
+824,734,N/A,USA,Wildfire,Forest fire,-1.0,Climatological,2011-0639-USA,240927.0,Natural,83.01267439,2.0,2011_June
+825,735,P-51 Mustang,USA,Transport accident,Air,60.0,Technological,2011-0375-USA,-1.0,Technological,83.01267439,10.0,2011_September
+826,736,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_January
+827,737,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_February
+828,738,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_March
+829,739,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_April
+830,740,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_May
+831,741,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_June
+832,742,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_July
+833,743,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_August
+834,744,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_September
+835,745,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_October
+836,746,N/A,USA,Drought,Drought,-1.0,Climatological,2011-9363-USA,9637083.0,Natural,83.01267439,-1.0,2011_November
+837,747,N/A,VEN,Flood,Flash flood,-1.0,Hydrological,2011-0619-VEN,-1.0,Natural,83.01267439,9.0,2011_April
+838,748,N/A,VEN,Flood,Riverine flood,1668.0,Hydrological,2011-0569-VEN,-1.0,Natural,83.01267439,-1.0,2011_December
+839,749,N/A,VEN,Flood,Riverine flood,2000.0,Hydrological,2011-0635-VEN,19274.0,Natural,83.01267439,8.0,2011_December
+840,750,N/A,VEN,Transport accident,Road,16.0,Technological,2011-0665-VEN,-1.0,Technological,83.01267439,14.0,2011_December
+841,751,Hurricane Sandy,USA,Storm,Tropical cyclone,-1.0,Meteorological,2012-0410-USA,59010643.0,Natural,84.7304789,54.0,2012_October
+842,752,N/A,USA,Drought,Drought,-1.0,Climatological,2012-9489-USA,23604257.0,Natural,84.7304789,-1.0,2012_June
+843,753,N/A,USA,Drought,Drought,-1.0,Climatological,2012-9489-USA,23604257.0,Natural,84.7304789,-1.0,2012_July
+844,754,N/A,USA,Drought,Drought,-1.0,Climatological,2012-9489-USA,23604257.0,Natural,84.7304789,-1.0,2012_August
+845,755,N/A,USA,Drought,Drought,-1.0,Climatological,2012-9489-USA,23604257.0,Natural,84.7304789,-1.0,2012_September
+846,756,N/A,USA,Drought,Drought,-1.0,Climatological,2012-9489-USA,23604257.0,Natural,84.7304789,-1.0,2012_October
+847,757,N/A,USA,Drought,Drought,-1.0,Climatological,2012-9489-USA,23604257.0,Natural,84.7304789,-1.0,2012_November
+848,758,N/A,USA,Drought,Drought,-1.0,Climatological,2012-9489-USA,23604257.0,Natural,84.7304789,-1.0,2012_December
+849,759,Hurricane Isaac,USA,Storm,Tropical cyclone,60000.0,Meteorological,2012-0313-USA,2360426.0,Natural,84.7304789,1.0,2012_August
+850,760,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0486-USA,2360.0,Natural,84.7304789,7.0,2012_December
+851,761,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0493-USA,59011.0,Natural,84.7304789,17.0,2012_December
+852,762,N/A,USA,Storm,Convective storm,1.0,Meteorological,2012-0611-USA,118021.0,Natural,84.7304789,3.0,2012_January
+853,763,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0503-USA,4720851.0,Natural,84.7304789,28.0,2012_June
+854,764,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2012-0503-USA,4720851.0,Natural,84.7304789,28.0,2012_July
+855,765,N/A,USA,Storm,Convective storm,100.0,Meteorological,2012-0601-USA,5310958.0,Natural,84.7304789,1.0,2012_April
+856,766,N/A,USA,Flood,Riverine flood,300.0,Hydrological,2012-0177-USA,205357.0,Natural,84.7304789,2.0,2012_June
+857,767,Tropical storm Debby,USA,Storm,Tropical cyclone,17001.0,Meteorological,2012-0176-USA,247845.0,Natural,84.7304789,9.0,2012_June
+858,768,N/A,USA,Extreme temperature ,Heat wave,-1.0,Meteorological,2012-0214-USA,-1.0,Natural,84.7304789,123.0,2012_June
+859,769,N/A,USA,Extreme temperature ,Heat wave,-1.0,Meteorological,2012-0214-USA,-1.0,Natural,84.7304789,123.0,2012_July
+860,770,Waldo Canyon Fire,USA,Wildfire,N/A,1038.0,Climatological,2012-0232-USA,708128.0,Natural,84.7304789,2.0,2012_June
+861,771,Waldo Canyon Fire,USA,Wildfire,N/A,1038.0,Climatological,2012-0232-USA,708128.0,Natural,84.7304789,2.0,2012_July
+862,772,N/A,USA,Wildfire,N/A,1809.0,Climatological,2012-0542-USA,236043.0,Natural,84.7304789,1.0,2012_August
+863,773,N/A,VEN,Flood,Riverine flood,11000.0,Hydrological,2012-0241-VEN,109760.0,Natural,84.7304789,-1.0,2012_May
+864,774,Oil refinery,VEN,Industrial accident,Explosion,80.0,Technological,2012-0312-VEN,-1.0,Technological,84.7304789,48.0,2012_August
+865,775,N/A,USA,Flood,Riverine flood,21900.0,Hydrological,2013-0354-USA,2210031.0,Natural,85.97164225,9.0,2013_September
+866,776,N/A,USA,Storm,Convective storm,450.0,Meteorological,2013-0142-USA,3605840.0,Natural,85.97164225,29.0,2013_May
+867,777,N/A,USA,Storm,Convective storm,700.0,Meteorological,2013-0183-USA,348952.0,Natural,85.97164225,6.0,2013_May
+868,778,N/A,USA,Storm,Convective storm,185.0,Meteorological,2013-0439-USA,1512127.0,Natural,85.97164225,11.0,2013_November
+869,779,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0054-USA,116317.0,Natural,85.97164225,15.0,2013_February
+870,780,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0472-USA,2326.0,Natural,85.97164225,14.0,2013_November
+871,781,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0118-USA,1279492.0,Natural,85.97164225,3.0,2013_April
+872,782,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2013-0580-CAN,1640076.0,Natural,85.97164225,-1.0,2013_July
+873,783,N/A,USA,Storm,Convective storm,1107.0,Meteorological,2013-0013-USA,348952.0,Natural,85.97164225,3.0,2013_January
+874,784,N/A,USA,Storm,Convective storm,170150.0,Meteorological,2013-0184-USA,2442666.0,Natural,85.97164225,27.0,2013_May
+875,785,N/A,USA,Storm,Convective storm,170150.0,Meteorological,2013-0184-USA,2442666.0,Natural,85.97164225,27.0,2013_June
+876,786,N/A,USA,Storm,Convective storm,4882.0,Meteorological,2013-0055-USA,116317.0,Natural,85.97164225,1.0,2013_February
+877,787,N/A,USA,Extreme temperature ,Severe winter conditions,-1.0,Meteorological,2013-0528-USA,232635.0,Natural,85.97164225,19.0,2013_December
+878,788,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0117-USA,1861079.0,Natural,85.97164225,4.0,2013_April
+879,789,N/A,USA,Flood,Riverine flood,1425.0,Hydrological,2013-0254-USA,29079.0,Natural,85.97164225,2.0,2013_July
+880,790,N/A,USA,Flood,Riverine flood,6000.0,Hydrological,2013-0277-USA,29079.0,Natural,85.97164225,3.0,2013_August
+881,791,N/A,USA,Flood,Riverine flood,300.0,Hydrological,2013-0286-USA,2326.0,Natural,85.97164225,3.0,2013_May
+882,792,N/A,USA,Flood,Riverine flood,300.0,Hydrological,2013-0291-USA,378032.0,Natural,85.97164225,5.0,2013_April
+883,793,N/A,USA,Flood,Riverine flood,4800.0,Hydrological,2013-0510-USA,-1.0,Natural,85.97164225,4.0,2013_October
+884,794,N/A,USA,Flood,Riverine flood,4800.0,Hydrological,2013-0510-USA,-1.0,Natural,85.97164225,4.0,2013_November
+885,795,N/A,USA,Wildfire,Forest fire,110.0,Climatological,2013-0209-USA,24892.0,Natural,85.97164225,-1.0,2013_May
+886,796,N/A,USA,Wildfire,Forest fire,110.0,Climatological,2013-0209-USA,24892.0,Natural,85.97164225,-1.0,2013_June
+887,797,N/A,USA,Wildfire,Forest fire,1617.0,Climatological,2013-0210-USA,581587.0,Natural,85.97164225,2.0,2013_June
+888,798,N/A,USA,Wildfire,Forest fire,387.0,Climatological,2013-0212-USA,2326.0,Natural,85.97164225,19.0,2013_June
+889,799,N/A,USA,Wildfire,Forest fire,387.0,Climatological,2013-0212-USA,2326.0,Natural,85.97164225,19.0,2013_July
+890,800,Fetilizer plant,USA,Industrial accident,Explosion,620.0,Technological,2013-0179-USA,232635.0,Technological,85.97164225,15.0,2013_May
+891,801,N/A,USA,Wildfire,N/A,36.0,Climatological,2013-0315-USA,203555.0,Natural,85.97164225,-1.0,2013_August
+892,802,N/A,USA,Wildfire,N/A,36.0,Climatological,2013-0315-USA,203555.0,Natural,85.97164225,-1.0,2013_September
+893,803,N/A,USA,Wildfire,N/A,225.0,Climatological,2013-0404-USA,11632.0,Natural,85.97164225,1.0,2013_September
+894,804,N/A,VEN,Transport accident,Road,36.0,Technological,2013-0323-VEN,-1.0,Technological,85.97164225,16.0,2013_July
+895,805,N/A,DEU,Storm,Convective storm,-1.0,Meteorological,2013-0547-DEU,5583236.0,Natural,85.97164225,-1.0,2013_July
+896,806,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",90.0,Climatological,2014-0062-AUS,114461.0,Natural,87.36629784,-1.0,2014_February
+897,807,N/A,CAN,Flood,Flash flood,6904.0,Hydrological,2014-0319-CAN,147654.0,Natural,87.36629784,-1.0,2014_August
+898,808,N/A,AUS,Storm,Convective storm,52539.0,Meteorological,2014-0475-AUS,1144606.0,Natural,87.36629784,-1.0,2014_November
+899,809,N/A,AUS,Extreme temperature ,Heat wave,-1.0,Meteorological,2014-0010-AUS,-1.0,Natural,87.36629784,139.0,2014_January
+900,810,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",168.0,Climatological,2014-0004-AUS,28615.0,Natural,87.36629784,2.0,2014_January
+901,811,N/A,CAN,Extreme temperature ,Cold wave,-1.0,Meteorological,2014-0009-CAN,-1.0,Natural,87.36629784,-1.0,2014_January
+902,812,Elderly house,CAN,Miscellaneous accident,Fire,-1.0,Technological,2014-0031-CAN,-1.0,Technological,87.36629784,32.0,2014_January
+903,813,N/A,CHE,Storm,Convective storm,-1.0,Meteorological,2014-0458-CHE,-1.0,Natural,87.36629784,2.0,2014_November
+904,814,N/A,DEU,Storm,Convective storm,-1.0,Meteorological,2014-0209-DEU,-1.0,Natural,87.36629784,6.0,2014_June
+905,815,N/A,DEU,Storm,Convective storm,1.0,Meteorological,2014-0381-DEU,457842.0,Natural,87.36629784,2.0,2014_July
+906,816,N/A,DEU,Transport accident,Road,69.0,Technological,2014-0229-DEU,-1.0,Technological,87.36629784,11.0,2014_July
+907,817,N/A,AUS,Storm,Convective storm,1000.0,Meteorological,2015-0148-AUS,1486225.0,Natural,87.46993221,7.0,2015_April
+908,818,N/A,AUS,Flood,Flash flood,-1.0,Hydrological,2015-0576-AUS,457300.0,Natural,87.46993221,6.0,2015_April
+909,819,N/A,AUS,Flood,Flash flood,-1.0,Hydrological,2015-0576-AUS,457300.0,Natural,87.46993221,6.0,2015_May
+910,820,Cyclone Lam ,AUS,Storm,Tropical cyclone,438.0,Meteorological,2015-0053-AUS,89174.0,Natural,87.46993221,-1.0,2015_February
+911,821,Cyclone 'Marcia',AUS,Storm,Tropical cyclone,6000.0,Meteorological,2015-0079-AUS,624215.0,Natural,87.46993221,1.0,2015_February
+912,822,Cyclone 'Olwyn',AUS,Storm,Tropical cyclone,600.0,Meteorological,2015-0135-AUS,65165.0,Natural,87.46993221,-1.0,2015_March
+913,823,N/A,AUS,Wildfire,Forest fire,348.0,Climatological,2015-0560-AUS,114325.0,Natural,87.46993221,-1.0,2015_December
+914,824,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",134.0,Climatological,2015-0010-AUS,58306.0,Natural,87.46993221,-1.0,2015_January
+915,825,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",135.0,Climatological,2015-0514-AUS,228650.0,Natural,87.46993221,2.0,2015_November
+916,826,N/A,CAN,Wildfire,Forest fire,13036.0,Climatological,2015-0275-CAN,-1.0,Natural,87.46993221,-1.0,2015_July
+917,827,Fort McMurray wildfires,CAN,Wildfire,Forest fire,88000.0,Climatological,2016-0172-CAN,4516026.0,Natural,88.57345288,-1.0,2016_May
+918,828,Fort McMurray wildfires,CAN,Wildfire,Forest fire,88000.0,Climatological,2016-0172-CAN,4516026.0,Natural,88.57345288,-1.0,2016_June
+919,829,Fort McMurray wildfires,CAN,Wildfire,Forest fire,88000.0,Climatological,2016-0172-CAN,4516026.0,Natural,88.57345288,-1.0,2016_July
+920,830,N/A,AUS,Storm,Convective storm,-1.0,Meteorological,2016-0201-AUS,564503.0,Natural,88.57345288,5.0,2016_June
+921,831,Yarloop busfires,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",540.0,Climatological,2016-0014-AUS,124191.0,Natural,88.57345288,2.0,2016_January
+922,832,N/A,DEU,Transport accident,Rail,89.0,Technological,2016-0044-DEU,-1.0,Technological,88.57345288,12.0,2016_February
+923,833,N/A,DEU,Flood,N/A,-1.0,Hydrological,2016-0179-DEU,2258013.0,Natural,88.57345288,7.0,2016_May
+924,834,N/A,DEU,Flood,N/A,-1.0,Hydrological,2016-0179-DEU,2258013.0,Natural,88.57345288,7.0,2016_June
+925,835,N/A,KEN,Flood,Riverine flood,-1.0,Hydrological,2013-0545-KEN,-1.0,Natural,85.97164225,14.0,2013_December
+926,836,Boris,MEX,Storm,Tropical cyclone,-1.0,Meteorological,2014-0183-MEX,-1.0,Natural,87.36629784,-1.0,2014_May
+927,837,Boris,MEX,Storm,Tropical cyclone,-1.0,Meteorological,2014-0183-MEX,-1.0,Natural,87.36629784,-1.0,2014_June
+928,838,Hurricane Odile,MEX,Storm,Tropical cyclone,75135.0,Meteorological,2014-0333-MEX,2861515.0,Natural,87.36629784,6.0,2014_September
+929,839,Tropical storm Trudy,MEX,Storm,Tropical cyclone,30000.0,Meteorological,2014-0417-MEX,2289.0,Natural,87.36629784,6.0,2014_October
+930,840,Tropical storm Dolly,MEX,Storm,Tropical cyclone,1500.0,Meteorological,2014-0385-MEX,572.0,Natural,87.36629784,1.0,2014_September
+931,841,Hurricane Marie,MEX,Storm,Tropical cyclone,30000.0,Meteorological,2014-0325-MEX,16024.0,Natural,87.36629784,3.0,2014_August
+932,842,Hurricane Marie,MEX,Storm,Tropical cyclone,30000.0,Meteorological,2014-0325-MEX,16024.0,Natural,87.36629784,3.0,2014_September
+933,843,Hurricane Norbert,MEX,Storm,Tropical cyclone,7500.0,Meteorological,2014-0386-MEX,28615.0,Natural,87.36629784,3.0,2014_September
+934,844,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2014_December
+935,845,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_January
+936,846,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_February
+937,847,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_March
+938,848,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_April
+939,849,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_May
+940,850,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_June
+941,851,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_July
+942,852,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_August
+943,853,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_September
+944,854,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_October
+945,855,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_November
+946,856,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2015_December
+947,857,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2016_January
+948,858,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2016_February
+949,859,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2016_March
+950,860,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2016_April
+951,861,Cholera,KEN,Epidemic,Bacterial disease,3459.0,Biological,2014-0582-KEN,-1.0,Natural,87.36629784,72.0,2016_May
+952,862,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_January
+953,863,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_February
+954,864,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_March
+955,865,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_April
+956,866,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_May
+957,867,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_June
+958,868,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_July
+959,869,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_August
+960,870,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_September
+961,871,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_October
+962,872,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_November
+963,873,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2014_December
+964,874,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2015_January
+965,875,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2015_February
+966,876,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2015_March
+967,877,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2015_April
+968,878,N/A,KEN,Drought,Drought,1600000.0,Climatological,2014-9404-KEN,-1.0,Natural,87.36629784,-1.0,2015_May
+969,879,N/A,MEX,Earthquake,Ground movement,381.0,Geophysical,2014-0127-MEX,-1.0,Natural,87.36629784,-1.0,2014_April
+970,880,N/A,MEX,Earthquake,Ground movement,27000.0,Geophysical,2014-0234-MEX,-1.0,Natural,87.36629784,3.0,2014_July
+971,881,N/A,MEX,Storm,Convective storm,1471.0,Meteorological,2015-0121-MEX,2287.0,Natural,87.46993221,14.0,2015_March
+972,882,Hurricane Patricia,MEX,Storm,Tropical cyclone,15000.0,Meteorological,2015-0470-MEX,940895.0,Natural,87.46993221,14.0,2015_October
+973,883,N/A,KEN,Flood,Flash flood,1500.0,Hydrological,2015-0158-KEN,-1.0,Natural,87.46993221,13.0,2015_April
+974,884,N/A,KEN,Flood,Riverine flood,3000.0,Hydrological,2015-0159-KEN,-1.0,Natural,87.46993221,13.0,2015_April
+975,885,N/A,KEN,Flood,Riverine flood,3000.0,Hydrological,2015-0159-KEN,-1.0,Natural,87.46993221,13.0,2015_May
+976,886,N/A,KEN,Flood,Riverine flood,240799.0,Hydrological,2015-0564-KEN,-1.0,Natural,87.46993221,112.0,2015_December
+977,887,N/A,KEN,Flood,Riverine flood,240799.0,Hydrological,2015-0564-KEN,-1.0,Natural,87.46993221,112.0,2016_January
+978,888,Stampede,KEN,Miscellaneous accident,Other,141.0,Technological,2015-0139-KEN,-1.0,Technological,87.46993221,1.0,2015_April
+979,889,N/A,MEX,Storm,Convective storm,2320.0,Meteorological,2015-0187-MEX,-1.0,Natural,87.46993221,14.0,2015_May
+980,890,N/A,MEX,Flood,Riverine flood,3000.0,Hydrological,2015-0382-MEX,-1.0,Natural,87.46993221,-1.0,2015_March
+981,891,N/A,MEX,Transport accident,Road,20.0,Technological,2015-0018-MEX,-1.0,Technological,87.46993221,16.0,2015_January
+982,892,N/A,MEX,Transport accident,Road,3.0,Technological,2015-0115-MEX,-1.0,Technological,87.46993221,18.0,2015_March
+983,893,N/A,MEX,Transport accident,Road,100.0,Technological,2015-0305-MEX,-1.0,Technological,87.46993221,27.0,2015_July
+984,894,N/A,MEX,Transport accident,Road,10.0,Technological,2015-0517-MEX,-1.0,Technological,87.46993221,23.0,2015_November
+985,895,N/A,MEX,Transport accident,Road,30.0,Technological,2015-0553-MEX,-1.0,Technological,87.46993221,15.0,2015_December
+986,896,N/A,MEX,Transport accident,Rail,31.0,Technological,2015-0041-MEX,-1.0,Technological,87.46993221,20.0,2015_February
+987,897,N/A,KEN,Flood,N/A,10000.0,Hydrological,2016-0161-KEN,-1.0,Natural,88.57345288,39.0,2016_April
+988,898,N/A,KEN,Flood,N/A,10000.0,Hydrological,2016-0161-KEN,-1.0,Natural,88.57345288,39.0,2016_May
+989,899,N/A,KEN,Flood,Riverine flood,1000.0,Hydrological,2016-0089-KEN,-1.0,Natural,88.57345288,3.0,2016_March
+990,900,N/A,MEX,Transport accident,Road,-1.0,Technological,2016-0015-MEX,-1.0,Technological,88.57345288,21.0,2016_January
+991,901,N/A,MEX,Transport accident,Road,28.0,Technological,2016-0067-MEX,-1.0,Technological,88.57345288,12.0,2016_February
+992,902,Petrochimical plant,MEX,Industrial accident,Explosion,100.0,Technological,2016-0144-MEX,-1.0,Technological,88.57345288,32.0,2016_April
+993,903,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0579-USA,1279492.0,Natural,85.97164225,1.0,2013_February
+994,904,Cleon and Dion,USA,Storm,Convective storm,-1.0,Meteorological,2013-0550-USA,116317.0,Natural,85.97164225,20.0,2013_December
+995,905,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2013-0548-USA,2558983.0,Natural,85.97164225,2.0,2013_March
+996,906,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2013-0558-USA,-1.0,Natural,85.97164225,5.0,2013_December
+997,907,Boeing 777,USA,Transport accident,Air,182.0,Technological,2013-0586-USA,-1.0,Technological,85.97164225,3.0,2013_July
+998,908,N/A,USA,Storm,Convective storm,30.0,Meteorological,2014-0482-USA,-1.0,Natural,87.36629784,3.0,2014_December
+999,909,N/A,USA,Storm,Convective storm,300.0,Meteorological,2014-0263-USA,309044.0,Natural,87.36629784,-1.0,2014_July
+1000,910,N/A,USA,Storm,Convective storm,15.0,Meteorological,2014-0126-USA,2289212.0,Natural,87.36629784,40.0,2014_April
+1001,911,N/A,USA,Storm,Convective storm,15.0,Meteorological,2014-0126-USA,2289212.0,Natural,87.36629784,40.0,2014_May
+1002,912,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0444-USA,194583.0,Natural,87.36629784,2.0,2014_October
+1003,913,N/A,USA,Earthquake,Ground movement,3250.0,Geophysical,2014-0318-USA,801224.0,Natural,87.36629784,1.0,2014_August
+1004,914,N/A,USA,Flood,Flash flood,-1.0,Hydrological,2014-0491-USA,103015.0,Natural,87.36629784,-1.0,2014_December
+1005,915,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0192-USA,4463964.0,Natural,87.36629784,-1.0,2014_May
+1006,916,N/A,USA,Storm,Convective storm,36.0,Meteorological,2014-0540-USA,1831370.0,Natural,87.36629784,2.0,2014_June
+1007,917,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0048-USA,286152.0,Natural,87.36629784,9.0,2014_February
+1008,918,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0072-USA,858455.0,Natural,87.36629784,25.0,2014_February
+1009,919,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0052-USA,240367.0,Natural,87.36629784,16.0,2014_January
+1010,920,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0053-USA,286152.0,Natural,87.36629784,13.0,2014_January
+1011,921,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0100-USA,2289.0,Natural,87.36629784,12.0,2014_February
+1012,922,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0100-USA,2289.0,Natural,87.36629784,12.0,2014_March
+1013,923,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2014-0459-USA,114461.0,Natural,87.36629784,13.0,2014_November
+1014,924,N/A,USA,Flood,Riverine flood,102000.0,Hydrological,2014-0317-USA,1831370.0,Natural,87.36629784,2.0,2014_August
+1015,925,N/A,USA,Landslide,Landslide,150.0,Hydrological,2014-0095-USA,22892.0,Natural,87.36629784,43.0,2014_March
+1016,926,Hurricane Iselle,USA,Storm,Tropical cyclone,834.0,Meteorological,2014-0310-USA,75544.0,Natural,87.36629784,1.0,2014_August
+1017,927,N/A,USA,Extreme temperature ,Cold wave,-1.0,Meteorological,2014-0009-USA,2861515.0,Natural,87.36629784,21.0,2014_January
+1018,928,N/A,USA,Wildfire,Forest fire,429.0,Climatological,2014-0165-USA,114461.0,Natural,87.36629784,2.0,2014_May
+1019,929,N/A,USA,Transport accident,Road,30.0,Technological,2014-0167-USA,-1.0,Technological,87.36629784,10.0,2014_April
+1020,930,N/A,USA,Industrial accident,Chemical spill,169.0,Technological,2014-0568-USA,-1.0,Technological,87.36629784,-1.0,2014_January
+1021,931,Jail,USA,Miscellaneous accident,Explosion,184.0,Technological,2014-0556-USA,-1.0,Technological,87.36629784,2.0,2014_April
+1022,932,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_January
+1023,933,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_February
+1024,934,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_March
+1025,935,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_April
+1026,936,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_May
+1027,937,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_June
+1028,938,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_July
+1029,939,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_August
+1030,940,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_September
+1031,941,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_October
+1032,942,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_November
+1033,943,N/A,USA,Drought,Drought,-1.0,Climatological,2014-9023-USA,2518133.0,Natural,87.36629784,-1.0,2014_December
+1034,944,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0211-USA,1600550.0,Natural,87.46993221,4.0,2015_May
+1035,945,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0488-USA,308678.0,Natural,87.46993221,6.0,2015_October
+1036,946,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0488-USA,308678.0,Natural,87.46993221,6.0,2015_November
+1037,947,N/A,USA,Storm,Convective storm,12.0,Meteorological,2015-0155-USA,1086088.0,Natural,87.46993221,4.0,2015_April
+1038,948,N/A,USA,Storm,Convective storm,40.0,Meteorological,2015-0180-USA,182920.0,Natural,87.46993221,1.0,2015_May
+1039,949,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0245-USA,743113.0,Natural,87.46993221,-1.0,2015_June
+1040,950,N/A,USA,Storm,Convective storm,12.0,Meteorological,2015-0138-USA,1600550.0,Natural,87.46993221,3.0,2015_April
+1041,951,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0326-USA,800275.0,Natural,87.46993221,4.0,2015_July
+1042,952,Valley Fire,USA,Wildfire,N/A,4508.0,Climatological,2015-0401-USA,171488.0,Natural,87.46993221,4.0,2015_August
+1043,953,N/A,USA,Storm,Convective storm,3312.0,Meteorological,2015-0123-USA,571625.0,Natural,87.46993221,1.0,2015_March
+1044,954,N/A,USA,Storm,Convective storm,40.0,Meteorological,2015-0400-USA,1086088.0,Natural,87.46993221,4.0,2015_August
+1045,955,N/A,USA,Flood,N/A,4050.0,Hydrological,2015-0565-USA,685950.0,Natural,87.46993221,31.0,2015_December
+1046,956,N/A,USA,Flood,N/A,4050.0,Hydrological,2015-0565-USA,685950.0,Natural,87.46993221,31.0,2016_January
+1047,957,Storm Octavia,USA,Storm,Convective storm,-1.0,Meteorological,2015-0046-USA,114325.0,Natural,87.46993221,10.0,2015_February
+1048,958,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0072-USA,171488.0,Natural,87.46993221,22.0,2015_January
+1049,959,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0072-USA,171488.0,Natural,87.46993221,22.0,2015_February
+1050,960,N/A,USA,Storm,Convective storm,60.0,Meteorological,2015-0558-USA,2286500.0,Natural,87.46993221,50.0,2015_December
+1051,961,N/A,USA,Storm,Convective storm,300.0,Meteorological,2015-0531-USA,160055.0,Natural,87.46993221,18.0,2015_November
+1052,962,N/A,USA,Storm,Convective storm,300.0,Meteorological,2015-0531-USA,160055.0,Natural,87.46993221,18.0,2015_December
+1053,963,Joaquin,USA,Storm,Tropical cyclone,800.0,Meteorological,2015-0459-USA,2286500.0,Natural,87.46993221,25.0,2015_October
+1054,964,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0026-USA,91460.0,Natural,87.46993221,2.0,2015_January
+1055,965,N/A,USA,Flood,Flash flood,12000.0,Hydrological,2015-0212-USA,3086775.0,Natural,87.46993221,32.0,2015_May
+1056,966,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0177-USA,1143250.0,Natural,87.46993221,6.0,2015_May
+1057,967,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0025-USA,114325.0,Natural,87.46993221,15.0,2015_January
+1058,968,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0073-USA,3429750.0,Natural,87.46993221,30.0,2015_February
+1059,969,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2015-0122-USA,194353.0,Natural,87.46993221,13.0,2015_March
+1060,970,N/A,USA,Flood,Flash flood,12000.0,Hydrological,2015-0186-USA,-1.0,Natural,87.46993221,16.0,2015_May
+1061,971,N/A,USA,Flood,Flash flood,-1.0,Hydrological,2015-0431-USA,2287.0,Natural,87.46993221,19.0,2015_September
+1062,972,N/A,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",7302.0,Climatological,2015-0421-USA,1600550.0,Natural,87.46993221,4.0,2015_September
+1063,973,Butte fire,USA,Wildfire,"Land fire (Brush, Bush, Pasture)",1425.0,Climatological,2015-0613-USA,457300.0,Natural,87.46993221,3.0,2015_September
+1064,974,Military Helicopter UH-60,USA,Transport accident,Air,-1.0,Technological,2015-0085-USA,-1.0,Technological,87.46993221,11.0,2015_March
+1065,975,N/A,USA,Transport accident,Rail,200.0,Technological,2015-0174-USA,-1.0,Technological,87.46993221,8.0,2015_May
+1066,976,Storage facility,USA,Industrial accident,Gas leak,8234.0,Technological,2015-0587-USA,-1.0,Technological,87.46993221,-1.0,2015_October
+1067,977,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_January
+1068,978,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_February
+1069,979,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_March
+1070,980,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_April
+1071,981,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_May
+1072,982,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_June
+1073,983,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_July
+1074,984,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_August
+1075,985,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_September
+1076,986,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_October
+1077,987,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_November
+1078,988,N/A,USA,Drought,Drought,-1.0,Climatological,2015-9210-USA,5144625.0,Natural,87.46993221,-1.0,2015_December
+1079,989,N/A,USA,Industrial accident,Oil spill,-1.0,Technological,2015-0221-USA,-1.0,Technological,87.46993221,-1.0,2015_May
+1080,990,N/A,USA,Wildfire,N/A,129.0,Climatological,2015-0312-USA,2287.0,Natural,87.46993221,1.0,2015_July
+1081,991,N/A,USA,Wildfire,N/A,129.0,Climatological,2015-0312-USA,2287.0,Natural,87.46993221,1.0,2015_August
+1082,992,N/A,USA,Flood,N/A,600.0,Hydrological,2015-0399-USA,114325.0,Natural,87.46993221,-1.0,2015_July
+1083,993,N/A,USA,Flood,N/A,600.0,Hydrological,2015-0399-USA,114325.0,Natural,87.46993221,-1.0,2015_August
+1084,994,N/A,VEN,Flood,Riverine flood,45297.0,Hydrological,2015-0296-VEN,-1.0,Natural,87.46993221,-1.0,2015_June
+1085,995,N/A,VEN,Flood,Riverine flood,45297.0,Hydrological,2015-0296-VEN,-1.0,Natural,87.46993221,-1.0,2015_July
+1086,996,Prison,VEN,Miscellaneous accident,Fire,11.0,Technological,2015-0422-VEN,-1.0,Technological,87.46993221,17.0,2015_September
+1087,997,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2016-0012-USA,141126.0,Natural,88.57345288,-1.0,2016_January
+1088,998,N/A,USA,Storm,Convective storm,2000.0,Meteorological,2016-0203-USA,1129006.0,Natural,88.57345288,25.0,2016_June
+1089,999,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2016-0125-USA,2709615.0,Natural,88.57345288,6.0,2016_April
+1090,1000,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2016-0125-USA,2709615.0,Natural,88.57345288,6.0,2016_May
+1091,1001,N/A,USA,Storm,Convective storm,3000.0,Meteorological,2016-0123-USA,4403125.0,Natural,88.57345288,1.0,2016_April
+1092,1002,N/A,USA,Storm,Convective storm,10.0,Meteorological,2016-0150-USA,1919311.0,Natural,88.57345288,2.0,2016_May
+1093,1003,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2016-0086-USA,1354808.0,Natural,88.57345288,1.0,2016_March
+1094,1004,N/A,USA,Storm,Convective storm,300.0,Meteorological,2016-0087-USA,2596715.0,Natural,88.57345288,-1.0,2016_March
+1095,1005,N/A,USA,Flood,Flash flood,21000.0,Hydrological,2016-0124-USA,2258013.0,Natural,88.57345288,9.0,2016_April
+1096,1006,N/A,USA,Flood,N/A,-1.0,Hydrological,2016-0183-USA,338702.0,Natural,88.57345288,15.0,2016_May
+1097,1007,N/A,USA,Flood,N/A,-1.0,Hydrological,2016-0183-USA,338702.0,Natural,88.57345288,15.0,2016_June
+1098,1008,N/A,USA,Storm,Convective storm,12.0,Meteorological,2016-0181-USA,1241907.0,Natural,88.57345288,9.0,2016_May
+1099,1009,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2016-0085-USA,1806410.0,Natural,88.57345288,7.0,2016_March
+1100,1010,Storm Jonas (Snowzilla),USA,Storm,Convective storm,85000012.0,Meteorological,2016-0010-USA,620954.0,Natural,88.57345288,50.0,2016_January
+1101,1011,N/A,USA,Storm,Convective storm,12.0,Meteorological,2016-0051-USA,1354808.0,Natural,88.57345288,10.0,2016_February
+1102,1012,N/A,USA,Wildfire,Forest fire,891.0,Climatological,2016-0206-USA,169351.0,Natural,88.57345288,-1.0,2016_June
+1103,1013,Helicopter,USA,Transport accident,Air,-1.0,Technological,2016-0022-USA,-1.0,Technological,88.57345288,12.0,2016_January
+1104,1014,N/A,USA,Industrial accident,Gas leak,-1.0,Technological,2016-0013-USA,-1.0,Technological,88.57345288,-1.0,2016_January
+1105,1015,N/A,USA,Flood,N/A,-1.0,Hydrological,2016-0170-USA,-1.0,Natural,88.57345288,11.0,2016_April
+1106,1016,Dengue,AUS,Epidemic,Viral disease,2016.0,Biological,2016-0515-AUS,-1.0,Natural,88.57345288,-1.0,2016_January
+1107,1017,N/A,AUS,Flood,N/A,280.0,Hydrological,2016-0428-AUS,28225.0,Natural,88.57345288,1.0,2016_September
+1108,1018,N/A,CAN,Flood,N/A,300.0,Hydrological,2016-0243-CAN,-1.0,Natural,88.57345288,-1.0,2016_June
+1109,1019,N/A,DEU,Storm,Convective storm,24.0,Meteorological,2017-0360-DEU,175768.0,Natural,90.46017931,3.0,2017_August
+1110,1020,Sir Ivan fire,AUS,Wildfire,N/A,143.0,Climatological,2017-0072-AUS,22109.0,Natural,90.46017931,-1.0,2017_February
+1111,1021,"Gustafsen, Wildwood, Elephant Hill Fires",CAN,Wildfire,N/A,43441.0,Climatological,2017-0271-CAN,-1.0,Natural,90.46017931,-1.0,2017_July
+1112,1022,"Gustafsen, Wildwood, Elephant Hill Fires",CAN,Wildfire,N/A,43441.0,Climatological,2017-0271-CAN,-1.0,Natural,90.46017931,-1.0,2017_August
+1113,1023,"Gustafsen, Wildwood, Elephant Hill Fires",CAN,Wildfire,N/A,43441.0,Climatological,2017-0271-CAN,-1.0,Natural,90.46017931,-1.0,2017_September
+1114,1024,Debbie,AUS,Storm,Tropical cyclone,45000.0,Meteorological,2017-0105-AUS,2984739.0,Natural,90.46017931,12.0,2017_March
+1115,1025,Debbie,AUS,Storm,Tropical cyclone,45000.0,Meteorological,2017-0105-AUS,2984739.0,Natural,90.46017931,12.0,2017_April
+1116,1026,N/A,AUS,Storm,Convective storm,6000.0,Meteorological,2017-0562-AUS,541675.0,Natural,90.46017931,-1.0,2017_March
+1117,1027,N/A,CAN,Flood,N/A,16113.0,Hydrological,2017-0126-CAN,221092.0,Natural,90.46017931,2.0,2017_May
+1118,1028,N/A,CAN,Flood,N/A,3000.0,Hydrological,2017-0471-CAN,-1.0,Natural,90.46017931,-1.0,2017_August
+1119,1029,N/A,CHE,Mass movement (dry),Rockfall,200.0,Geophysical,2017-0350-CHE,-1.0,Natural,90.46017931,8.0,2017_August
+1120,1030,N/A,DEU,Storm,Convective storm,-1.0,Meteorological,2017-0565-DEU,818040.0,Natural,90.46017931,2.0,2017_June
+1121,1031,N/A,DEU,Flood,Riverine flood,600.0,Hydrological,2017-0310-DEU,-1.0,Natural,90.46017931,-1.0,2017_July
+1122,1032,N/A,DEU,Transport accident,Road,30.0,Technological,2017-0241-DEU,-1.0,Technological,90.46017931,18.0,2017_July
+1123,1033,N/A,CAN,Wildfire,Forest fire,3000.0,Climatological,2018-0299-CAN,-1.0,Natural,92.6696698,-1.0,2018_July
+1124,1034,N/A,CAN,Wildfire,Forest fire,3000.0,Climatological,2018-0299-CAN,-1.0,Natural,92.6696698,-1.0,2018_August
+1125,1035,Eleanor,CHE,Storm,Convective storm,16.0,Meteorological,2018-0002-CHE,-1.0,Natural,92.6696698,-1.0,2018_January
+1126,1036,'Friederike' (David),DEU,Storm,Extra-tropical storm,12.0,Meteorological,2018-0025-DEU,635024.0,Natural,92.6696698,5.0,2018_January
+1127,1037,N/A,AUS,Extreme temperature ,Heat wave,-1.0,Meteorological,2018-0459-AUS,-1.0,Natural,92.6696698,-1.0,2018_December
+1128,1038,N/A,AUS,Extreme temperature ,Heat wave,-1.0,Meteorological,2018-0459-AUS,-1.0,Natural,92.6696698,-1.0,2019_January
+1129,1039,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_January
+1130,1040,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_February
+1131,1041,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_March
+1132,1042,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_April
+1133,1043,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_May
+1134,1044,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_June
+1135,1045,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_July
+1136,1046,N/A,AUS,Drought,Drought,-1.0,Climatological,2018-9258-AUS,1294922.0,Natural,92.6696698,-1.0,2018_August
+1137,1047,N/A,AUS,Flood,N/A,600.0,Hydrological,2018-0123-AUS,12302.0,Natural,92.6696698,-1.0,2018_March
+1138,1048,N/A,CAN,Storm,Convective storm,930.0,Meteorological,2018-0366-CAN,350708.0,Natural,92.6696698,-1.0,2018_September
+1139,1049,N/A,CAN,Extreme temperature ,Heat wave,-1.0,Meteorological,2018-0195-CAN,-1.0,Natural,92.6696698,70.0,2018_June
+1140,1050,N/A,CAN,Extreme temperature ,Heat wave,-1.0,Meteorological,2018-0195-CAN,-1.0,Natural,92.6696698,70.0,2018_July
+1141,1051,N/A,CAN,Transport accident,Road,13.0,Technological,2018-0110-CAN,-1.0,Technological,92.6696698,16.0,2018_April
+1142,1052,N/A,CAN,Flood,N/A,4000.0,Hydrological,2018-0160-CAN,-1.0,Natural,92.6696698,-1.0,2018_May
+1143,1053,Junkers JU52 HB-HOT,CHE,Transport accident,Air,-1.0,Technological,2018-0261-CHE,-1.0,Technological,92.6696698,20.0,2018_August
+1144,1054,N/A,DEU,Extreme temperature ,Heat wave,-1.0,Meteorological,2018-0235-DEU,-1.0,Natural,92.6696698,-1.0,2018_July
+1145,1055,N/A,CAN,Flood,N/A,19500.0,Hydrological,2019-0171-CAN,847915.0,Natural,94.3490925,1.0,2019_April
+1146,1056,N/A,CAN,Flood,N/A,19500.0,Hydrological,2019-0171-CAN,847915.0,Natural,94.3490925,1.0,2019_May
+1147,1057,N/A,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",627.0,Climatological,2019-0084-AUS,-1.0,Natural,94.3490925,-1.0,2019_March
+1148,1058,N/A,CHE,Storm,Convective storm,-1.0,Meteorological,2019-0001-CHE,-1.0,Natural,94.3490925,4.0,2019_January
+1149,1059,N/A,AUS,Flood,Riverine flood,9900.0,Hydrological,2019-0028-AUS,2119787.0,Natural,94.3490925,3.0,2019_January
+1150,1060,N/A,AUS,Flood,Riverine flood,9900.0,Hydrological,2019-0028-AUS,2119787.0,Natural,94.3490925,3.0,2019_February
+1151,1061,N/A,DEU,Storm,Convective storm,-1.0,Meteorological,2019-0001-DEU,-1.0,Natural,94.3490925,1.0,2019_January
+1152,1062,Tropical storm 'Earl',MEX,Storm,Tropical cyclone,11000.0,Meteorological,2016-0284-MEX,-1.0,Natural,88.57345288,54.0,2016_August
+1153,1063,N/A,MEX,Flood,Flash flood,35000.0,Hydrological,2016-0424-MEX,-1.0,Natural,88.57345288,2.0,2016_November
+1154,1064,N/A,MEX,Flood,N/A,6000.0,Hydrological,2016-0325-MEX,-1.0,Natural,88.57345288,3.0,2016_September
+1155,1065,Hurricane Newton,MEX,Storm,Tropical cyclone,10500.0,Meteorological,2016-0319-MEX,56450.0,Natural,88.57345288,11.0,2016_September
+1156,1066,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2016_June
+1157,1067,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2016_July
+1158,1068,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2016_August
+1159,1069,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2016_September
+1160,1070,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2016_October
+1161,1071,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2016_November
+1162,1072,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2016_December
+1163,1073,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_January
+1164,1074,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_February
+1165,1075,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_March
+1166,1076,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_April
+1167,1077,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_May
+1168,1078,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_June
+1169,1079,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_July
+1170,1080,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_August
+1171,1081,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_September
+1172,1082,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_October
+1173,1083,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_November
+1174,1084,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2017_December
+1175,1085,N/A,KEN,Drought,Drought,3400000.0,Climatological,2016-9452-KEN,-1.0,Natural,88.57345288,-1.0,2018_January
+1176,1086,N/A,KEN,Transport accident,Road,-1.0,Technological,2016-0484-KEN,-1.0,Technological,88.57345288,33.0,2016_December
+1177,1087,N/A,KEN,Miscellaneous accident,Collapse,-1.0,Technological,2016-0574-KEN,-1.0,Technological,88.57345288,49.0,2016_April
+1178,1088,N/A,MEX,Flood,Flash flood,3000.0,Hydrological,2016-0333-MEX,28225.0,Natural,88.57345288,5.0,2016_September
+1179,1089,N/A,MEX,Flood,Flash flood,3000.0,Hydrological,2016-0333-MEX,28225.0,Natural,88.57345288,5.0,2016_October
+1180,1090,N/A,MEX,Flood,Flash flood,3000.0,Hydrological,2016-0532-MEX,-1.0,Natural,88.57345288,2.0,2016_February
+1181,1091,Fireworks market,MEX,Miscellaneous accident,Explosion,72.0,Technological,2016-0501-MEX,-1.0,Technological,88.57345288,42.0,2016_December
+1182,1092,N/A,MEX,Flood,N/A,6000.0,Hydrological,2016-0332-MEX,-1.0,Natural,88.57345288,13.0,2016_September
+1183,1093,N/A,MEX,Earthquake,Ground movement,1200250.0,Geophysical,2017-0382-MEX,2542555.0,Natural,90.46017931,98.0,2017_September
+1184,1094,Beatriz,MEX,Storm,Tropical cyclone,600.0,Meteorological,2017-0168-MEX,-1.0,Natural,90.46017931,6.0,2017_June
+1185,1095,Hurricane 'Franklin',MEX,Storm,Tropical cyclone,300.0,Meteorological,2017-0334-MEX,2211.0,Natural,90.46017931,-1.0,2017_August
+1186,1096,Hurricane Katia,MEX,Storm,Tropical cyclone,1110.0,Meteorological,2017-0392-MEX,-1.0,Natural,90.46017931,3.0,2017_September
+1187,1097,N/A,MEX,Earthquake,Ground movement,256000.0,Geophysical,2017-0387-MEX,6632753.0,Natural,90.46017931,369.0,2017_September
+1188,1098,Tropical storm 'Lidia',MEX,Storm,Tropical cyclone,1000.0,Meteorological,2017-0376-MEX,-1.0,Natural,90.46017931,20.0,2017_August
+1189,1099,Tropical storm 'Lidia',MEX,Storm,Tropical cyclone,1000.0,Meteorological,2017-0376-MEX,-1.0,Natural,90.46017931,20.0,2017_September
+1190,1100,N/A,KEN,Flood,Riverine flood,25000.0,Hydrological,2017-0205-KEN,-1.0,Natural,90.46017931,26.0,2017_May
+1191,1101,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_January
+1192,1102,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_February
+1193,1103,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_March
+1194,1104,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_April
+1195,1105,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_May
+1196,1106,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_June
+1197,1107,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_July
+1198,1108,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_August
+1199,1109,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_September
+1200,1110,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_October
+1201,1111,Cholera,KEN,Epidemic,Bacterial disease,3967.0,Biological,2017-0557-KEN,-1.0,Natural,90.46017931,76.0,2017_November
+1202,1112,Marburg,KEN,Epidemic,Viral disease,1.0,Biological,2017-0447-KEN,-1.0,Natural,90.46017931,-1.0,2017_October
+1203,1113,Marburg,KEN,Epidemic,Viral disease,1.0,Biological,2017-0447-KEN,-1.0,Natural,90.46017931,-1.0,2017_November
+1204,1114,Chikungunya,KEN,Epidemic,Viral disease,453.0,Biological,2017-0552-KEN,-1.0,Natural,90.46017931,-1.0,2017_December
+1205,1115,Chikungunya,KEN,Epidemic,Viral disease,453.0,Biological,2017-0552-KEN,-1.0,Natural,90.46017931,-1.0,2018_January
+1206,1116,Chikungunya,KEN,Epidemic,Viral disease,453.0,Biological,2017-0552-KEN,-1.0,Natural,90.46017931,-1.0,2018_February
+1207,1117,N/A,KEN,Transport accident,Road,-1.0,Technological,2017-0005-KEN,-1.0,Technological,90.46017931,11.0,2017_January
+1208,1118,N/A,KEN,Transport accident,Road,-1.0,Technological,2017-0116-KEN,-1.0,Technological,90.46017931,26.0,2017_April
+1209,1119,N/A,KEN,Transport accident,Road,11.0,Technological,2017-0533-KEN,-1.0,Technological,90.46017931,36.0,2017_December
+1210,1120,Migrants,KEN,Transport accident,Water,-1.0,Technological,2017-0191-KEN,-1.0,Technological,90.46017931,10.0,2017_June
+1211,1121,N/A,MEX,Flood,Riverine flood,800.0,Hydrological,2017-0498-MEX,-1.0,Natural,90.46017931,2.0,2017_September
+1212,1122,N/A,MEX,Flood,Riverine flood,800.0,Hydrological,2017-0498-MEX,-1.0,Natural,90.46017931,2.0,2017_October
+1213,1123,N/A,MEX,Transport accident,Road,9.0,Technological,2017-0100-MEX,-1.0,Technological,90.46017931,24.0,2017_April
+1214,1124,N/A,MEX,Transport accident,Road,31.0,Technological,2017-0210-MEX,-1.0,Technological,90.46017931,17.0,2017_May
+1215,1125,N/A,MEX,Transport accident,Road,12.0,Technological,2017-0518-MEX,-1.0,Technological,90.46017931,11.0,2017_December
+1216,1126,N/A,MEX,Transport accident,Road,2.0,Technological,2017-0523-MEX,-1.0,Technological,90.46017931,12.0,2017_December
+1217,1127,Firework depot,MEX,Miscellaneous accident,Explosion,22.0,Technological,2017-0127-MEX,-1.0,Technological,90.46017931,14.0,2017_May
+1218,1128,N/A,KEN,Flood,N/A,-1.0,Hydrological,2018-0148-KEN,-1.0,Natural,92.6696698,47.0,2018_May
+1219,1129,Tropical storm 'Vicente',MEX,Storm,Tropical cyclone,-1.0,Meteorological,2018-0421-MEX,7559.0,Natural,92.6696698,14.0,2018_October
+1220,1130,N/A,KEN,Transport accident,Air,-1.0,Technological,2018-0172-KEN,-1.0,Technological,92.6696698,10.0,2018_June
+1221,1131,N/A,KEN,Transport accident,Road,-1.0,Technological,2018-0107-KEN,-1.0,Technological,92.6696698,17.0,2018_April
+1222,1132,N/A,KEN,Transport accident,Road,-1.0,Technological,2018-0362-KEN,-1.0,Technological,92.6696698,51.0,2018_October
+1223,1133,Open market,KEN,Miscellaneous accident,Fire,70.0,Technological,2018-0187-KEN,-1.0,Technological,92.6696698,15.0,2018_June
+1224,1134,N/A,KEN,Flood,N/A,-1.0,Hydrological,2018-0116-KEN,-1.0,Natural,92.6696698,15.0,2018_March
+1225,1135,N/A,KEN,Flood,N/A,211188.0,Hydrological,2018-0132-KEN,377686.0,Natural,92.6696698,72.0,2018_March
+1226,1136,N/A,KEN,Flood,N/A,211188.0,Hydrological,2018-0132-KEN,377686.0,Natural,92.6696698,72.0,2018_April
+1227,1137,N/A,KEN,Flood,N/A,211188.0,Hydrological,2018-0132-KEN,377686.0,Natural,92.6696698,72.0,2018_May
+1228,1138,N/A,MEX,Earthquake,Ground movement,3004.0,Geophysical,2018-0315-MEX,-1.0,Natural,92.6696698,-1.0,2018_February
+1229,1139,N/A,MEX,Flood,Flash flood,120.0,Hydrological,2018-0367-MEX,-1.0,Natural,92.6696698,20.0,2018_September
+1230,1140,Hurricane Willa,MEX,Storm,Tropical cyclone,10000.0,Meteorological,2018-0406-MEX,579262.0,Natural,92.6696698,6.0,2018_October
+1231,1141,Helicopter,MEX,Transport accident,Air,-1.0,Technological,2018-0035-MEX,-1.0,Technological,92.6696698,14.0,2018_February
+1232,1142,N/A,MEX,Transport accident,Road,-1.0,Technological,2018-0228-MEX,-1.0,Technological,92.6696698,13.0,2018_July
+1233,1143,Fireworks depot,MEX,Miscellaneous accident,Explosion,-1.0,Technological,2018-0274-MEX,-1.0,Technological,92.6696698,12.0,2018_July
+1234,1144,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_January
+1235,1145,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_February
+1236,1146,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_March
+1237,1147,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_April
+1238,1148,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_May
+1239,1149,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_June
+1240,1150,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_July
+1241,1151,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_August
+1242,1152,N/A,KEN,Drought,Drought,2600000.0,Climatological,2019-9145-KEN,-1.0,Natural,94.3490925,-1.0,2019_September
+1243,1153,Cholera,KEN,Epidemic,Bacterial disease,3847.0,Biological,2019-0192-KEN,-1.0,Natural,94.3490925,26.0,2019_January
+1244,1154,Cholera,KEN,Epidemic,Bacterial disease,3847.0,Biological,2019-0192-KEN,-1.0,Natural,94.3490925,26.0,2019_February
+1245,1155,Cholera,KEN,Epidemic,Bacterial disease,3847.0,Biological,2019-0192-KEN,-1.0,Natural,94.3490925,26.0,2019_March
+1246,1156,Cholera,KEN,Epidemic,Bacterial disease,3847.0,Biological,2019-0192-KEN,-1.0,Natural,94.3490925,26.0,2019_April
+1247,1157,Cholera,KEN,Epidemic,Bacterial disease,3847.0,Biological,2019-0192-KEN,-1.0,Natural,94.3490925,26.0,2019_May
+1248,1158,Bombardier Challenger 601,MEX,Transport accident,Air,-1.0,Technological,2019-0190-MEX,-1.0,Technological,94.3490925,13.0,2019_May
+1249,1159,N/A,MEX,Transport accident,Road,33.0,Technological,2019-0103-MEX,-1.0,Technological,94.3490925,23.0,2019_March
+1250,1160,Oleoduc,MEX,Industrial accident,Explosion,22.0,Technological,2019-0019-MEX,-1.0,Technological,94.3490925,125.0,2019_January
+1251,1161,Sugar Refinery,USA,Industrial accident,Explosion,40.0,Technological,2008-0669-USA,406513.0,Technological,79.4563044,13.0,2008_February
+1252,1162,Hurricane Hermine,USA,Storm,Tropical cyclone,14070.0,Meteorological,2016-0322-USA,677404.0,Natural,88.57345288,3.0,2016_September
+1253,1163,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2016-0331-USA,620954.0,Natural,88.57345288,1.0,2016_September
+1254,1164,N/A,USA,Storm,Convective storm,33.0,Meteorological,2016-0477-USA,310477.0,Natural,88.57345288,8.0,2016_November
+1255,1165,N/A,USA,Storm,Convective storm,33.0,Meteorological,2016-0477-USA,310477.0,Natural,88.57345288,8.0,2016_December
+1256,1166,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2016-0521-USA,112901.0,Natural,88.57345288,22.0,2016_December
+1257,1167,Hurricane 'Matthew',USA,Storm,Tropical cyclone,-1.0,Meteorological,2016-0355-USA,11290065.0,Natural,88.57345288,49.0,2016_October
+1258,1168,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_April
+1259,1169,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_May
+1260,1170,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_June
+1261,1171,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_July
+1262,1172,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_August
+1263,1173,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_September
+1264,1174,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_October
+1265,1175,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_November
+1266,1176,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2016_December
+1267,1177,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2017_January
+1268,1178,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2017_February
+1269,1179,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2017_March
+1270,1180,N/A,USA,Storm,Convective storm,19.0,Meteorological,2016-0550-USA,-1.0,Natural,88.57345288,6.0,2017_April
+1271,1181,N/A,USA,Earthquake,Ground movement,120.0,Geophysical,2016-0493-USA,22580.0,Natural,88.57345288,-1.0,2016_November
+1272,1182,Sand Fire,USA,Wildfire,Forest fire,420.0,Climatological,2016-0264-USA,56450.0,Natural,88.57345288,2.0,2016_July
+1273,1183,Sand Fire,USA,Wildfire,Forest fire,420.0,Climatological,2016-0264-USA,56450.0,Natural,88.57345288,2.0,2016_August
+1274,1184,Clayton Fire,USA,Wildfire,Forest fire,567.0,Climatological,2016-0297-USA,112901.0,Natural,88.57345288,-1.0,2016_August
+1275,1185,N/A,USA,Wildfire,Forest fire,6574.0,Climatological,2016-0463-USA,1354808.0,Natural,88.57345288,14.0,2016_November
+1276,1186,N/A,USA,Wildfire,Forest fire,6574.0,Climatological,2016-0463-USA,1354808.0,Natural,88.57345288,14.0,2016_December
+1277,1187,Ballooning,USA,Transport accident,Air,-1.0,Technological,2016-0277-USA,-1.0,Technological,88.57345288,16.0,2016_July
+1278,1188,N/A,USA,Transport accident,Road,31.0,Technological,2016-0408-USA,-1.0,Technological,88.57345288,13.0,2016_October
+1279,1189,N/A,USA,Transport accident,Rail,110.0,Technological,2016-0353-USA,-1.0,Technological,88.57345288,1.0,2016_September
+1280,1190,Party in a festival,USA,Miscellaneous accident,Fire,2.0,Technological,2016-0466-USA,-1.0,Technological,88.57345288,36.0,2016_December
+1281,1191,N/A,USA,Flood,N/A,70000.0,Hydrological,2016-0292-USA,11290065.0,Natural,88.57345288,13.0,2016_August
+1282,1192,N/A,USA,Flood,N/A,-1.0,Hydrological,2016-0552-USA,2596715.0,Natural,88.57345288,5.0,2016_March
+1283,1193,N/A,VEN,Transport accident,Road,14.0,Technological,2016-0354-VEN,-1.0,Technological,88.57345288,11.0,2016_September
+1284,1194,N/A,VEN,Flood,N/A,-1.0,Hydrological,2016-0522-VEN,-1.0,Natural,88.57345288,-1.0,2016_November
+1285,1195,N/A,VEN,Flood,N/A,-1.0,Hydrological,2016-0522-VEN,-1.0,Natural,88.57345288,-1.0,2016_December
+1286,1196,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2017-0039-USA,442184.0,Natural,90.46017931,3.0,2017_January
+1287,1197,N/A,USA,Flood,N/A,70.0,Hydrological,2017-0136-USA,1879280.0,Natural,90.46017931,20.0,2017_April
+1288,1198,N/A,USA,Flood,N/A,70.0,Hydrological,2017-0136-USA,1879280.0,Natural,90.46017931,20.0,2017_May
+1289,1199,N/A,USA,Storm,Convective storm,630.0,Meteorological,2017-0336-USA,221092.0,Natural,90.46017931,-1.0,2017_August
+1290,1200,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2017-0542-USA,1216005.0,Natural,90.46017931,22.0,2017_December
+1291,1201,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2017-0542-USA,1216005.0,Natural,90.46017931,22.0,2018_January
+1292,1202,N/A,USA,Storm,Convective storm,200000.0,Meteorological,2017-0062-USA,1658188.0,Natural,90.46017931,5.0,2017_February
+1293,1203,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2017-0234-USA,1547642.0,Natural,90.46017931,-1.0,2017_June
+1294,1204,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2017-0564-USA,2984739.0,Natural,90.46017931,1.0,2017_March
+1295,1205,Hurricane Harvey,USA,Storm,Tropical cyclone,582024.0,Meteorological,2017-0362-USA,105018585.0,Natural,90.46017931,88.0,2017_August
+1296,1206,N/A,USA,Storm,Convective storm,612.0,Meteorological,2017-0070-USA,2100372.0,Natural,90.46017931,4.0,2017_February
+1297,1207,N/A,USA,Storm,Convective storm,612.0,Meteorological,2017-0070-USA,2100372.0,Natural,90.46017931,4.0,2017_March
+1298,1208,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2017-0203-USA,3426922.0,Natural,90.46017931,-1.0,2017_May
+1299,1209,N/A,USA,Storm,Convective storm,615.0,Meteorological,2017-0563-USA,2432009.0,Natural,90.46017931,2.0,2017_March
+1300,1210,N/A,USA,Storm,Convective storm,2.0,Meteorological,2017-0253-USA,2210918.0,Natural,90.46017931,-1.0,2017_June
+1301,1211,N/A,USA,Storm,Convective storm,8.0,Meteorological,2017-0512-USA,287419.0,Natural,90.46017931,-1.0,2017_November
+1302,1212,Hurricane 'Irma',USA,Storm,Tropical cyclone,70000.0,Meteorological,2017-0381-USA,63011151.0,Natural,90.46017931,97.0,2017_September
+1303,1213,N/A,TCD,Drought,Drought,1886800.0,Climatological,2017-9342-TCD,-1.0,Natural,90.46017931,-1.0,2017_March
+1304,1214,N/A,TCD,Drought,Drought,1886800.0,Climatological,2017-9342-TCD,-1.0,Natural,90.46017931,-1.0,2017_April
+1305,1215,N/A,TCD,Drought,Drought,1886800.0,Climatological,2017-9342-TCD,-1.0,Natural,90.46017931,-1.0,2017_May
+1306,1216,Cholera,TCD,Epidemic,Bacterial disease,652.0,Biological,2017-0421-TCD,-1.0,Natural,90.46017931,58.0,2017_August
+1307,1217,Cholera,TCD,Epidemic,Bacterial disease,652.0,Biological,2017-0421-TCD,-1.0,Natural,90.46017931,58.0,2017_September
+1308,1218,Cholera,TCD,Epidemic,Bacterial disease,652.0,Biological,2017-0421-TCD,-1.0,Natural,90.46017931,58.0,2017_October
+1309,1219,N/A,USA,Storm,Convective storm,12.0,Meteorological,2017-0108-USA,1105459.0,Natural,90.46017931,11.0,2017_March
+1310,1220,N/A,USA,Storm,Convective storm,200.0,Meteorological,2017-0022-USA,1216005.0,Natural,90.46017931,24.0,2017_January
+1311,1221,N/A,USA,Flood,Flash flood,-1.0,Hydrological,2017-0282-USA,-1.0,Natural,90.46017931,10.0,2017_July
+1312,1222,N/A,USA,Flood,Riverine flood,300.0,Hydrological,2017-0058-USA,-1.0,Natural,90.46017931,-1.0,2017_February
+1313,1223,Hurricane 'Maria',USA,Storm,Tropical cyclone,-1.0,Meteorological,2017-0383-USA,-1.0,Natural,90.46017931,4.0,2017_September
+1314,1224,Tropical depression'16/Hurricane 'Nate',USA,Storm,Tropical cyclone,60.0,Meteorological,2017-0410-USA,276365.0,Natural,90.46017931,-1.0,2017_October
+1315,1225,"Wall Fire, Alamo Fire, Whittier Fire",USA,Wildfire,Forest fire,156.0,Climatological,2017-0252-USA,-1.0,Natural,90.46017931,-1.0,2017_July
+1316,1226,"Tubbs, Atlas, Nuns Fires",USA,Wildfire,"Land fire (Brush, Bush, Pasture)",9185.0,Climatological,2017-0434-USA,14370964.0,Natural,90.46017931,43.0,2017_June
+1317,1227,"Tubbs, Atlas, Nuns Fires",USA,Wildfire,"Land fire (Brush, Bush, Pasture)",9185.0,Climatological,2017-0434-USA,14370964.0,Natural,90.46017931,43.0,2017_July
+1318,1228,"Tubbs, Atlas, Nuns Fires",USA,Wildfire,"Land fire (Brush, Bush, Pasture)",9185.0,Climatological,2017-0434-USA,14370964.0,Natural,90.46017931,43.0,2017_August
+1319,1229,"Tubbs, Atlas, Nuns Fires",USA,Wildfire,"Land fire (Brush, Bush, Pasture)",9185.0,Climatological,2017-0434-USA,14370964.0,Natural,90.46017931,43.0,2017_September
+1320,1230,"Tubbs, Atlas, Nuns Fires",USA,Wildfire,"Land fire (Brush, Bush, Pasture)",9185.0,Climatological,2017-0434-USA,14370964.0,Natural,90.46017931,43.0,2017_October
+1321,1231,"Tubbs, Atlas, Nuns Fires",USA,Wildfire,"Land fire (Brush, Bush, Pasture)",9185.0,Climatological,2017-0434-USA,14370964.0,Natural,90.46017931,43.0,2017_November
+1322,1232,"Tubbs, Atlas, Nuns Fires",USA,Wildfire,"Land fire (Brush, Bush, Pasture)",9185.0,Climatological,2017-0434-USA,14370964.0,Natural,90.46017931,43.0,2017_December
+1323,1233,Military plane KC-130,USA,Transport accident,Air,-1.0,Technological,2017-0309-USA,-1.0,Technological,90.46017931,16.0,2017_July
+1324,1234,N/A,USA,Transport accident,Rail,103.0,Technological,2017-0004-USA,-1.0,Technological,90.46017931,-1.0,2017_January
+1325,1235,Cosmetics factory,USA,Industrial accident,Explosion,125.0,Technological,2017-0572-USA,-1.0,Technological,90.46017931,1.0,2017_November
+1326,1236,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_March
+1327,1237,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_April
+1328,1238,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_May
+1329,1239,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_June
+1330,1240,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_July
+1331,1241,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_August
+1332,1242,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_September
+1333,1243,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_October
+1334,1244,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_November
+1335,1245,N/A,USA,Drought,Drought,-1.0,Climatological,2017-9550-USA,2763647.0,Natural,90.46017931,-1.0,2017_December
+1336,1246,Appartment building,USA,Miscellaneous accident,Fire,3.0,Technological,2017-0534-USA,-1.0,Technological,90.46017931,13.0,2017_December
+1337,1247,'Thomas',USA,Wildfire,N/A,2963.0,Climatological,2017-0511-USA,2432009.0,Natural,90.46017931,2.0,2017_December
+1338,1248,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2018-0111-USA,2481934.0,Natural,92.6696698,9.0,2018_March
+1339,1249,N/A,USA,Flood,N/A,1596.0,Hydrological,2018-0130-USA,134888.0,Natural,92.6696698,-1.0,2018_April
+1340,1250,Kilauea,USA,Volcanic activity,Lava flow,2500.0,Geophysical,2018-0146-USA,539551.0,Natural,92.6696698,-1.0,2018_May
+1341,1251,Carr and Mendocino Complex fires,USA,Wildfire,Forest fire,3237.0,Climatological,2018-0258-USA,1079102.0,Natural,92.6696698,14.0,2018_July
+1342,1252,Carr and Mendocino Complex fires,USA,Wildfire,Forest fire,3237.0,Climatological,2018-0258-USA,1079102.0,Natural,92.6696698,14.0,2018_August
+1343,1253,N/A,USA,Storm,Convective storm,18.0,Meteorological,2018-0344-USA,1079102.0,Natural,92.6696698,-1.0,2018_August
+1344,1254,N/A,USA,Storm,N/A,-1.0,Meteorological,2018-0129-USA,1402832.0,Natural,92.6696698,3.0,2018_April
+1345,1255,N/A,USA,Flood,Riverine flood,-1.0,Hydrological,2018-0419-USA,431641.0,Natural,92.6696698,5.0,2018_October
+1346,1256,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2018-0045-USA,1079102.0,Natural,92.6696698,22.0,2018_January
+1347,1257,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2018-0457-USA,161865.0,Natural,92.6696698,2.0,2018_December
+1348,1258,Hurricane Florence,USA,Storm,Tropical cyclone,1500000.0,Meteorological,2018-0342-USA,15107424.0,Natural,92.6696698,53.0,2018_September
+1349,1259,N/A,USA,Landslide,Mudslide,1366.0,Hydrological,2018-0010-USA,971192.0,Natural,92.6696698,21.0,2018_January
+1350,1260,Hurricane Michael,USA,Storm,Tropical cyclone,5000.0,Meteorological,2018-0373-USA,17265628.0,Natural,92.6696698,49.0,2018_October
+1351,1261,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2018-0279-USA,1618653.0,Natural,92.6696698,-1.0,2018_July
+1352,1262,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_May
+1353,1263,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_June
+1354,1264,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_July
+1355,1265,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_August
+1356,1266,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_September
+1357,1267,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_October
+1358,1268,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_November
+1359,1269,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2018_December
+1360,1270,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2019_January
+1361,1271,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2019_February
+1362,1272,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2019_March
+1363,1273,Measles,TCD,Epidemic,Viral disease,4227.0,Biological,2018-0438-TCD,-1.0,Natural,92.6696698,90.0,2019_April
+1364,1274,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2018-0046-USA,53955.0,Natural,92.6696698,10.0,2018_January
+1365,1275,N/A,USA,Flood,Flash flood,-1.0,Hydrological,2018-0331-USA,269775.0,Natural,92.6696698,2.0,2018_September
+1366,1276,N/A,USA,Storm,Convective storm,75.0,Meteorological,2018-0206-USA,1564697.0,Natural,92.6696698,5.0,2018_May
+1367,1277,Tropical storm 'Alberto',USA,Storm,Tropical cyclone,-1.0,Meteorological,2018-0170-USA,134888.0,Natural,92.6696698,5.0,2018_May
+1368,1278,Camp Fire,USA,Wildfire,Forest fire,250000.0,Climatological,2018-0409-USA,17805178.0,Natural,92.6696698,88.0,2018_June
+1369,1279,Camp Fire,USA,Wildfire,Forest fire,250000.0,Climatological,2018-0409-USA,17805178.0,Natural,92.6696698,88.0,2018_July
+1370,1280,Camp Fire,USA,Wildfire,Forest fire,250000.0,Climatological,2018-0409-USA,17805178.0,Natural,92.6696698,88.0,2018_August
+1371,1281,Camp Fire,USA,Wildfire,Forest fire,250000.0,Climatological,2018-0409-USA,17805178.0,Natural,92.6696698,88.0,2018_September
+1372,1282,Camp Fire,USA,Wildfire,Forest fire,250000.0,Climatological,2018-0409-USA,17805178.0,Natural,92.6696698,88.0,2018_October
+1373,1283,Camp Fire,USA,Wildfire,Forest fire,250000.0,Climatological,2018-0409-USA,17805178.0,Natural,92.6696698,88.0,2018_November
+1374,1284,Camp Fire,USA,Wildfire,Forest fire,250000.0,Climatological,2018-0409-USA,17805178.0,Natural,92.6696698,88.0,2018_December
+1375,1285,N/A,USA,Transport accident,Road,-1.0,Technological,2018-0359-USA,-1.0,Technological,92.6696698,20.0,2018_October
+1376,1286,N/A,USA,Transport accident,Water,-1.0,Technological,2018-0229-USA,-1.0,Technological,92.6696698,17.0,2018_July
+1377,1287,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_January
+1378,1288,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_February
+1379,1289,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_March
+1380,1290,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_April
+1381,1291,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_May
+1382,1292,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_June
+1383,1293,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_July
+1384,1294,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_August
+1385,1295,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_September
+1386,1296,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_October
+1387,1297,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_November
+1388,1298,N/A,USA,Drought,Drought,-1.0,Climatological,2018-9476-USA,3237305.0,Natural,92.6696698,-1.0,2018_December
+1389,1299,Woolsey Fire,USA,Wildfire,N/A,3.0,Climatological,2018-0468-USA,5611329.0,Natural,92.6696698,2.0,2018_November
+1390,1300,N/A,VEN,Flood,Flash flood,1000.0,Hydrological,2018-0386-VEN,-1.0,Natural,92.6696698,2.0,2018_September
+1391,1301,Stampede,VEN,Miscellaneous accident,Other,-1.0,Technological,2018-0182-VEN,-1.0,Technological,92.6696698,17.0,2018_June
+1392,1302,N/A,VEN,Flood,N/A,9700.0,Hydrological,2018-0290-VEN,-1.0,Natural,92.6696698,-1.0,2018_August
+1393,1303,N/A,USA,Flood,N/A,6000.0,Hydrological,2019-0086-USA,-1.0,Natural,94.3490925,1.0,2019_February
+1394,1304,N/A,USA,Flood,N/A,6000.0,Hydrological,2019-0086-USA,-1.0,Natural,94.3490925,1.0,2019_March
+1395,1305,Currowan,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",8883.0,Climatological,2019-0545-AUS,2119787.0,Natural,94.3490925,32.0,2019_September
+1396,1306,Currowan,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",8883.0,Climatological,2019-0545-AUS,2119787.0,Natural,94.3490925,32.0,2019_October
+1397,1307,Currowan,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",8883.0,Climatological,2019-0545-AUS,2119787.0,Natural,94.3490925,32.0,2019_November
+1398,1308,Currowan,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",8883.0,Climatological,2019-0545-AUS,2119787.0,Natural,94.3490925,32.0,2019_December
+1399,1309,Currowan,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",8883.0,Climatological,2019-0545-AUS,2119787.0,Natural,94.3490925,32.0,2020_January
+1400,1310,Currowan,AUS,Wildfire,"Land fire (Brush, Bush, Pasture)",8883.0,Climatological,2019-0545-AUS,2119787.0,Natural,94.3490925,32.0,2020_February
+1401,1311,N/A,USA,Storm,Convective storm,12.0,Meteorological,2019-0089-USA,1271872.0,Natural,94.3490925,2.0,2019_February
+1402,1312,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2019-0045-USA,105989.0,Natural,94.3490925,10.0,2019_January
+1403,1313,N/A,USA,Flood,N/A,8000.0,Hydrological,2019-0090-USA,-1.0,Natural,94.3490925,1.0,2019_February
+1404,1314,N/A,USA,Flood,N/A,8000.0,Hydrological,2019-0090-USA,-1.0,Natural,94.3490925,1.0,2019_March
+1405,1315,N/A,USA,Storm,Convective storm,177.0,Meteorological,2019-0160-USA,1377862.0,Natural,94.3490925,8.0,2019_April
+1406,1316,N/A,USA,Flood,Riverine flood,2000.0,Hydrological,2019-0116-USA,10598936.0,Natural,94.3490925,5.0,2019_March
+1407,1317,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2019-0046-USA,-1.0,Natural,94.3490925,22.0,2019_January
+1408,1318,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2019-0184-USA,-1.0,Natural,94.3490925,5.0,2019_April
+1409,1319,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2019-0532-CAN,291471.0,Natural,94.3490925,1.0,2019_October
+1410,1320,N/A,CAN,Storm,Convective storm,-1.0,Meteorological,2019-0532-CAN,291471.0,Natural,94.3490925,1.0,2019_November
+1411,1321,N/A,USA,Storm,Convective storm,57.0,Meteorological,2019-0007-USA,-1.0,Natural,94.3490925,13.0,2019_January
+1412,1322,N/A,USA,Storm,Convective storm,90.0,Meteorological,2019-0081-USA,201380.0,Natural,94.3490925,28.0,2019_March
+1413,1323,Migrants,VEN,Transport accident,Water,-1.0,Technological,2019-0174-VEN,-1.0,Technological,94.3490925,24.0,2019_April
+1414,1324,N/A,DEU,Extreme temperature ,Heat wave,-1.0,Meteorological,2019-0296-DEU,-1.0,Natural,94.3490925,4.0,2019_June
+1415,1325,N/A,DEU,Extreme temperature ,Heat wave,-1.0,Meteorological,2019-0366-DEU,-1.0,Natural,94.3490925,-1.0,2019_July
+1416,1326,Storm 'Alex',CHE,Storm,Convective storm,13.0,Meteorological,2020-0418-CHE,-1.0,Natural,95.51296742,-1.0,2020_October
+1417,1327,N/A,AUS,Storm,Convective storm,-1.0,Meteorological,2020-0019-AUS,1570467.0,Natural,95.51296742,-1.0,2020_January
+1418,1328,N/A,CAN,Storm,Convective storm,60000.0,Meteorological,2020-0266-CAN,1256374.0,Natural,95.51296742,-1.0,2020_June
+1419,1329,N/A,AUS,Flood,N/A,-1.0,Hydrological,2020-0053-AUS,1256374.0,Natural,95.51296742,1.0,2020_February
+1420,1330,N/A,AUS,Storm,Convective storm,-1.0,Meteorological,2020-0595-AUS,1256374.0,Natural,95.51296742,-1.0,2020_October
+1421,1331,N/A,CAN,Flood,Riverine flood,12936.0,Hydrological,2020-0191-CAN,1361072.0,Natural,95.51296742,1.0,2020_April
+1422,1332,Storm 'Ciara' (Sabine),DEU,Storm,Extra-tropical storm,33.0,Meteorological,2020-0051-DEU,-1.0,Natural,95.51296742,-1.0,2020_February
+1423,1333,N/A,MEX,Flood,N/A,3000.0,Hydrological,2019-0225-MEX,-1.0,Natural,94.3490925,7.0,2019_June
+1424,1334,N/A,KEN,Flood,Flash flood,233339.0,Hydrological,2019-0500-KEN,-1.0,Natural,94.3490925,90.0,2019_October
+1425,1335,N/A,KEN,Flood,Flash flood,233339.0,Hydrological,2019-0500-KEN,-1.0,Natural,94.3490925,90.0,2019_November
+1426,1336,N/A,KEN,Flood,Flash flood,233339.0,Hydrological,2019-0500-KEN,-1.0,Natural,94.3490925,90.0,2019_December
+1427,1337,N/A,KEN,Landslide,Landslide,120.0,Hydrological,2019-0557-KEN,-1.0,Natural,94.3490925,97.0,2019_November
+1428,1338,Tropical cyclone 'Lorena',MEX,Storm,Tropical cyclone,200.0,Meteorological,2019-0418-MEX,-1.0,Natural,94.3490925,1.0,2019_September
+1429,1339,Tropical storm 'Fernand',MEX,Storm,Tropical cyclone,-1.0,Meteorological,2019-0519-MEX,405939.0,Natural,94.3490925,1.0,2019_September
+1430,1340,N/A,KEN,Insect infestation,Locust,-1.0,Biological,2019-0630-KEN,-1.0,Natural,94.3490925,-1.0,2020_February
+1431,1341,Tropical storm 'Narda',MEX,Storm,Tropical cyclone,1000.0,Meteorological,2019-0450-MEX,-1.0,Natural,94.3490925,2.0,2019_September
+1432,1342,N/A,MEX,Transport accident,Road,30.0,Technological,2019-0240-MEX,-1.0,Technological,94.3490925,21.0,2019_May
+1433,1343,N/A,MEX,Transport accident,Road,12.0,Technological,2019-0628-MEX,-1.0,Technological,94.3490925,14.0,2019_December
+1434,1344,N/A,MEX,Flood,N/A,142.0,Hydrological,2019-0297-MEX,-1.0,Natural,94.3490925,2.0,2019_June
+1435,1345,N/A,MEX,Flood,N/A,500.0,Hydrological,2019-0596-MEX,-1.0,Natural,94.3490925,3.0,2019_November
+1436,1346,N/A,MEX,Flood,N/A,500.0,Hydrological,2019-0596-MEX,-1.0,Natural,94.3490925,3.0,2019_December
+1437,1347,N/A,KEN,Flood,N/A,810655.0,Hydrological,2020-0164-KEN,10470.0,Natural,95.51296742,285.0,2020_April
+1438,1348,N/A,KEN,Flood,N/A,810655.0,Hydrological,2020-0164-KEN,10470.0,Natural,95.51296742,285.0,2020_May
+1439,1349,N/A,KEN,Flood,N/A,810655.0,Hydrological,2020-0164-KEN,10470.0,Natural,95.51296742,285.0,2020_June
+1440,1350,Tropical storm 'Cristobal',MEX,Storm,Tropical cyclone,606.0,Meteorological,2020-0219-MEX,-1.0,Natural,95.51296742,-1.0,2020_June
+1441,1351,N/A,MEX,Flood,N/A,5100.0,Hydrological,2020-0353-MEX,-1.0,Natural,95.51296742,3.0,2020_August
+1442,1352,N/A,MEX,Flood,N/A,90000.0,Hydrological,2020-0506-MEX,-1.0,Natural,95.51296742,27.0,2020_November
+1443,1353,Hurricane 'Hanna',MEX,Storm,Tropical cyclone,-1.0,Meteorological,2020-0316-MEX,141342.0,Natural,95.51296742,5.0,2020_July
+1444,1354,Stampede,KEN,Miscellaneous accident,Other,39.0,Technological,2020-0042-KEN,-1.0,Technological,95.51296742,13.0,2020_February
+1445,1355,N/A,MEX,Earthquake,Ground movement,24393.0,Geophysical,2020-0281-MEX,78523.0,Natural,95.51296742,10.0,2020_June
+1446,1356,Tropical storm 'Gamma',MEX,Storm,Tropical cyclone,3500.0,Meteorological,2020-0416-MEX,104698.0,Natural,95.51296742,6.0,2020_October
+1447,1357,Hurricane 'Eta',MEX,Storm,Tropical cyclone,-1.0,Meteorological,2020-0474-MEX,-1.0,Natural,95.51296742,31.0,2020_November
+1448,1358,Hurricane 'Zeta',MEX,Storm,Tropical cyclone,-1.0,Meteorological,2020-0483-MEX,104698.0,Natural,95.51296742,-1.0,2020_October
+1449,1359,N/A,TCD,Landslide,Landslide,37.0,Hydrological,2019-0453-TCD,-1.0,Natural,94.3490925,52.0,2019_September
+1450,1360,N/A,USA,Storm,Convective storm,150.0,Meteorological,2019-0250-USA,-1.0,Natural,94.3490925,3.0,2019_May
+1451,1361,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2019-0624-USA,249075.0,Natural,94.3490925,18.0,2019_December
+1452,1362,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2019-0593-USA,-1.0,Natural,94.3490925,10.0,2019_November
+1453,1363,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2019-0593-USA,-1.0,Natural,94.3490925,10.0,2019_December
+1454,1364,Tropical cyclone 'Dorian',USA,Storm,Tropical cyclone,-1.0,Meteorological,2019-0412-USA,1695830.0,Natural,94.3490925,10.0,2019_August
+1455,1365,Tropical cyclone 'Dorian',USA,Storm,Tropical cyclone,-1.0,Meteorological,2019-0412-USA,1695830.0,Natural,94.3490925,10.0,2019_September
+1456,1366,Tropical storm ' Imelda',USA,Storm,Tropical cyclone,1000.0,Meteorological,2019-0417-USA,3709628.0,Natural,94.3490925,5.0,2019_September
+1457,1367,N/A,TCD,Flood,N/A,423.0,Hydrological,2019-0415-TCD,-1.0,Natural,94.3490925,-1.0,2019_September
+1458,1368,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2019-0484-USA,2755723.0,Natural,94.3490925,4.0,2019_October
+1459,1369,N/A,USA,Earthquake,Ground movement,150.0,Geophysical,2019-0306-USA,211979.0,Natural,94.3490925,-1.0,2019_July
+1460,1370,Tropical cylone 'Barry',USA,Storm,Tropical cyclone,-1.0,Meteorological,2019-0335-USA,635936.0,Natural,94.3490925,1.0,2019_July
+1461,1371,Saddleridge fire & Sandalwood fire,USA,Wildfire,Forest fire,603.0,Climatological,2019-0513-USA,344465.0,Natural,94.3490925,3.0,2019_October
+1462,1372,Kincade Fire,USA,Wildfire,Forest fire,662.0,Climatological,2019-0517-USA,1377862.0,Natural,94.3490925,-1.0,2019_October
+1463,1373,Bimoteur,USA,Transport accident,Air,-1.0,Technological,2019-0278-USA,-1.0,Technological,94.3490925,11.0,2019_June
+1464,1374,Bimotor,USA,Transport accident,Air,-1.0,Technological,2019-0341-USA,-1.0,Technological,94.3490925,10.0,2019_June
+1465,1375,Tourist boat 'Conception',USA,Transport accident,Water,-1.0,Technological,2019-0447-USA,-1.0,Technological,94.3490925,67.0,2019_September
+1466,1376,N/A,USA,Flood,N/A,600.0,Hydrological,2019-0307-USA,-1.0,Natural,94.3490925,3.0,2019_June
+1467,1377,N/A,VEN,Transport accident,Road,33.0,Technological,2019-0261-VEN,-1.0,Technological,94.3490925,18.0,2019_June
+1468,1378,Migrants,VEN,Transport accident,Water,-1.0,Technological,2019-0262-VEN,-1.0,Technological,94.3490925,30.0,2019_June
+1469,1379,N/A,VEN,Flood,N/A,2000.0,Hydrological,2019-0609-VEN,-1.0,Natural,94.3490925,6.0,2019_October
+1470,1380,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0583-USA,1675165.0,Natural,95.51296742,2.0,2020_May
+1471,1381,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0538-USA,366442.0,Natural,95.51296742,11.0,2020_November
+1472,1382,Hurricane 'Eta',USA,Storm,Tropical cyclone,-1.0,Meteorological,2020-0474-USA,1570467.0,Natural,95.51296742,12.0,2020_November
+1473,1383,N/A,USA,Flood,N/A,10000.0,Hydrological,2020-0212-USA,2198654.0,Natural,95.51296742,1.0,2020_May
+1474,1384,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0190-USA,3036237.0,Natural,95.51296742,-1.0,2020_April
+1475,1385,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0238-USA,889932.0,Natural,95.51296742,2.0,2020_May
+1476,1386,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_January
+1477,1387,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_February
+1478,1388,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_March
+1479,1389,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_April
+1480,1390,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_May
+1481,1391,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_June
+1482,1392,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_July
+1483,1393,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_August
+1484,1394,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_September
+1485,1395,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_October
+1486,1396,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_November
+1487,1397,N/A,USA,Drought,Drought,-1.0,Climatological,2020-9585-USA,4711402.0,Natural,95.51296742,45.0,2020_December
+1488,1398,N/A,USA,Storm,Convective storm,200.0,Meteorological,2020-0148-USA,3664424.0,Natural,95.51296742,38.0,2020_April
+1489,1399,N/A,USA,Storm,Convective storm,31.0,Meteorological,2020-0167-USA,1465770.0,Natural,95.51296742,3.0,2020_April
+1490,1400,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0011-USA,1256374.0,Natural,95.51296742,10.0,2020_January
+1491,1401,Hurricane 'Hanna',USA,Storm,Tropical cyclone,-1.0,Meteorological,2020-0316-USA,1151676.0,Natural,95.51296742,-1.0,2020_July
+1492,1402,Hurricane 'Delta',USA,Storm,Tropical cyclone,9400.0,Meteorological,2020-0412-USA,3036237.0,Natural,95.51296742,4.0,2020_October
+1493,1403,Hurricane 'Sally',USA,Storm,Tropical cyclone,-1.0,Meteorological,2020-0438-USA,6595963.0,Natural,95.51296742,8.0,2020_September
+1494,1404,Hurricane 'Zeta',USA,Storm,Tropical cyclone,-1.0,Meteorological,2020-0483-USA,3664424.0,Natural,95.51296742,6.0,2020_October
+1495,1405,Hurricane 'Laura',USA,Storm,Tropical cyclone,6500.0,Meteorological,2020-0376-USA,13610717.0,Natural,95.51296742,33.0,2020_August
+1496,1406,N/A,TCD,Flood,N/A,2062.0,Hydrological,2020-0302-TCD,-1.0,Natural,95.51296742,-1.0,2020_April
+1497,1407,N/A,TCD,Flood,N/A,34872.0,Hydrological,2020-0382-TCD,-1.0,Natural,95.51296742,3.0,2020_August
+1498,1408,N/A,TCD,Flood,N/A,34872.0,Hydrological,2020-0382-TCD,-1.0,Natural,95.51296742,3.0,2020_September
+1499,1409,N/A,TCD,Flood,N/A,34872.0,Hydrological,2020-0382-TCD,-1.0,Natural,95.51296742,3.0,2020_October
+1500,1410,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0580-USA,7119452.0,Natural,95.51296742,4.0,2020_August
+1501,1411,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0584-USA,1465770.0,Natural,95.51296742,-1.0,2020_May
+1502,1412,N/A,USA,Storm,Convective storm,12300.0,Meteorological,2020-0082-USA,2617446.0,Natural,95.51296742,25.0,2020_March
+1503,1413,N/A,USA,Storm,Convective storm,-1.0,Meteorological,2020-0582-USA,3036237.0,Natural,95.51296742,-1.0,2020_March
+1504,1414,N/A,USA,Flood,Riverine flood,3000.0,Hydrological,2020-0089-USA,183221.0,Natural,95.51296742,-1.0,2020_February
+1505,1415,Tropical storm 'Cristobal',USA,Storm,Tropical cyclone,-1.0,Meteorological,2020-0219-USA,340268.0,Natural,95.51296742,1.0,2020_June
+1506,1416,Hurricane 'Isaias',USA,Storm,Tropical cyclone,-1.0,Meteorological,2020-0312-USA,5025496.0,Natural,95.51296742,16.0,2020_July
+1507,1417,Hurricane 'Isaias',USA,Storm,Tropical cyclone,-1.0,Meteorological,2020-0312-USA,5025496.0,Natural,95.51296742,16.0,2020_August
+1508,1418,August Complex fire,USA,Wildfire,Forest fire,-1.0,Climatological,2020-0441-USA,11516761.0,Natural,95.51296742,32.0,2020_August
+1509,1419,August Complex fire,USA,Wildfire,Forest fire,-1.0,Climatological,2020-0441-USA,11516761.0,Natural,95.51296742,32.0,2020_September
+1510,1420,August Complex fire,USA,Wildfire,Forest fire,-1.0,Climatological,2020-0441-USA,11516761.0,Natural,95.51296742,32.0,2020_October
+1511,1421,Migrants,VEN,Transport accident,Water,-1.0,Technological,2020-0549-VEN,-1.0,Technological,95.51296742,28.0,2020_December
+1512,1422,N/A,VEN,Flood,N/A,3690.0,Hydrological,2020-0498-VEN,31409.0,Natural,95.51296742,3.0,2020_November

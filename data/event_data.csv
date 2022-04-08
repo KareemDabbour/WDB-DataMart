@@ -1,0 +1,984 @@
+Dis No,Year,Disaster Group,Disaster Subgroup,Disaster Type,Disaster Subtype,Event Name,ISO,Start Year,Start Month,End Year,End Month,Total Deaths,Total Affected,"Total Damages, Adjusted ('000 US$)",CPI
+2005-0014-AUS,2005,Natural,Climatological,Wildfire,Forest fire,,AUS,2005,1,2005,1,12,220,55501,72.07141045
+2005-0068-AUS,2005,Natural,Meteorological,Storm,,,AUS,2005,1,2005,1,,600,37463,72.07141045
+2005-0011-DEU,2005,Natural,Meteorological,Storm,Extra-tropical storm,Erwin,DEU,2005,1,2005,1,2,2,374628,72.07141045
+2005-0103-USA,2005,Natural,Hydrological,Flood,Riverine flood,,USA,2005,2,2005,2,9,150,346878,72.07141045
+2005-0015-USA,2005,Natural,Hydrological,Flood,Riverine flood,,USA,2005,1,2005,1,28,508,277503,72.07141045
+2005-0073-VEN,2005,Natural,Hydrological,Flood,Riverine flood,,VEN,2005,2,2005,2,76,25042,69376,72.07141045
+2005-0029-USA,2005,Natural,Meteorological,Storm,Convective storm,,USA,2005,1,2005,1,20,,485629,72.07141045
+2005-0009-USA,2005,Technological,Technological,Transport accident,Rail,,USA,2005,1,2005,1,9,950,,72.07141045
+2005-0006-MEX,2005,Technological,Technological,Transport accident,Road,,MEX,2005,1,2005,1,12,13,,72.07141045
+2005-0022-TCD,2005,Technological,Technological,Transport accident,Road,,TCD,2005,1,2005,1,14,28,,72.07141045
+2005-0052-USA,2005,Technological,Technological,Transport accident,Rail,,USA,2005,1,2005,1,11,180,,72.07141045
+2005-0148-USA,2005,Technological,Technological,Industrial accident,Explosion,Raffinerie BP,USA,2005,3,2005,3,15,170,,72.07141045
+2005-0021-VEN,2005,Natural,Hydrological,Flood,Riverine flood,,VEN,2005,1,2005,1,3,,1388,72.07141045
+2005-0523-AUS,2005,Natural,Hydrological,Flood,Riverine flood,,AUS,2005,6,2005,7,3,3000,80476,72.07141045
+2005-0655-DEU,2005,Natural,Meteorological,Extreme temperature ,Cold wave,,DEU,2005,11,2005,11,1,165,416254,72.07141045
+2005-0241-AUS,2005,Technological,Technological,Transport accident,Air,Bi-moteur Fairchild Metroliner,AUS,2005,5,2005,5,15,,,72.07141045
+2005-0697-AUS,2005,Natural,Meteorological,Storm,,,AUS,2005,12,2005,12,1,600,20813,72.07141045
+2005-0591-CAN,2005,Natural,Hydrological,Flood,Riverine flood,,CAN,2005,9,2005,9,,600,,72.07141045
+2005-0728-CAN,2005,Natural,Hydrological,Flood,Riverine flood,,CAN,2005,6,2005,7,4,5000,495342,72.07141045
+2005-0383-CAN,2005,Natural,Climatological,Wildfire,Forest fire,,CAN,2005,7,2005,7,,,,72.07141045
+2005-0460-CAN,2005,Natural,Climatological,Wildfire,Forest fire,,CAN,2005,8,2005,8,,,,72.07141045
+2005-0764-CAN,2005,Technological,Technological,Miscellaneous accident,Other,Food poisoning,CAN,2005,11,2005,12,,506,,72.07141045
+2005-0780-CAN,2005,Technological,Technological,Miscellaneous accident,Other,Poisoning,CAN,2005,5,2005,5,,155,,72.07141045
+2005-0553-CAN,2005,Natural,Meteorological,Storm,,,CAN,2005,9,2005,9,,300,,72.07141045
+2005-0451-CHE,2005,Natural,Hydrological,Flood,Riverine flood,,CHE,2005,8,2005,8,6,2500,2913777,72.07141045
+2005-0713-CHE,2005,Natural,Meteorological,Extreme temperature ,Severe winter conditions,,CHE,2005,12,2005,12,,,,72.07141045
+2005-0201-CHE,2005,Technological,Technological,Transport accident,Road,,CHE,2005,4,2005,4,12,,,72.07141045
+2005-0364-DEU,2005,Natural,Hydrological,Flood,Riverine flood,,DEU,2005,7,2005,7,,450,,72.07141045
+2005-0451-DEU,2005,Natural,Hydrological,Flood,Riverine flood,,DEU,2005,8,2005,8,1,,305253,72.07141045
+2005-0713-DEU,2005,Natural,Meteorological,Extreme temperature ,Severe winter conditions,,DEU,2006,1,2006,1,10,,,72.07141045
+2006-0224-CAN,2006,Natural,Hydrological,Flood,Riverine flood,,CAN,2006,4,2006,5,,2000,,74.39638749
+2006-0156-DEU,2006,Natural,Hydrological,Flood,Riverine flood,,DEU,2006,3,2006,4,,1000,,74.39638749
+2006-0352-DEU,2006,Natural,Meteorological,Storm,Convective storm,,DEU,2006,6,2006,6,1,100,,74.39638749
+2006-0155-AUS,2006,Natural,Meteorological,Storm,Tropical cyclone,Glenda,AUS,2006,3,2006,4,,500,,74.39638749
+2006-0043-AUS,2006,Natural,Meteorological,Storm,Tropical cyclone,Clare,AUS,2006,1,2006,1,,1500,3164,74.39638749
+2006-0139-AUS,2006,Natural,Meteorological,Storm,Tropical cyclone,Larry,AUS,2006,3,2006,4,,7030,1586099,74.39638749
+2006-0356-DEU,2006,Natural,Meteorological,Storm,,,DEU,2006,7,2006,7,,,,74.39638749
+2006-0179-AUS,2006,Natural,Hydrological,Flood,Riverine flood,,AUS,2006,4,2006,4,,1100,,74.39638749
+2006-0057-AUS,2006,Natural,Climatological,Wildfire,Forest fire,,AUS,2006,1,2006,4,3,81,67208,74.39638749
+2006-0666-AUS,2006,Natural,Climatological,Wildfire,Forest fire,,AUS,2006,12,2006,12,1,60,67208,74.39638749
+2006-9554-AUS,2006,Natural,Climatological,Drought,Drought,,AUS,2006,10,2006,,,,,74.39638749
+2006-0660-AUS,2006,Natural,Climatological,Wildfire,,,AUS,2006,11,2006,11,,,,74.39638749
+2006-0203-CAN,2006,Natural,Hydrological,Flood,Riverine flood,,CAN,2006,4,2006,4,,200,,74.39638749
+2006-0206-CAN,2006,Natural,Hydrological,Flood,Riverine flood,,CAN,2006,4,2006,4,,1000,,74.39638749
+2006-0261-CAN,2006,Natural,Hydrological,Flood,Riverine flood,,CAN,2006,5,2006,6,,300,,74.39638749
+2006-0269-CAN,2006,Natural,Hydrological,Flood,Riverine flood,,CAN,2006,5,2006,5,1,400,,74.39638749
+2006-0419-CHE,2006,Natural,Hydrological,Flood,Riverine flood,,CHE,2006,7,2006,7,,3000,,74.39638749
+2006-0124-CHE,2006,Natural,Meteorological,Storm,,,CHE,2006,3,2006,3,1,,,74.39638749
+2006-0383-DEU,2006,Natural,Meteorological,Extreme temperature ,Heat wave,,DEU,2006,7,2006,7,2,,,74.39638749
+2006-0529-DEU,2006,Technological,Technological,Transport accident,Rail,Transrapid,DEU,2006,9,2006,9,23,10,,74.39638749
+2006-0003-DEU,2006,Technological,Technological,Miscellaneous accident,Collapse,Roof of a skating-rink,DEU,2006,1,2006,1,15,18,,74.39638749
+2006-0124-DEU,2006,Natural,Meteorological,Storm,,,DEU,2006,3,2006,3,10,200,,74.39638749
+2007-0066-CAN,2007,Natural,Meteorological,Storm,Convective storm,,CAN,2007,2,2007,2,2,,,76.5186792
+2007-0037-CHE,2007,Natural,Meteorological,Storm,Convective storm,,CHE,2007,1,2007,1,,,,76.5186792
+2007-0019-CHE,2007,Natural,Meteorological,Storm,Extra-tropical storm,Kyrill,CHE,2007,1,2007,1,,,130687,76.5186792
+2007-0037-DEU,2007,Natural,Meteorological,Storm,Convective storm,,DEU,2007,1,2007,1,7,,,76.5186792
+2007-0019-DEU,2007,Natural,Meteorological,Storm,Extra-tropical storm,Kyrill,DEU,2007,1,2007,1,11,130,7187787,76.5186792
+2005-0467-USA,2005,Natural,Meteorological,Storm,Tropical cyclone,Katrina,USA,2005,8,2005,9,1833,500000,173439092,72.07141045
+2005-0716-USA,2005,Natural,Hydrological,Flood,Riverine flood,,USA,2005,12,2006,1,3,3600,339941,72.07141045
+2005-0585-USA,2005,Natural,Meteorological,Storm,Tropical cyclone,"Hurricane ""Wilma""",USA,2005,10,2005,10,4,30000,19841432,72.07141045
+2005-0470-MEX,2005,Natural,Hydrological,Flood,Riverine flood,,MEX,2005,8,2005,8,30,10000,,72.07141045
+2005-0567-MEX,2005,Natural,Meteorological,Storm,Tropical cyclone,Stan,MEX,2005,10,2005,10,36,1954571,3468782,72.07141045
+2005-0585-MEX,2005,Natural,Meteorological,Storm,Tropical cyclone,"Hurricane ""Wilma""",MEX,2005,10,2005,10,7,1000000,6937564,72.07141045
+2005-0283-MEX,2005,Natural,Hydrological,Flood,,,MEX,2005,5,2005,5,8,1000,,72.07141045
+2005-0286-USA,2005,Natural,Hydrological,Flood,Flash flood,,USA,2005,5,2005,5,,,7395,72.07141045
+2005-0583-USA,2005,Natural,Hydrological,Flood,Riverine flood,,USA,2005,10,2005,10,11,3000,,72.07141045
+2005-0524-MEX,2005,Natural,Meteorological,Storm,Tropical cyclone,Bret,MEX,2005,6,2005,6,2,15000,13875,72.07141045
+2005-0219-USA,2005,Natural,Meteorological,Storm,Convective storm,,USA,2005,4,2005,4,,104,485629,72.07141045
+2005-0547-USA,2005,Natural,Meteorological,Storm,Tropical cyclone,Rita,USA,2005,9,2005,10,10,300000,22200204,72.07141045
+2005-9719-KEN,2005,Natural,Climatological,Drought,Drought,,KEN,2005,12,2006,,27,3500000,,72.07141045
+2005-0215-KEN,2005,Natural,Hydrological,Flood,Flash flood,,KEN,2005,4,2005,4,1,25000,694,72.07141045
+2005-0260-KEN,2005,Natural,Hydrological,Flood,Flash flood,,KEN,2005,5,2005,5,5,10000,,72.07141045
+2005-0526-KEN,2005,Natural,Hydrological,Flood,Riverine flood,,KEN,2005,6,2005,6,20,1200,,72.07141045
+2005-0755-KEN,2005,Natural,Biological,Epidemic,Bacterial disease,Meningococcal disease,KEN,2005,12,2006,2,12,45,,72.07141045
+2005-0813-KEN,2005,Natural,Biological,Epidemic,Viral disease,,KEN,2005,11,2006,4,41,1600,,72.07141045
+2005-0384-KEN,2005,Technological,Technological,Transport accident,Road,,KEN,2005,7,2005,7,23,20,,72.07141045
+2005-0431-KEN,2005,Technological,Technological,Transport accident,Road,,KEN,2005,8,2005,8,17,4,,72.07141045
+2005-0405-KEN,2005,Technological,Technological,Miscellaneous accident,Other,Poisoning,KEN,2005,6,2005,6,48,84,,72.07141045
+2005-0779-KEN,2005,Technological,Technological,Miscellaneous accident,Other,Food poisoning,KEN,2005,5,2005,5,54,,,72.07141045
+2005-0601-MEX,2005,Natural,Hydrological,Flood,Riverine flood,,MEX,2005,9,2005,9,3,3000,,72.07141045
+2005-0382-MEX,2005,Natural,Meteorological,Storm,Tropical cyclone,Emily,MEX,2005,7,2005,7,2,,555005,72.07141045
+2005-0184-MEX,2005,Technological,Technological,Transport accident,Road,,MEX,2005,4,2005,4,20,15,,72.07141045
+2005-0532-MEX,2005,Technological,Technological,Miscellaneous accident,Explosion,Fireworks market,MEX,2005,9,2005,9,,104,,72.07141045
+2005-0220-TCD,2005,Natural,Biological,Epidemic,Viral disease,,TCD,2005,1,2005,5,115,6000,,72.07141045
+2005-0530-USA,2005,Natural,Meteorological,Storm,Convective storm,,USA,2005,8,2005,8,,201,,72.07141045
+2005-0682-USA,2005,Natural,Meteorological,Storm,Convective storm,,USA,2005,12,2005,12,10,,,72.07141045
+2005-0203-USA,2005,Natural,Hydrological,Flood,Riverine flood,,USA,2005,4,2005,4,2,11000,41625,72.07141045
+2005-0351-USA,2005,Natural,Meteorological,Storm,Tropical cyclone,"Hurricane ""Dennis""",USA,2005,7,2005,7,5,,3094153,72.07141045
+2005-0687-USA,2005,Natural,Meteorological,Extreme temperature ,Heat wave,,USA,2005,7,2005,7,33,31,,72.07141045
+2005-0724-USA,2005,Natural,Climatological,Wildfire,Forest fire,,USA,2005,12,2006,1,5,1410,138751,72.07141045
+2005-0700-USA,2005,Technological,Technological,Transport accident,Air,Bimoteur Grumman G-73T,USA,2005,12,2005,12,19,,,72.07141045
+2005-0546-USA,2005,Technological,Technological,Transport accident,Road,,USA,2005,9,2005,9,24,17,,72.07141045
+2005-0562-USA,2005,Technological,Technological,Transport accident,Water,,USA,2005,10,2005,10,21,28,,72.07141045
+2005-0305-VEN,2005,Natural,Hydrological,Flood,Riverine flood,,VEN,2005,6,2005,6,5,1650,,72.07141045
+2005-0397-VEN,2005,Natural,Hydrological,Flood,Riverine flood,,VEN,2005,6,2005,6,13,19105,,72.07141045
+2005-0440-VEN,2005,Technological,Technological,Transport accident,Air,McDonnell Douglas MD-82,VEN,2005,8,2005,8,160,,,72.07141045
+2005-0642-VEN,2005,Technological,Technological,Transport accident,Road,,VEN,2005,11,2005,11,19,,,72.07141045
+2005-0643-VEN,2005,Technological,Technological,Transport accident,Road,,VEN,2005,11,2005,11,14,,,72.07141045
+2005-0775-VEN,2005,Technological,Technological,Miscellaneous accident,Other,Food poisoning,VEN,2005,6,2005,6,,120,,72.07141045
+2005-0705-VEN,2005,Technological,Technological,Miscellaneous accident,Fire,Fireworks and munitions shop,VEN,2005,12,2005,12,41,5,,72.07141045
+2006-0180-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,4,2006,4,1,600,348135,74.39638749
+2006-0182-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,3,2006,3,7,,16130,74.39638749
+2006-0483-MEX,2006,Natural,Meteorological,Storm,Tropical cyclone,John,MEX,2006,9,2006,9,7,10000,,74.39638749
+2006-0505-MEX,2006,Natural,Meteorological,Storm,Tropical cyclone,Lane,MEX,2006,9,2006,9,4,240700,3629,74.39638749
+2006-0704-USA,2006,Natural,Geophysical,Earthquake,Ground movement,,USA,2006,10,2006,10,,3529,201623,74.39638749
+2006-0341-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,6,2006,7,11,65000,1344151,74.39638749
+2006-0161-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,4,2006,4,28,3636,806491,74.39638749
+2006-0171-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,4,2006,4,12,625,2150642,74.39638749
+2006-0257-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,5,2006,5,1,600,604868,74.39638749
+2006-0260-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,5,2006,5,2,2500,114253,74.39638749
+2006-0546-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,9,2006,9,14,1210,,74.39638749
+2006-0743-USA,2006,Natural,Meteorological,Storm,,,USA,2006,11,2006,12,11,,,74.39638749
+2006-0604-MEX,2006,Natural,Meteorological,Storm,Tropical cyclone,Paul,MEX,2006,10,2006,10,4,20000,,74.39638749
+2006-0128-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,3,2006,3,10,42,1612982,74.39638749
+2006-0595-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,11,2006,11,12,20,127694,74.39638749
+2006-0642-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,10,2006,10,3,,403245,74.39638749
+2006-0466-USA,2006,Natural,Meteorological,Storm,Tropical cyclone,Ernesto,USA,2006,8,2006,9,6,140,44169,74.39638749
+2006-0178-KEN,2006,Natural,Hydrological,Flood,Riverine flood,,KEN,2006,4,2006,5,60,17300,,74.39638749
+2006-0234-KEN,2006,Natural,Hydrological,Flood,Riverine flood,,KEN,2006,4,2006,5,8,13000,,74.39638749
+2006-0587-KEN,2006,Natural,Hydrological,Flood,Riverine flood,,KEN,2006,10,2006,10,30,30000,,74.39638749
+2006-0624-KEN,2006,Natural,Hydrological,Flood,Riverine flood,,KEN,2006,10,2006,12,114,723000,,74.39638749
+2006-0136-KEN,2006,Natural,Biological,Epidemic,Bacterial disease,Meningococcal disease,KEN,2006,1,2006,1,15,59,,74.39638749
+2006-0322-KEN,2006,Natural,Biological,Epidemic,Parasitic disease,Disentery,KEN,2006,5,2006,5,13,,,74.39638749
+2006-0750-KEN,2006,Natural,Biological,Epidemic,Viral disease,Rift Valley Fever,KEN,2006,11,2007,3,155,529,,74.39638749
+2006-0174-KEN,2006,Technological,Technological,Transport accident,Air,Military plane Y-12,KEN,2006,4,2006,4,14,3,,74.39638749
+2006-0026-KEN,2006,Technological,Technological,Transport accident,Road,,KEN,2006,1,2006,1,15,5,,74.39638749
+2006-0273-KEN,2006,Technological,Technological,Transport accident,Road,,KEN,2006,6,2006,6,29,25,,74.39638749
+2006-0293-KEN,2006,Technological,Technological,Transport accident,Road,,KEN,2006,5,2006,5,13,15,,74.39638749
+2006-0452-KEN,2006,Technological,Technological,Transport accident,Road,,KEN,2006,8,2006,8,11,3,,74.39638749
+2006-0588-KEN,2006,Technological,Technological,Transport accident,Road,,KEN,2006,10,2006,10,12,1,,74.39638749
+2006-0594-KEN,2006,Technological,Technological,Transport accident,Road,,KEN,2006,11,2006,11,13,,,74.39638749
+2006-0034-KEN,2006,Technological,Technological,Industrial accident,Collapse,Building in construction,KEN,2006,1,2006,1,20,92,,74.39638749
+2006-0413-MEX,2006,Natural,Hydrological,Flood,Riverine flood,,MEX,2006,7,2006,8,,,,74.39638749
+2006-0407-MEX,2006,Natural,Hydrological,Landslide,Landslide,,MEX,2006,8,2006,8,11,,,74.39638749
+2006-0498-MEX,2006,Natural,Hydrological,Landslide,Landslide,,MEX,2006,9,2006,9,10,,,74.39638749
+2006-0709-MEX,2006,Natural,Meteorological,Extreme temperature ,Cold wave,,MEX,2006,11,2006,11,5,,,74.39638749
+2006-0193-MEX,2006,Technological,Technological,Transport accident,Road,,MEX,2006,4,2006,4,57,3,,74.39638749
+2006-0561-MEX,2006,Technological,Technological,Transport accident,Road,,MEX,2006,10,2006,10,14,,,74.39638749
+2006-0691-MEX,2006,Technological,Technological,Transport accident,Road,,MEX,2006,12,2006,12,22,9,,74.39638749
+2006-0101-MEX,2006,Technological,Technological,Industrial accident,Explosion,Mine,MEX,2006,2,2006,2,65,8,,74.39638749
+2006-0711-TCD,2006,Natural,Hydrological,Flood,Riverine flood,,TCD,2006,9,2006,10,52,,,74.39638749
+2006-0639-TCD,2006,Natural,Biological,Epidemic,Bacterial disease,Cholera,TCD,2006,6,2006,6,20,216,,74.39638749
+2006-0706-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,12,2006,12,,600,120974,74.39638749
+2006-0707-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,12,2006,12,,,,74.39638749
+2006-0718-USA,2006,Natural,Meteorological,Storm,Convective storm,,USA,2006,12,2006,12,,,483894,74.39638749
+2006-0344-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,6,2006,6,2,2400,9409,74.39638749
+2006-0413-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,7,2006,8,,,134415,74.39638749
+2006-0418-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,7,2006,7,1,600,,74.39638749
+2006-0461-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,8,2006,8,,150,20834,74.39638749
+2006-0566-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,10,2006,10,,100,,74.39638749
+2006-0598-USA,2006,Natural,Hydrological,Flood,Riverine flood,,USA,2006,11,2006,11,2,1500,,74.39638749
+2006-0387-USA,2006,Natural,Meteorological,Extreme temperature ,Heat wave,,USA,2006,7,2006,8,164,,,74.39638749
+2006-0427-USA,2006,Natural,Meteorological,Extreme temperature ,Heat wave,,USA,2006,7,2006,8,24,,,74.39638749
+2006-0576-USA,2006,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,USA,2006,10,2006,10,4,103,33604,74.39638749
+2006-0662-USA,2006,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,USA,2006,12,2006,12,,15,33604,74.39638749
+2006-0478-USA,2006,Technological,Technological,Transport accident,Air,,USA,2006,8,2006,8,49,1,,74.39638749
+2006-0399-USA,2006,Technological,Technological,Transport accident,Water,"""Paquebot ""Crown princess""",USA,2006,7,2006,7,,100,,74.39638749
+2006-0005-USA,2006,Technological,Technological,Industrial accident,Explosion,Mine,USA,2006,1,2006,1,13,7,,74.39638749
+2006-0637-USA,2006,Technological,Technological,Miscellaneous accident,Fire,Hall for mentally handicapped people,USA,2006,11,2006,11,10,19,,74.39638749
+2006-0374-USA,2006,Natural,Climatological,Wildfire,,,USA,2006,7,2006,7,1,167,21506,74.39638749
+2006-0744-USA,2006,Natural,Meteorological,Storm,,,USA,2006,12,2006,12,10,,,74.39638749
+2006-0643-VEN,2006,Natural,Hydrological,Flood,Riverine flood,,VEN,2006,10,2006,10,,135,,74.39638749
+2007-0026-USA,2007,Natural,Meteorological,Storm,,,USA,2007,1,2007,1,65,220,653435,76.5186792
+2007-0066-USA,2007,Natural,Meteorological,Storm,Convective storm,,USA,2007,2,2007,2,16,,182962,76.5186792
+2007-0038-MEX,2007,Technological,Technological,Transport accident,Road,,MEX,2007,1,2007,1,29,25,,76.5186792
+2007-0048-USA,2007,Natural,Meteorological,Storm,Convective storm,,USA,2007,2,2007,2,20,6600,169893,76.5186792
+2007-0041-USA,2007,Natural,Hydrological,Flood,Riverine flood,,USA,2007,1,2007,1,24,,,76.5186792
+2007-0160-AUS,2007,Natural,Hydrological,Flood,Flash flood,,AUS,2007,6,2007,6,9,5000,1698932,76.5186792
+2007-0591-AUS,2007,Natural,Meteorological,Storm,Tropical cyclone,George and Jacob,AUS,2007,3,2007,3,2,820,130687,76.5186792
+2007-0714-AUS,2007,Technological,Technological,Transport accident,Rail,,AUS,2007,6,2007,6,11,23,,76.5186792
+2007-0165-CAN,2007,Natural,Hydrological,Flood,Riverine flood,,CAN,2007,6,2007,6,,500,,76.5186792
+2007-0621-CAN,2007,Natural,Meteorological,Storm,,,CAN,2007,12,2007,12,4,,,76.5186792
+2007-0349-CHE,2007,Natural,Hydrological,Flood,Riverine flood,,CHE,2007,8,2007,8,1,101,457405,76.5186792
+2007-0349-DEU,2007,Natural,Hydrological,Flood,Riverine flood,,DEU,2007,8,2007,8,1,,,76.5186792
+2007-0223-DEU,2007,Technological,Technological,Transport accident,Road,,DEU,2007,6,2007,6,13,30,,76.5186792
+2008-0525-AUS,2008,Natural,Meteorological,Storm,Convective storm,,AUS,2008,11,2008,11,1,12000,566349,79.4563044
+2008-0581-AUS,2008,Natural,Hydrological,Flood,Riverine flood,,AUS,2008,11,2008,11,4,1200,346102,79.4563044
+2008-0653-DEU,2008,Natural,Meteorological,Storm,Convective storm,Hilal,DEU,2008,5,2008,6,3,,1887830,79.4563044
+2008-0082-DEU,2008,Natural,Meteorological,Storm,Extra-tropical storm,Emma,DEU,2008,2,2008,3,5,,1510264,79.4563044
+2008-0264-CAN,2008,Natural,Hydrological,Flood,Riverine flood,,CAN,2008,4,2008,5,,2000,,79.4563044
+2008-0014-AUS,2008,Natural,Hydrological,Flood,Riverine flood,,AUS,2008,1,2008,1,1,3000,113270,79.4563044
+2008-0017-AUS,2008,Natural,Hydrological,Flood,Riverine flood,,AUS,2008,1,2008,2,,3200,755132,79.4563044
+2008-0098-AUS,2008,Natural,Hydrological,Flood,Riverine flood,,AUS,2008,2,2008,2,2,1000,1384409,79.4563044
+2008-0170-CAN,2008,Natural,Hydrological,Flood,Riverine flood,,CAN,2008,4,2008,4,,400,,79.4563044
+2008-0606-CAN,2008,Technological,Technological,Industrial accident,Explosion,Propone gaz facility,CAN,2008,8,2008,8,2,12518,,79.4563044
+2008-0633-DEU,2008,Natural,Meteorological,Extreme temperature ,Cold wave,,DEU,2009,1,2009,1,1,,,79.4563044
+2008-0664-DEU,2008,Technological,Technological,Transport accident,Road,,DEU,2008,11,2008,11,20,,,79.4563044
+2008-0337-DEU,2008,Technological,Technological,Industrial accident,Gas leak,Factory,DEU,2008,8,2008,8,,107,,79.4563044
+2008-0281-DEU,2008,Technological,Technological,Industrial accident,Chemical spill,Car factory,DEU,2008,7,2008,7,,101,,79.4563044
+2009-0067-AUS,2009,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2009,2,2009,2,180,9954,1641957,79.17380276
+2009-0048-AUS,2009,Natural,Meteorological,Storm,Tropical cyclone,"Tropical storm ""Dominic""",AUS,2009,1,2009,2,,400,,79.17380276
+2009-0099-CAN,2009,Technological,Technological,Transport accident,Air,Helicopter,CAN,2009,3,2009,3,16,1,,79.17380276
+2007-0521-MEX,2007,Natural,Hydrological,Flood,Riverine flood,,MEX,2007,10,2007,11,22,1600000,3920611,76.5186792
+2007-0383-USA,2007,Natural,Hydrological,Flood,Riverine flood,,USA,2007,8,2007,8,26,2840,914809,76.5186792
+2007-0464-MEX,2007,Natural,Meteorological,Storm,Tropical cyclone,Lorenzo,MEX,2007,9,2007,10,5,33000,,76.5186792
+2007-0581-USA,2007,Natural,Meteorological,Storm,,,USA,2007,12,2007,12,17,1128,1306870,76.5186792
+2007-0662-USA,2007,Natural,Meteorological,Storm,Convective storm,,USA,2007,5,2007,5,12,40,457405,76.5186792
+2007-0663-USA,2007,Natural,Meteorological,Storm,,,USA,2007,4,2007,4,23,,2613741,76.5186792
+2007-0244-USA,2007,Natural,Hydrological,Flood,Riverine flood,,USA,2007,6,2007,7,8,5000,,76.5186792
+2007-0613-KEN,2007,Natural,Hydrological,Flood,Riverine flood,,KEN,2007,12,2007,12,4,2000,,76.5186792
+2007-0537-MEX,2007,Natural,Hydrological,Landslide,Landslide,,MEX,2007,11,2007,11,16,,,76.5186792
+2007-0408-KEN,2007,Natural,Hydrological,Flood,Riverine flood,,KEN,2007,8,2007,10,13,40000,,76.5186792
+2007-0690-USA,2007,Natural,Meteorological,Storm,,,USA,2007,5,2007,5,5,,392061,76.5186792
+2007-0251-USA,2007,Natural,Hydrological,Flood,Flash flood,,USA,2007,6,2007,6,4,120,,76.5186792
+2007-0519-USA,2007,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,USA,2007,10,2007,10,8,640064,3267176,76.5186792
+2007-0689-USA,2007,Natural,Meteorological,Storm,,,USA,2007,2,2007,2,4,27,392061,76.5186792
+2007-0360-MEX,2007,Natural,Meteorological,Storm,Tropical cyclone,Dean,MEX,2007,8,2007,8,9,140000,784122,76.5186792
+2007-0439-MEX,2007,Natural,Meteorological,Storm,Tropical cyclone,Felix,MEX,2007,9,2007,9,,30000,,76.5186792
+2007-0156-USA,2007,Natural,Meteorological,Storm,Convective storm,,USA,2007,4,2007,4,10,280,,76.5186792
+2007-0359-USA,2007,Natural,Meteorological,Storm,Tropical cyclone,Erin,USA,2007,8,2007,8,7,,,76.5186792
+2007-0621-USA,2007,Natural,Meteorological,Storm,,,USA,2007,12,2007,12,22,,,76.5186792
+2007-0641-USA,2007,Natural,Meteorological,Storm,,,USA,2007,12,2007,12,24,2,653435,76.5186792
+2007-0177-KEN,2007,Natural,Hydrological,Flood,Riverine flood,,KEN,2007,5,2007,6,2,651,,76.5186792
+2007-0535-KEN,2007,Technological,Technological,Transport accident,Road,,KEN,2007,11,2007,11,16,30,,76.5186792
+2007-0564-KEN,2007,Technological,Technological,Transport accident,Road,,KEN,2007,12,2007,12,15,5,,76.5186792
+2007-0583-KEN,2007,Technological,Technological,Transport accident,Road,,KEN,2007,11,2007,11,11,,,76.5186792
+2007-0589-KEN,2007,Technological,Technological,Transport accident,Road,,KEN,2007,11,2007,11,11,10,,76.5186792
+2007-0206-KEN,2007,Technological,Technological,Miscellaneous accident,Collapse,Wall,KEN,2007,6,2007,6,14,,,76.5186792
+2007-0356-KEN,2007,Natural,Hydrological,Landslide,Mudslide,,KEN,2007,8,2007,8,20,6,,76.5186792
+2007-0435-MEX,2007,Natural,Hydrological,Flood,Coastal flood,,MEX,2007,9,2007,9,,55000,,76.5186792
+2007-0671-MEX,2007,Natural,Meteorological,Storm,Tropical cyclone,Henriette,MEX,2007,9,2007,9,6,,,76.5186792
+2007-0266-MEX,2007,Technological,Technological,Transport accident,Road,,MEX,2007,7,2007,7,32,,,76.5186792
+2007-0434-MEX,2007,Technological,Technological,Transport accident,Road,,MEX,2007,9,2007,9,29,120,,76.5186792
+2007-0445-MEX,2007,Technological,Technological,Transport accident,Road,,MEX,2007,9,2007,9,15,12,,76.5186792
+2007-0517-MEX,2007,Technological,Technological,Transport accident,Water,,MEX,2007,10,2007,10,24,,,76.5186792
+2007-0549-MEX,2007,Technological,Technological,Industrial accident,Gas leak,Oil plateform,MEX,2007,10,2007,10,23,63,,76.5186792
+2007-0403-TCD,2007,Natural,Hydrological,Flood,Riverine flood,,TCD,2007,8,2007,9,12,170000,,76.5186792
+2007-0411-TCD,2007,Natural,Hydrological,Flood,Riverine flood,,TCD,2007,8,2007,8,3,3000,,76.5186792
+2007-0375-TCD,2007,Natural,Meteorological,Storm,,,TCD,2007,5,2007,5,14,145,,76.5186792
+2007-0083-USA,2007,Natural,Meteorological,Storm,Convective storm,,USA,2007,3,2007,3,20,20,784122,76.5186792
+2007-0173-USA,2007,Natural,Hydrological,Flood,Riverine flood,,USA,2007,5,2007,5,8,100,,76.5186792
+2007-0254-USA,2007,Natural,Hydrological,Flood,Riverine flood,,USA,2007,6,2007,6,10,750,36592,76.5186792
+2007-0351-USA,2007,Natural,Climatological,Wildfire,Forest fire,,USA,2007,6,2007,7,,768,,76.5186792
+2007-0579-USA,2007,Natural,Climatological,Wildfire,Forest fire,,USA,2007,11,2007,11,,10159,411664,76.5186792
+2007-0493-USA,2007,Technological,Technological,Transport accident,Air,Cessna 208B,USA,2007,10,2007,10,10,,,76.5186792
+2007-0336-USA,2007,Technological,Technological,Miscellaneous accident,Collapse,Bridge,USA,2007,8,2007,8,29,60,,76.5186792
+2007-9548-USA,2007,Natural,Climatological,Drought,Drought,,USA,2007,10,2009,6,,,392061,76.5186792
+2007-0118-USA,2007,Technological,Technological,Miscellaneous accident,Fire,Home,USA,2007,3,2007,3,10,,,76.5186792
+2007-0209-VEN,2007,Technological,Technological,Transport accident,Road,,VEN,2007,5,2007,5,29,5,,76.5186792
+2008-0304-MEX,2008,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Dolly,MEX,2008,7,2008,7,2,500000,94392,79.4563044
+2008-0010-USA,2008,Natural,Hydrological,Flood,Riverine flood,,USA,2008,1,2008,1,2,1500,,79.4563044
+2008-0210-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,5,2008,5,7,70,2013685,79.4563044
+2008-0194-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,5,2008,5,22,150,880987,79.4563044
+2008-0039-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,2,2008,2,59,150,1636119,79.4563044
+2008-0115-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,3,2008,3,2,177,566349,79.4563044
+2008-0304-USA,2008,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Dolly,USA,2008,7,2008,7,,,1510264,79.4563044
+2008-0518-KEN,2008,Natural,Hydrological,Flood,Riverine flood,,KEN,2008,11,2008,11,17,30770,,79.4563044
+2008-0580-VEN,2008,Natural,Hydrological,Flood,Riverine flood,,VEN,2008,11,2008,11,8,1500,,79.4563044
+2008-0131-USA,2008,Natural,Hydrological,Flood,Riverine flood,,USA,2008,3,2008,4,18,1000,2517,79.4563044
+2008-0627-USA,2008,Natural,Hydrological,Flood,Riverine flood,,USA,2008,6,2008,6,24,11000148,12585534,79.4563044
+2008-0338-USA,2008,Natural,Meteorological,Storm,Tropical cyclone,"Tropical Storm ""Fay""",USA,2008,8,2008,8,12,400,226540,79.4563044
+2008-0384-USA,2008,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Ike,USA,2008,9,2008,9,82,200000,37756601,79.4563044
+2008-0482-KEN,2008,Natural,Hydrological,Flood,Flash flood,,KEN,2008,10,2008,10,3,6000,,79.4563044
+2008-0127-KEN,2008,Natural,Hydrological,Flood,Riverine flood,,KEN,2008,3,2008,4,,700,,79.4563044
+2008-0260-KEN,2008,Natural,Hydrological,Flood,Riverine flood,,KEN,2008,6,2008,6,16,8658,,79.4563044
+2008-0483-KEN,2008,Natural,Hydrological,Flood,Riverine flood,,KEN,2008,10,2008,10,17,6310,,79.4563044
+2008-0513-KEN,2008,Natural,Hydrological,Landslide,Landslide,,KEN,2008,11,2008,11,10,20,,79.4563044
+2008-0100-KEN,2008,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2008,2,2008,2,43,,,79.4563044
+2008-0376-KEN,2008,Technological,Technological,Transport accident,Road,,KEN,2008,9,2008,9,15,24,,79.4563044
+2008-9302-KEN,2008,Natural,Climatological,Drought,Drought,,KEN,2008,7,2009,,4,3800000,,79.4563044
+2008-0129-KEN,2008,Natural,Hydrological,Flood,,,KEN,2008,3,2008,4,2,10000,,79.4563044
+2008-0288-MEX,2008,Natural,Hydrological,Flood,Flash flood,,MEX,2008,7,2008,7,12,20000,,79.4563044
+2008-0433-MEX,2008,Natural,Hydrological,Landslide,Landslide,,MEX,2008,9,2008,9,22,,,79.4563044
+2008-0158-MEX,2008,Technological,Technological,Transport accident,Air,Helicopter Bell-212,MEX,2008,4,2008,4,11,,,79.4563044
+2008-0531-MEX,2008,Technological,Technological,Transport accident,Air,Bi-motor,MEX,2008,11,2008,11,15,7,,79.4563044
+2008-0198-MEX,2008,Technological,Technological,Transport accident,Road,,MEX,2008,5,2008,5,24,,,79.4563044
+2008-0255-MEX,2008,Technological,Technological,Transport accident,Road,,MEX,2008,6,2008,6,14,28,,79.4563044
+2008-0287-MEX,2008,Technological,Technological,Transport accident,Road,,MEX,2008,7,2008,7,11,,,79.4563044
+2008-0494-MEX,2008,Technological,Technological,Transport accident,Road,,MEX,2008,10,2008,10,11,20,,79.4563044
+2008-0512-MEX,2008,Technological,Technological,Transport accident,Road,,MEX,2008,11,2008,11,17,5,,79.4563044
+2008-0248-MEX,2008,Technological,Technological,Miscellaneous accident,Other,,MEX,2008,6,2008,6,12,20,,79.4563044
+2008-0367-TCD,2008,Natural,Hydrological,Flood,Riverine flood,,TCD,2008,7,2008,8,,6450,,79.4563044
+2008-0445-TCD,2008,Natural,Hydrological,Flood,Riverine flood,,TCD,2008,9,2008,9,,8000,,79.4563044
+2008-0448-TCD,2008,Natural,Biological,Epidemic,Viral disease,Hepatite E,TCD,2008,1,2008,10,22,1755,,79.4563044
+2008-0599-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,1,2008,1,4,,755132,79.4563044
+2008-0601-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,4,2008,4,3,,1384409,79.4563044
+2008-0645-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,4,2008,4,,200,138441,79.4563044
+2008-0654-USA,2008,Natural,Meteorological,Storm,Convective storm,,USA,2008,12,2008,12,5,,453079,79.4563044
+2008-0563-USA,2008,Natural,Meteorological,Extreme temperature ,Severe winter conditions,,USA,2008,12,2008,12,,,,79.4563044
+2008-0099-USA,2008,Natural,Geophysical,Earthquake,Ground movement,,USA,2008,2,2008,2,,2103,,79.4563044
+2008-0638-USA,2008,Natural,Hydrological,Flood,Riverine flood,,USA,2008,12,2009,1,,30000,,79.4563044
+2008-0600-USA,2008,Natural,Meteorological,Storm,Extra-tropical storm,,USA,2008,1,2008,1,12,,1258553,79.4563044
+2008-0352-USA,2008,Natural,Meteorological,Storm,Tropical cyclone,"Hurricane ""Gustav""",USA,2008,9,2008,9,43,2100000,8809874,79.4563044
+2008-0378-USA,2008,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Hanna,USA,2008,8,2008,8,7,,201369,79.4563044
+2008-0253-USA,2008,Natural,Climatological,Wildfire,Forest fire,,USA,2008,6,2008,7,1,300,128372,79.4563044
+2008-0356-USA,2008,Technological,Technological,Transport accident,Air,Bimoteur,USA,2008,8,2008,8,10,,,79.4563044
+2008-0330-USA,2008,Technological,Technological,Transport accident,Road,,USA,2008,8,2008,8,12,26,,79.4563044
+2008-0474-USA,2008,Technological,Technological,Transport accident,Road,,USA,2008,10,2008,10,10,30,,79.4563044
+2008-0404-USA,2008,Technological,Technological,Transport accident,Rail,,USA,2008,9,2008,9,25,135,,79.4563044
+2008-0143-USA,2008,Technological,Technological,Miscellaneous accident,Fire,House,USA,2008,4,2008,4,10,2,,79.4563044
+2008-0524-USA,2008,Natural,Climatological,Wildfire,,,USA,2008,11,2008,11,,55020,2517107,79.4563044
+2008-0011-VEN,2008,Technological,Technological,Transport accident,Air,,VEN,2008,1,2008,1,14,,,79.4563044
+2008-0090-VEN,2008,Technological,Technological,Transport accident,Air,ATR42,VEN,2008,2,2008,2,46,,,79.4563044
+2008-0225-VEN,2008,Technological,Technological,Transport accident,Road,,VEN,2008,6,2008,6,11,21,,79.4563044
+2009-0140-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,4,2009,4,9,822,2147175,79.17380276
+2009-0051-KEN,2009,Technological,Technological,Transport accident,Road,,KEN,2009,1,2009,1,29,24,,79.17380276
+2009-0058-KEN,2009,Technological,Technological,Miscellaneous accident,Explosion,Petrol Tanker,KEN,2009,1,2009,2,107,100,,79.17380276
+2009-0060-KEN,2009,Technological,Technological,Miscellaneous accident,Fire,"Supermarket ""Nakumatt Downtown""",KEN,2009,1,2009,1,56,,,79.17380276
+2009-0113-MEX,2009,Technological,Technological,Transport accident,Road,,MEX,2009,3,2009,3,11,18,,79.17380276
+2009-0151-MEX,2009,Technological,Technological,Transport accident,Road,,MEX,2009,4,2009,4,18,66,,79.17380276
+2009-0115-MEX,2009,Technological,Technological,Industrial accident,Other,Gas intoxication,MEX,2009,3,2009,3,11,1,,79.17380276
+2009-0150-TCD,2009,Natural,Biological,Epidemic,Viral disease,Meningitis,TCD,2009,1,2009,4,102,871,,79.17380276
+2009-0106-USA,2009,Natural,Hydrological,Flood,Riverine flood,,USA,2009,3,2009,4,2,5060,209665,79.17380276
+2009-0056-USA,2009,Natural,Meteorological,Extreme temperature ,Cold wave,,USA,2009,1,2009,1,58,,1389348,79.17380276
+2009-0071-USA,2009,Technological,Technological,Transport accident,Air,Bombardier Dash 8 Q400,USA,2009,2,2009,2,50,,,79.17380276
+2009-0111-USA,2009,Technological,Technological,Transport accident,Air,,USA,2009,3,2009,3,14,,,79.17380276
+2009-0273-CHE,2009,Natural,Meteorological,Storm,Convective storm,,CHE,2009,7,2009,7,,,1263044,79.17380276
+2009-0230-AUS,2009,Natural,Meteorological,Storm,Convective storm,,AUS,2009,5,2009,5,1,15000,75783,79.17380276
+2009-0589-AUS,2009,Natural,Hydrological,Flood,Riverine flood,,AUS,2009,12,2009,12,,200,,79.17380276
+2009-0615-AUS,2009,Natural,Hydrological,Flood,Riverine flood,,AUS,2009,1,2009,2,7,9000,189457,79.17380276
+2009-0616-AUS,2009,Natural,Meteorological,Extreme temperature ,Heat wave,,AUS,2009,1,2009,2,347,2000,,79.17380276
+2009-0467-AUS,2009,Technological,Technological,Transport accident,Water,,AUS,2009,11,2009,11,25,15,,79.17380276
+2009-0619-CAN,2009,Natural,Meteorological,Storm,Convective storm,,CAN,2009,8,2009,8,2,,631522,79.17380276
+2009-0189-CAN,2009,Natural,Hydrological,Flood,Riverine flood,,CAN,2009,4,2009,4,,200,,79.17380276
+2009-0342-CAN,2009,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Bill,CAN,2009,8,2009,8,,3,,79.17380276
+2009-0273-DEU,2009,Natural,Meteorological,Storm,Convective storm,,DEU,2009,7,2009,7,1,,63152,79.17380276
+2009-0228-DEU,2009,Natural,Hydrological,Flood,Riverine flood,,DEU,2009,6,2009,6,,,25261,79.17380276
+2009-0571-DEU,2009,Natural,Meteorological,Extreme temperature ,Cold wave,,DEU,2009,12,2010,1,14,,,79.17380276
+2010-0102-AUS,2010,Natural,Meteorological,Storm,Convective storm,,AUS,2010,3,2010,3,,,1652743,80.47228515
+2010-0465-AUS,2010,Natural,Hydrological,Flood,Riverine flood,,AUS,2010,9,2010,9,,10000,,80.47228515
+2010-0125-AUS,2010,Natural,Meteorological,Storm,Convective storm,,AUS,2010,3,2010,3,,,1727303,80.47228515
+2010-0380-DEU,2010,Natural,Hydrological,Flood,Flash flood,,DEU,2010,8,2010,8,3,,,80.47228515
+2010-0066-AUS,2010,Natural,Hydrological,Flood,Riverine flood,,AUS,2010,2,2010,2,,,,80.47228515
+2010-0103-AUS,2010,Natural,Hydrological,Flood,Riverine flood,,AUS,2010,2,2010,3,,,135450,80.47228515
+2010-0624-AUS,2010,Natural,Hydrological,Flood,Riverine flood,,AUS,2010,11,2010,12,,1000,,80.47228515
+2010-0656-AUS,2010,Natural,Hydrological,Flood,Riverine flood,,AUS,2010,12,2011,2,35,175000,9071446,80.47228515
+2010-0120-AUS,2010,Natural,Meteorological,Storm,Tropical cyclone,"Cyclone ""Ului""",AUS,2010,3,2010,3,1,,,80.47228515
+2010-0635-AUS,2010,Technological,Technological,Transport accident,Water,,AUS,2010,12,2010,12,48,42,,80.47228515
+2010-0655-CAN,2010,Natural,Meteorological,Storm,Convective storm,,CAN,2010,12,2010,12,,,,80.47228515
+2010-0088-CHE,2010,Natural,Meteorological,Storm,Extra-tropical storm,Xynthia,CHE,2010,2,2010,2,,,17397,80.47228515
+2010-0615-CHE,2010,Natural,Meteorological,Extreme temperature ,Cold wave,,CHE,2010,11,2010,12,,,,80.47228515
+2010-0652-DEU,2010,Natural,Meteorological,Storm,Convective storm,,DEU,2010,12,2010,12,,,,80.47228515
+2010-0088-DEU,2010,Natural,Meteorological,Storm,Extra-tropical storm,Xynthia,DEU,2010,2,2010,2,4,,1242664,80.47228515
+2010-0615-DEU,2010,Natural,Meteorological,Extreme temperature ,Cold wave,,DEU,2010,11,2010,12,1,,,80.47228515
+2010-0507-DEU,2010,Technological,Technological,Transport accident,Road,,DEU,2010,9,2010,9,12,6,,80.47228515
+2010-0299-DEU,2010,Technological,Technological,Miscellaneous accident,Other,Stampede,DEU,2010,7,2010,7,21,650,,80.47228515
+2011-0070-AUS,2011,Natural,Meteorological,Storm,Tropical cyclone,"Tropical Cyclone ""Yasi""",AUS,2011,2,2011,2,1,7300,3011588,83.01267439
+2011-0080-AUS,2011,Natural,Hydrological,Flood,Riverine flood,,AUS,2011,3,2011,3,,217,,83.01267439
+2011-0131-CAN,2011,Natural,Hydrological,Flood,Riverine flood,,CAN,2011,4,2011,5,5,2000,963708,83.01267439
+2011-0012-DEU,2011,Natural,Hydrological,Flood,Riverine flood,,DEU,2011,1,2011,1,4,,,83.01267439
+2011-0035-DEU,2011,Technological,Technological,Transport accident,Rail,,DEU,2011,1,2011,1,10,,,83.01267439
+2009-0384-MEX,2009,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Jimena,MEX,2009,9,2009,9,4,72000,50522,79.17380276
+2009-0601-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,6,2009,6,1,2,2526088,79.17380276
+2009-0244-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,4,2009,4,6,,303131,79.17380276
+2009-0494-KEN,2009,Natural,Hydrological,Flood,Riverine flood,,KEN,2009,10,2009,11,16,44850,,79.17380276
+2009-0597-KEN,2009,Natural,Hydrological,Flood,Riverine flood,,KEN,2009,12,2010,1,40,91350,,79.17380276
+2009-0377-MEX,2009,Natural,Hydrological,Flood,Riverine flood,,MEX,2009,9,2009,9,3,18000,,79.17380276
+2009-0184-USA,2009,Natural,Hydrological,Flood,Riverine flood,,USA,2009,5,2009,5,,900,,79.17380276
+2009-0498-TCD,2009,Natural,Hydrological,Flood,Riverine flood,,TCD,2009,8,2009,8,3,8020,,79.17380276
+2009-0644-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,3,2009,3,6,25,1894566,79.17380276
+2009-0603-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,7,2009,7,1,,1263044,79.17380276
+2009-0287-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,2,2009,2,16,50,3157610,79.17380276
+2009-0477-USA,2009,Natural,Meteorological,Storm,Tropical cyclone,"Hurricane ""Ida""",USA,2009,11,2009,11,6,,757826,79.17380276
+2009-9654-TCD,2009,Natural,Climatological,Drought,Drought,,TCD,2009,12,2010,7,,2400000,,79.17380276
+2009-0342-USA,2009,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Bill,USA,2009,8,2009,8,3,9,,79.17380276
+2009-0202-KEN,2009,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2009,1,2009,5,201,10048,,79.17380276
+2009-0549-KEN,2009,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2009,11,2009,12,24,193,,79.17380276
+2009-0576-KEN,2009,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2009,11,2009,12,26,205,,79.17380276
+2009-0281-KEN,2009,Technological,Technological,Transport accident,Road,,KEN,2009,7,2009,7,21,50,,79.17380276
+2009-0456-KEN,2009,Technological,Technological,Miscellaneous accident,Collapse,Building collapse,KEN,2009,10,2009,10,41,,,79.17380276
+2009-0361-KEN,2009,Technological,Technological,Miscellaneous accident,Fire,,KEN,2009,9,2009,9,,2500,,79.17380276
+2009-0367-MEX,2009,Natural,Hydrological,Flood,Riverine flood,,MEX,2009,9,2009,9,4,1500,,79.17380276
+2009-0515-MEX,2009,Natural,Hydrological,Flood,Riverine flood,,MEX,2009,11,2009,11,,107670,,79.17380276
+2009-0561-MEX,2009,Natural,Hydrological,Flood,Riverine flood,,MEX,2009,10,2009,10,10,13014,,79.17380276
+2009-0614-MEX,2009,Natural,Hydrological,Flood,Riverine flood,,MEX,2009,7,2009,7,11,,,79.17380276
+2009-0477-MEX,2009,Natural,Meteorological,Storm,Tropical cyclone,"Hurricane ""Ida""",MEX,2009,11,2009,11,,40000,,79.17380276
+2009-0594-MEX,2009,Natural,Biological,Epidemic,Viral disease,Dengue,MEX,2009,10,2009,12,,41687,,79.17380276
+2009-0216-MEX,2009,Technological,Technological,Miscellaneous accident,Fire,Nursery,MEX,2009,6,2009,6,49,30,,79.17380276
+2009-0433-TCD,2009,Natural,Hydrological,Flood,Riverine flood,,TCD,2009,9,2009,9,3,4895,,79.17380276
+2009-0604-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,5,2009,5,7,,1073587,79.17380276
+2009-0599-USA,2009,Natural,Meteorological,Storm,Convective storm,,USA,2009,12,2009,12,19,,,79.17380276
+2009-0190-USA,2009,Natural,Hydrological,Flood,Riverine flood,,USA,2009,4,2009,4,,1000,,79.17380276
+2009-0405-USA,2009,Natural,Hydrological,Flood,Riverine flood,,USA,2009,9,2009,9,9,3000,631522,79.17380276
+2009-0178-USA,2009,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,USA,2009,5,2009,5,,263,126304,79.17380276
+2009-0349-USA,2009,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,USA,2009,7,2009,10,2,192,,79.17380276
+2009-0180-USA,2009,Technological,Technological,Transport accident,Water,,USA,2009,5,2009,5,12,16,,79.17380276
+2009-0173-VEN,2009,Technological,Technological,Transport accident,Air,Helicopter,VEN,2009,5,2009,5,18,,,79.17380276
+2009-9415-VEN,2009,Natural,Climatological,Drought,Drought,,VEN,2009,11,2010,,,,,79.17380276
+2010-0503-MEX,2010,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm Matthew,MEX,2010,9,2010,9,3,1075,,80.47228515
+2010-0503-VEN,2010,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm Matthew,VEN,2010,9,2010,9,8,,,80.47228515
+2010-0690-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,5,2010,5,20,,,80.47228515
+2010-0058-MEX,2010,Natural,Hydrological,Flood,Riverine flood,,MEX,2010,1,2010,2,41,20000,19883,80.47228515
+2010-0426-MEX,2010,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Frank,MEX,2010,8,2010,8,6,154000,,80.47228515
+2010-0094-KEN,2010,Natural,Hydrological,Flood,Riverine flood,,KEN,2010,3,2010,5,94,141164,,80.47228515
+2010-0467-MEX,2010,Natural,Hydrological,Flood,Riverine flood,,MEX,2010,9,2010,9,25,1000000,,80.47228515
+2010-0616-VEN,2010,Natural,Hydrological,Flood,Riverine flood,,VEN,2010,11,2010,12,41,94800,211253,80.47228515
+2010-0196-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,5,2010,5,5,58,3355192,80.47228515
+2010-0468-USA,2010,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Earl,USA,2010,9,2010,9,1,,124266,80.47228515
+2010-0260-MEX,2010,Natural,Meteorological,Storm,Tropical cyclone,"Tropical storm ""Alex""",MEX,2010,6,2010,7,22,170000,2485328,80.47228515
+2010-0494-MEX,2010,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Karl,MEX,2010,9,2010,9,12,230000,4846389,80.47228515
+2010-0689-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,6,2010,6,20,100,,80.47228515
+2010-0187-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,4,2010,5,30,8000,2920260,80.47228515
+2010-0612-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,3,2010,3,11,,1863996,80.47228515
+2010-0522-USA,2010,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm Hermine,USA,2010,9,2010,9,8,,,80.47228515
+2010-9082-KEN,2010,Natural,Climatological,Drought,Drought,,KEN,2011,1,2011,1,,4300000,,80.47228515
+2010-0167-USA,2010,Technological,Technological,Industrial accident,Explosion,"Oil platform ""Deepwater Horizon""",USA,2010,4,2010,4,11,17,24853277,80.47228515
+2010-0285-KEN,2010,Natural,Hydrological,Flood,Riverine flood,,KEN,2010,5,2010,5,100,70000,,80.47228515
+2010-0186-KEN,2010,Natural,Hydrological,Landslide,Landslide,,KEN,2010,4,2010,4,10,,,80.47228515
+2010-0141-KEN,2010,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2010,1,2010,5,46,2834,,80.47228515
+2010-0700-KEN,2010,Natural,Biological,Epidemic,Viral disease,Measles,KEN,2010,12,2011,4,11,1046,,80.47228515
+2010-0158-MEX,2010,Natural,Geophysical,Earthquake,Ground movement,,MEX,2010,4,2010,4,2,25232,1429063,80.47228515
+2010-0496-MEX,2010,Natural,Hydrological,Landslide,Landslide,,MEX,2010,9,2010,9,27,,,80.47228515
+2010-0510-MEX,2010,Natural,Hydrological,Landslide,Landslide,,MEX,2010,9,2010,9,44,,,80.47228515
+2010-0244-MEX,2010,Technological,Technological,Transport accident,Air,Helicopter Bell 412,MEX,2010,6,2010,6,11,,,80.47228515
+2010-0638-MEX,2010,Technological,Technological,Transport accident,Air,Helicopter,MEX,2010,12,2010,12,11,,,80.47228515
+2010-0462-MEX,2010,Technological,Technological,Transport accident,Road,,MEX,2010,9,2010,9,13,11,,80.47228515
+2010-0540-MEX,2010,Technological,Technological,Transport accident,Road,,MEX,2010,10,2010,10,18,,,80.47228515
+2010-0603-MEX,2010,Technological,Technological,Transport accident,Road,,MEX,2010,11,2010,11,21,,,80.47228515
+2010-0237-MEX,2010,Technological,Technological,Transport accident,Rail,,MEX,2010,6,2010,6,11,4,,80.47228515
+2010-0634-MEX,2010,Technological,Technological,Industrial accident,Explosion,Pipeline,MEX,2010,12,2010,12,27,52,,80.47228515
+2010-0300-TCD,2010,Natural,Hydrological,Flood,Riverine flood,,TCD,2010,8,2010,9,24,144579,,80.47228515
+2010-0400-TCD,2010,Natural,Biological,Epidemic,Bacterial disease,Cholera,TCD,2010,6,2010,9,92,1730,,80.47228515
+2010-0131-TCD,2010,Natural,Biological,Epidemic,Viral disease,Meningitis,TCD,2010,1,2010,3,115,1090,,80.47228515
+2010-0137-TCD,2010,Natural,Biological,Epidemic,Viral disease,Measles,TCD,2010,1,2010,3,32,2499,,80.47228515
+2010-0163-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,4,2010,4,12,2770,,80.47228515
+2010-0663-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,12,2011,1,8,13,,80.47228515
+2010-0045-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,2,2010,2,2,,2485328,80.47228515
+2010-0089-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,2,2010,2,1,,621332,80.47228515
+2010-0655-USA,2010,Natural,Meteorological,Storm,Convective storm,,USA,2010,12,2010,12,,,,80.47228515
+2010-0027-USA,2010,Natural,Geophysical,Earthquake,Ground movement,,USA,2010,1,2010,1,,630,15533,80.47228515
+2010-0162-USA,2010,Natural,Hydrological,Flood,Riverine flood,,USA,2010,3,2010,3,,,,80.47228515
+2010-0225-USA,2010,Natural,Hydrological,Flood,Riverine flood,,USA,2010,6,2010,6,20,,,80.47228515
+2010-0651-USA,2010,Natural,Hydrological,Flood,Riverine flood,,USA,2010,12,2010,12,,1000,,80.47228515
+2010-0151-USA,2010,Technological,Technological,Industrial accident,Explosion,"Coal mine ""Upper Big Branch""",USA,2010,4,2010,4,27,2,,80.47228515
+2010-0209-USA,2010,Technological,Technological,Industrial accident,Explosion,Gazoduc,USA,2010,6,2010,6,13,,,80.47228515
+2010-0474-USA,2010,Technological,Technological,Miscellaneous accident,Explosion,Gas pipeline,USA,2010,9,2010,9,8,171,310666,80.47228515
+2010-0557-VEN,2010,Natural,Biological,Epidemic,Bacterial disease,Cholera,VEN,2011,1,2011,1,,118,,80.47228515
+2010-0478-VEN,2010,Technological,Technological,Transport accident,Air,ATR-42-300,VEN,2010,9,2010,9,16,35,,80.47228515
+2011-0228-MEX,2011,Natural,Meteorological,Storm,Tropical cyclone,"Tropical storm ""Beatrix""",MEX,2011,6,2011,6,3,450,,83.01267439
+2011-0195-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,5,2011,6,3,200,,83.01267439
+2011-0241-MEX,2011,Natural,Meteorological,Storm,Tropical cyclone,"Tropical Storm ""Arlene""",MEX,2011,6,2011,7,22,300000,84324,83.01267439
+2011-0029-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,1,2011,2,39,,2288807,83.01267439
+2011-0161-MEX,2011,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,MEX,2011,3,2011,5,,,,83.01267439
+2011-0267-MEX,2011,Natural,Meteorological,Storm,Tropical cyclone,"Tropical storm ""Dora""",MEX,2011,7,2011,7,3,200000,,83.01267439
+2011-0145-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,4,2011,4,354,17200,13250989,83.01267439
+2011-0224-KEN,2011,Technological,Technological,Industrial accident,Collapse,Building,KEN,2011,6,2011,6,16,,,83.01267439
+2011-0103-KEN,2011,Technological,Technological,Miscellaneous accident,Fire,Slum,KEN,2011,2,2011,2,1,8969,,83.01267439
+2011-0105-MEX,2011,Natural,Meteorological,Extreme temperature ,Cold wave,,MEX,2011,2,2011,2,3,120000,602318,83.01267439
+2011-0163-MEX,2011,Technological,Technological,Industrial accident,Explosion,Coal mine,MEX,2011,5,2011,5,14,,,83.01267439
+2011-0174-MEX,2011,Technological,Technological,Miscellaneous accident,Fire,Prison,MEX,2011,5,2011,5,14,,,83.01267439
+2011-0181-TCD,2011,Natural,Biological,Epidemic,Viral disease,Meningitis,TCD,2011,3,2011,3,124,2085,,83.01267439
+2011-0134-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,4,2011,4,46,43,2409271,83.01267439
+2011-0172-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,5,2011,5,176,1150,16864895,83.01267439
+2011-0189-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,5,2011,5,11,,,83.01267439
+2011-0166-USA,2011,Natural,Hydrological,Flood,Riverine flood,,USA,2011,5,2011,5,1,25000,,83.01267439
+2011-0264-USA,2011,Natural,Meteorological,Extreme temperature ,Heat wave,,USA,2011,7,2011,7,22,,,83.01267439
+2011-0140-USA,2011,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,USA,2011,4,2011,4,2,1305,220448,83.01267439
+2011-0118-USA,2011,Technological,Technological,Transport accident,Road,,USA,2011,3,2011,3,14,20,,83.01267439
+2011-0328-CAN,2011,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Irene,CAN,2011,8,2011,8,1,,,83.01267439
+2011-0518-CHE,2011,Natural,Meteorological,Storm,Extra-tropical storm,Joachim,CHE,2011,12,2011,12,,3,,83.01267439
+2011-0640-AUS,2011,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2011,8,2011,8,,120,65050,83.01267439
+2011-0483-AUS,2011,Technological,Technological,Miscellaneous accident,Fire,Nursing home,AUS,2011,11,2011,11,10,,,83.01267439
+2011-0323-CAN,2011,Natural,Meteorological,Storm,Convective storm,,CAN,2011,8,2011,8,1,20,,83.01267439
+2011-0630-CAN,2011,Natural,Climatological,Wildfire,Forest fire,,CAN,2011,5,2011,5,1,7000,1806953,83.01267439
+2011-0321-CAN,2011,Technological,Technological,Transport accident,Air,Boeing 737,CAN,2011,8,2011,8,12,3,,83.01267439
+2012-0029-AUS,2012,Natural,Hydrological,Flood,Riverine flood,,AUS,2012,1,2012,3,2,13000,265548,84.7304789
+2012-0037-AUS,2012,Natural,Hydrological,Flood,Riverine flood,,AUS,2012,2,2012,3,2,3000,428417,84.7304789
+2012-0224-AUS,2012,Technological,Technological,Transport accident,Water,,AUS,2012,6,2012,6,75,,,84.7304789
+2012-0493-CAN,2012,Natural,Meteorological,Storm,Convective storm,,CAN,2012,12,2012,12,,,,84.7304789
+2012-0626-CAN,2012,Natural,Meteorological,Storm,Convective storm,,CAN,2012,8,2012,8,,,1239223,84.7304789
+2012-0068-CAN,2012,Natural,Hydrological,Flood,Riverine flood,,CAN,2012,3,2012,3,,1500,40127,84.7304789
+2012-0036-CAN,2012,Technological,Technological,Transport accident,Road,,CAN,2012,2,2012,2,11,,,84.7304789
+2012-0019-CHE,2012,Natural,Meteorological,Extreme temperature ,Cold wave,,CHE,2012,2,2012,2,,,,84.7304789
+2012-0485-CHE,2012,Natural,Meteorological,Extreme temperature ,Cold wave,,CHE,2012,12,2012,12,11,,,84.7304789
+2012-0064-CHE,2012,Technological,Technological,Transport accident,Road,,CHE,2012,3,2012,3,28,,,84.7304789
+2012-0019-DEU,2012,Natural,Meteorological,Extreme temperature ,Cold wave,,DEU,2012,2,2012,2,4,,,84.7304789
+2012-0485-DEU,2012,Natural,Meteorological,Extreme temperature ,Cold wave,,DEU,2012,12,2012,12,2,,,84.7304789
+2012-0513-DEU,2012,Technological,Technological,Miscellaneous accident,Fire,Factory,DEU,2012,11,2012,11,14,9,,84.7304789
+2013-0517-DEU,2013,Natural,Meteorological,Storm,Extra-tropical storm,Storm Xaver,DEU,2013,12,2013,12,,,,85.97164225
+2013-0216-CHE,2013,Natural,Meteorological,Storm,Convective storm,,CHE,2013,6,2013,6,,84,290794,85.97164225
+2013-0008-AUS,2013,Natural,Meteorological,Storm,Tropical cyclone,Ex-Tropical cyclone Oswald,AUS,2013,1,2013,1,6,7500,2326348,85.97164225
+2013-0024-AUS,2013,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2013,1,2013,1,1,450,113991,85.97164225
+2013-0402-AUS,2013,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2013,10,2013,10,2,990,311731,85.97164225
+2013-0253-AUS,2013,Technological,Technological,Transport accident,Water,,AUS,2013,6,2013,6,13,,,85.97164225
+2013-0528-CAN,2013,Natural,Meteorological,Extreme temperature ,Severe winter conditions,,CAN,2013,12,2013,12,10,,232635,85.97164225
+2013-0190-CAN,2013,Natural,Hydrological,Flood,Riverine flood,,CAN,2013,6,2013,6,4,100000,6630093,85.97164225
+2013-0171-CAN,2013,Technological,Technological,Transport accident,Road,,CAN,2013,3,2013,3,,100,,85.97164225
+2013-0240-CAN,2013,Technological,Technological,Transport accident,Rail,,CAN,2013,7,2013,7,47,2000,273346,85.97164225
+2013-0530-CHE,2013,Natural,Meteorological,Storm,Extra-tropical storm,Storm Dirk,CHE,2013,12,2013,12,,,,85.97164225
+2013-0205-DEU,2013,Natural,Hydrological,Flood,Riverine flood,,DEU,2013,5,2013,6,4,6350,15004948,85.97164225
+2013-0398-DEU,2013,Natural,Meteorological,Storm,Extra-tropical storm,Storm Christian,DEU,2013,10,2013,10,7,2,,85.97164225
+2011-0385-MEX,2011,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Jova,MEX,2011,10,2011,11,5,50000,33368,83.01267439
+2011-9663-KEN,2011,Natural,Climatological,Drought,Drought,,KEN,2011,,2012,,,3750000,,83.01267439
+2011-0460-MEX,2011,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Nate,MEX,2011,9,2011,9,10,,,83.01267439
+2011-0423-KEN,2011,Natural,Hydrological,Flood,Riverine flood,,KEN,2011,8,2011,9,8,4000,,83.01267439
+2011-0476-KEN,2011,Natural,Hydrological,Flood,Riverine flood,,KEN,2011,11,2011,11,,5000,,83.01267439
+2011-0504-KEN,2011,Natural,Hydrological,Flood,Riverine flood,,KEN,2011,11,2011,12,25,91692,,83.01267439
+2011-0285-KEN,2011,Technological,Technological,Transport accident,Road,,KEN,2011,8,2011,8,13,,,83.01267439
+2011-0322-KEN,2011,Technological,Technological,Transport accident,Road,,KEN,2011,8,2011,8,23,15,,83.01267439
+2011-0369-KEN,2011,Technological,Technological,Industrial accident,Explosion,OIl pipeline,KEN,2011,9,2011,9,119,100,,83.01267439
+2011-0280-KEN,2011,Technological,Technological,Miscellaneous accident,Fire,,KEN,2011,2,2011,2,,445,,83.01267439
+2011-0281-KEN,2011,Technological,Technological,Miscellaneous accident,Fire,,KEN,2011,2,2011,2,,410,,83.01267439
+2011-0282-KEN,2011,Technological,Technological,Miscellaneous accident,Fire,,KEN,2011,3,2011,3,1,6252,,83.01267439
+2011-0512-MEX,2011,Natural,Geophysical,Earthquake,Ground movement,,MEX,2011,12,2011,12,2,152,,83.01267439
+2011-0392-MEX,2011,Natural,Hydrological,Flood,Riverine flood,,MEX,2011,10,2011,10,,250000,,83.01267439
+2011-0589-MEX,2011,Natural,Hydrological,Flood,Riverine flood,,MEX,2011,7,2011,7,3,190000,,83.01267439
+2011-0633-MEX,2011,Natural,Hydrological,Flood,Riverine flood,,MEX,2011,8,2011,9,74,40000,,83.01267439
+2011-9363-MEX,2011,Natural,Climatological,Drought,Drought,,MEX,2011,9,2011,12,,2500000,,83.01267439
+2011-0333-TCD,2011,Natural,Biological,Epidemic,Bacterial disease,Cholera,TCD,2011,8,2011,10,433,16038,,83.01267439
+2012-0060-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,3,2012,3,41,,5901064,84.7304789
+2012-9160-TCD,2012,Natural,Climatological,Drought,Drought,,TCD,2012,6,2013,2,,1600000,,84.7304789
+2012-0166-KEN,2012,Natural,Hydrological,Flood,Riverine flood,,KEN,2012,4,2012,5,73,280670,118021,84.7304789
+2012-0001-KEN,2012,Technological,Technological,Transport accident,Water,,KEN,2012,1,2012,1,28,,,84.7304789
+2012-0124-MEX,2012,Natural,Geophysical,Earthquake,Ground movement,,MEX,2012,3,2012,3,2,49011,377668,84.7304789
+2012-0276-MEX,2012,Natural,Meteorological,Storm,Tropical cyclone,Ernesto,MEX,2012,8,2012,8,12,,354064,84.7304789
+2012-0401-MEX,2012,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Carlotta,MEX,2012,6,2012,6,7,87000,655018,84.7304789
+2012-0099-MEX,2012,Technological,Technological,Transport accident,Road,,MEX,2012,4,2012,4,43,20,,84.7304789
+2012-0229-MEX,2012,Technological,Technological,Transport accident,Road,,MEX,2012,6,2012,6,28,22,,84.7304789
+2012-0381-MEX,2012,Technological,Technological,Industrial accident,Explosion,Gaz factory,MEX,2012,9,2012,9,32,26,,84.7304789
+2012-0347-TCD,2012,Natural,Hydrological,Flood,Riverine flood,,TCD,2012,7,2012,9,20,594831,11802,84.7304789
+2012-0384-TCD,2012,Natural,Hydrological,Flood,Riverine flood,,TCD,2012,9,2012,10,,18800,,84.7304789
+2012-0108-TCD,2012,Natural,Biological,Epidemic,Viral disease,Meningitis,TCD,2012,1,2012,3,88,1708,,84.7304789
+2012-0234-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,6,2012,6,1,,,84.7304789
+2012-0612-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,5,2012,5,,,4012724,84.7304789
+2012-0613-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,6,2012,6,,2,1652298,84.7304789
+2012-0614-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,6,2012,6,,9003,2242404,84.7304789
+2012-0615-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,7,2012,7,1,,826149,84.7304789
+2012-0616-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,9,2012,9,5,,247845,84.7304789
+2012-0010-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,1,2012,1,2,100,206537,84.7304789
+2012-0055-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,2,2012,2,14,200,590106,84.7304789
+2012-0122-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,4,2012,4,,3300,1829330,84.7304789
+2012-0156-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,4,2012,4,6,297,2124383,84.7304789
+2013-0335-MEX,2013,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm Fernand,MEX,2013,8,2013,8,14,5000,2326,85.97164225
+2013-0358-MEX,2013,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Manuel ,MEX,2013,9,2013,9,169,105000,4885332,85.97164225
+2013-0406-MEX,2013,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Ingrid,MEX,2013,9,2013,9,23,50000,1744761,85.97164225
+2013-0334-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,8,2013,8,,,348952,85.97164225
+2013-0123-KEN,2013,Natural,Hydrological,Flood,Riverine flood,,KEN,2013,3,2013,4,96,100020,41874,85.97164225
+2013-0348-MEX,2013,Natural,Hydrological,Flood,Riverine flood,,MEX,2013,9,2013,9,13,,,85.97164225
+2013-0281-KEN,2013,Natural,Hydrological,Flood,Riverine flood,,KEN,2013,8,2013,8,,5000,,85.97164225
+2013-0305-KEN,2013,Natural,Hydrological,Flood,Riverine flood,,KEN,2013,1,2013,1,18,10780,,85.97164225
+2013-0048-KEN,2013,Technological,Technological,Transport accident,Road,,KEN,2013,1,2013,1,11,,,85.97164225
+2013-0095-KEN,2013,Technological,Technological,Transport accident,Road,,KEN,2013,2,2013,2,35,,,85.97164225
+2013-0353-KEN,2013,Technological,Technological,Transport accident,Road,,KEN,2013,8,2013,8,37,,,85.97164225
+2013-0499-KEN,2013,Technological,Technological,Transport accident,Road,,KEN,2013,10,2013,10,12,24,,85.97164225
+2013-0188-MEX,2013,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Barbara,MEX,2013,5,2013,5,4,12000,,85.97164225
+2013-0394-MEX,2013,Technological,Technological,Transport accident,Air,,MEX,2013,10,2013,10,14,,,85.97164225
+2013-0129-MEX,2013,Technological,Technological,Transport accident,Road,,MEX,2013,5,2013,5,25,14,,85.97164225
+2013-0479-MEX,2013,Technological,Technological,Transport accident,Road,,MEX,2013,10,2013,10,12,25,,85.97164225
+2013-0052-MEX,2013,Technological,Technological,Industrial accident,Explosion,Oil company Pemex Building,MEX,2013,1,2013,1,37,100,,85.97164225
+2013-0103-MEX,2013,Technological,Technological,Miscellaneous accident,Explosion,Fireworks,MEX,2013,3,2013,3,17,80,,85.97164225
+2013-0382-MEX,2013,Technological,Technological,Industrial accident,Chemical spill,,MEX,2013,8,2013,8,9,1540,,85.97164225
+2013-0211-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,6,2013,6,4,,1046857,85.97164225
+2011-0610-USA,2011,Natural,Hydrological,Flood,Riverine flood,,USA,2011,4,2011,5,9,,5541322,83.01267439
+2011-0328-USA,2011,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Irene,USA,2011,8,2011,9,46,370000,8793838,83.01267439
+2011-0456-USA,2011,Natural,Meteorological,Storm,Tropical cyclone,Tropical Storm Lee,USA,2011,9,2011,9,15,600,903476,83.01267439
+2011-0444-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,10,2011,10,29,,3613906,83.01267439
+2011-0527-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,12,2011,12,6,,,83.01267439
+2011-0607-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,1,2011,1,11,,,83.01267439
+2011-0608-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,1,2011,1,10,,,83.01267439
+2011-0425-USA,2011,Natural,Hydrological,Flood,Riverine flood,,USA,2011,8,2011,8,2,100,,83.01267439
+2011-0646-USA,2011,Natural,Hydrological,Flood,Riverine flood,,USA,2011,5,2011,6,5,11000,2409271,83.01267439
+2011-0609-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,4,2011,4,9,,4216224,83.01267439
+2011-0611-USA,2011,Natural,Meteorological,Storm,Convective storm,,USA,2011,8,2011,8,7,,,83.01267439
+2011-0349-USA,2011,Natural,Climatological,Wildfire,Forest fire,,USA,2011,9,2011,9,4,4800,1204635,83.01267439
+2011-0639-USA,2011,Natural,Climatological,Wildfire,Forest fire,,USA,2011,5,2011,6,2,,240927,83.01267439
+2011-0375-USA,2011,Technological,Technological,Transport accident,Air,P-51 Mustang,USA,2011,9,2011,9,10,60,,83.01267439
+2011-9363-USA,2011,Natural,Climatological,Drought,Drought,,USA,2011,1,2011,11,,,9637083,83.01267439
+2011-0619-VEN,2011,Natural,Hydrological,Flood,Flash flood,,VEN,2011,4,2011,4,9,,,83.01267439
+2011-0569-VEN,2011,Natural,Hydrological,Flood,Riverine flood,,VEN,2011,12,2011,12,,1668,,83.01267439
+2011-0635-VEN,2011,Natural,Hydrological,Flood,Riverine flood,,VEN,2011,12,2011,12,8,2000,19274,83.01267439
+2011-0665-VEN,2011,Technological,Technological,Transport accident,Road,,VEN,2011,12,2011,12,14,16,,83.01267439
+2012-0410-USA,2012,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Sandy,USA,2012,10,2012,10,54,,59010643,84.7304789
+2012-9235-USA,2012,Natural,Climatological,Drought,Drought,,USA,2012,6,2012,,,,,84.7304789
+2012-9489-USA,2012,Natural,Climatological,Drought,Drought,,USA,2012,6,2012,12,,,23604257,84.7304789
+2012-0313-USA,2012,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Isaac,USA,2012,8,2012,8,1,60000,2360426,84.7304789
+2012-0486-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,12,2012,12,7,,2360,84.7304789
+2012-0493-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,12,2012,12,17,,59011,84.7304789
+2012-0611-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,1,2012,1,3,1,118021,84.7304789
+2012-0503-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,6,2012,7,28,,4720851,84.7304789
+2012-0601-USA,2012,Natural,Meteorological,Storm,Convective storm,,USA,2012,4,2012,4,1,100,5310958,84.7304789
+2012-0177-USA,2012,Natural,Hydrological,Flood,Riverine flood,,USA,2012,6,2012,6,2,300,205357,84.7304789
+2012-0176-USA,2012,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm Debby,USA,2012,6,2012,6,9,17001,247845,84.7304789
+2012-0214-USA,2012,Natural,Meteorological,Extreme temperature ,Heat wave,,USA,2012,6,2012,7,123,,,84.7304789
+2012-0232-USA,2012,Natural,Climatological,Wildfire,,Waldo Canyon Fire,USA,2012,6,2012,7,2,1038,708128,84.7304789
+2012-0542-USA,2012,Natural,Climatological,Wildfire,,,USA,2012,8,2012,8,1,1809,236043,84.7304789
+2012-0241-VEN,2012,Natural,Hydrological,Flood,Riverine flood,,VEN,2012,5,2012,5,,11000,109760,84.7304789
+2012-0312-VEN,2012,Technological,Technological,Industrial accident,Explosion,Oil refinery,VEN,2012,8,2012,8,48,80,,84.7304789
+2013-0354-USA,2013,Natural,Hydrological,Flood,Riverine flood,,USA,2013,9,2013,9,9,21900,2210031,85.97164225
+2013-0142-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,5,2013,5,29,450,3605840,85.97164225
+2013-0183-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,5,2013,5,6,700,348952,85.97164225
+2013-0439-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,11,2013,11,11,185,1512127,85.97164225
+2013-0054-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,2,2013,2,15,,116317,85.97164225
+2013-0472-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,11,2013,11,14,,2326,85.97164225
+2013-0118-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,4,2013,4,3,,1279492,85.97164225
+2013-0580-CAN,2013,Natural,Meteorological,Storm,Convective storm,,CAN,2013,7,2013,7,,,1640076,85.97164225
+2013-0013-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,1,2013,1,3,1107,348952,85.97164225
+2013-0184-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,5,2013,6,27,170150,2442666,85.97164225
+2013-0055-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,2,2013,2,1,4882,116317,85.97164225
+2013-0528-USA,2013,Natural,Meteorological,Extreme temperature ,Severe winter conditions,,USA,2013,12,2013,12,19,,232635,85.97164225
+2013-0117-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,4,2013,4,4,,1861079,85.97164225
+2013-0254-USA,2013,Natural,Hydrological,Flood,Riverine flood,,USA,2013,7,2013,7,2,1425,29079,85.97164225
+2013-0277-USA,2013,Natural,Hydrological,Flood,Riverine flood,,USA,2013,8,2013,8,3,6000,29079,85.97164225
+2013-0286-USA,2013,Natural,Hydrological,Flood,Riverine flood,,USA,2013,5,2013,5,3,300,2326,85.97164225
+2013-0291-USA,2013,Natural,Hydrological,Flood,Riverine flood,,USA,2013,4,2013,4,5,300,378032,85.97164225
+2013-0510-USA,2013,Natural,Hydrological,Flood,Riverine flood,,USA,2013,10,2013,11,4,4800,,85.97164225
+2013-0209-USA,2013,Natural,Climatological,Wildfire,Forest fire,,USA,2013,5,2013,6,,110,24892,85.97164225
+2013-0210-USA,2013,Natural,Climatological,Wildfire,Forest fire,,USA,2013,6,2013,6,2,1617,581587,85.97164225
+2013-0212-USA,2013,Natural,Climatological,Wildfire,Forest fire,,USA,2013,6,2013,7,19,387,2326,85.97164225
+2013-0179-USA,2013,Technological,Technological,Industrial accident,Explosion,Fetilizer plant,USA,2013,5,2013,5,15,620,232635,85.97164225
+2013-0315-USA,2013,Natural,Climatological,Wildfire,,,USA,2013,8,2013,9,,36,203555,85.97164225
+2013-0404-USA,2013,Natural,Climatological,Wildfire,,,USA,2013,9,2013,9,1,225,11632,85.97164225
+2013-0323-VEN,2013,Technological,Technological,Transport accident,Road,,VEN,2013,7,2013,7,16,36,,85.97164225
+2013-0547-DEU,2013,Natural,Meteorological,Storm,Convective storm,,DEU,2013,7,2013,7,,,5583236,85.97164225
+2014-0062-AUS,2014,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2014,2,2014,2,,90,114461,87.36629784
+2014-0319-CAN,2014,Natural,Hydrological,Flood,Flash flood,,CAN,2014,8,2014,8,,6904,147654,87.36629784
+2014-0475-AUS,2014,Natural,Meteorological,Storm,Convective storm,,AUS,2014,11,2014,11,,52539,1144606,87.36629784
+2014-0010-AUS,2014,Natural,Meteorological,Extreme temperature ,Heat wave,,AUS,2014,1,2014,1,139,,,87.36629784
+2014-0004-AUS,2014,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2014,1,2014,1,2,168,28615,87.36629784
+2014-0009-CAN,2014,Natural,Meteorological,Extreme temperature ,Cold wave,,CAN,2014,1,2014,1,,,,87.36629784
+2014-0031-CAN,2014,Technological,Technological,Miscellaneous accident,Fire,Elderly house,CAN,2014,1,2014,1,32,,,87.36629784
+2014-0458-CHE,2014,Natural,Meteorological,Storm,Convective storm,,CHE,2014,11,2014,11,2,,,87.36629784
+2014-0209-DEU,2014,Natural,Meteorological,Storm,Convective storm,,DEU,2014,6,2014,6,6,,,87.36629784
+2014-0381-DEU,2014,Natural,Meteorological,Storm,Convective storm,,DEU,2014,7,2014,7,2,1,457842,87.36629784
+2014-0229-DEU,2014,Technological,Technological,Transport accident,Road,,DEU,2014,7,2014,7,11,69,,87.36629784
+2015-0148-AUS,2015,Natural,Meteorological,Storm,Convective storm,,AUS,2015,4,2015,4,7,1000,1486225,87.46993221
+2015-0576-AUS,2015,Natural,Hydrological,Flood,Flash flood,,AUS,2015,4,2015,5,6,,457300,87.46993221
+2015-0053-AUS,2015,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Lam ,AUS,2015,2,2015,2,,438,89174,87.46993221
+2015-0079-AUS,2015,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Marcia',AUS,2015,2,2015,2,1,6000,624215,87.46993221
+2015-0135-AUS,2015,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Olwyn',AUS,2015,3,2015,3,,600,65165,87.46993221
+2015-0560-AUS,2015,Natural,Climatological,Wildfire,Forest fire,,AUS,2015,12,2015,12,,348,114325,87.46993221
+2015-0010-AUS,2015,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2015,1,2015,1,,134,58306,87.46993221
+2015-0514-AUS,2015,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2015,11,2015,11,2,135,228650,87.46993221
+2015-0275-CAN,2015,Natural,Climatological,Wildfire,Forest fire,,CAN,2015,7,2015,7,,13036,,87.46993221
+2016-0172-CAN,2016,Natural,Climatological,Wildfire,Forest fire,Fort McMurray wildfires,CAN,2016,5,2016,7,,88000,4516026,88.57345288
+2016-0201-AUS,2016,Natural,Meteorological,Storm,Convective storm,,AUS,2016,6,2016,6,5,,564503,88.57345288
+2016-0014-AUS,2016,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",Yarloop busfires,AUS,2016,1,2016,1,2,540,124191,88.57345288
+2016-0044-DEU,2016,Technological,Technological,Transport accident,Rail,,DEU,2016,2,2016,2,12,89,,88.57345288
+2016-0179-DEU,2016,Natural,Hydrological,Flood,,,DEU,2016,5,2016,6,7,,2258013,88.57345288
+2013-0545-KEN,2013,Natural,Hydrological,Flood,Riverine flood,,KEN,2013,12,2013,12,14,,,85.97164225
+2014-0183-MEX,2014,Natural,Meteorological,Storm,Tropical cyclone,Boris,MEX,2014,5,2014,6,,,,87.36629784
+2014-0333-MEX,2014,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Odile,MEX,2014,9,2014,9,6,75135,2861515,87.36629784
+2014-0417-MEX,2014,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm Trudy,MEX,2014,10,2014,10,6,30000,2289,87.36629784
+2014-0385-MEX,2014,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm Dolly,MEX,2014,9,2014,9,1,1500,572,87.36629784
+2014-0325-MEX,2014,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Marie,MEX,2014,8,2014,9,3,30000,16024,87.36629784
+2014-0386-MEX,2014,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Norbert,MEX,2014,9,2014,9,3,7500,28615,87.36629784
+2014-0582-KEN,2014,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2014,12,2016,5,72,3459,,87.36629784
+2014-9404-KEN,2014,Natural,Climatological,Drought,Drought,,KEN,2014,1,2015,5,,1600000,,87.36629784
+2014-0127-MEX,2014,Natural,Geophysical,Earthquake,Ground movement,,MEX,2014,4,2014,4,,381,,87.36629784
+2014-0234-MEX,2014,Natural,Geophysical,Earthquake,Ground movement,,MEX,2014,7,2014,7,3,27000,,87.36629784
+2015-0121-MEX,2015,Natural,Meteorological,Storm,Convective storm,,MEX,2015,3,2015,3,14,1471,2287,87.46993221
+2015-0470-MEX,2015,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Patricia,MEX,2015,10,2015,10,14,15000,940895,87.46993221
+2015-0158-KEN,2015,Natural,Hydrological,Flood,Flash flood,,KEN,2015,4,2015,4,13,1500,,87.46993221
+2015-0159-KEN,2015,Natural,Hydrological,Flood,Riverine flood,,KEN,2015,4,2015,5,13,3000,,87.46993221
+2015-0564-KEN,2015,Natural,Hydrological,Flood,Riverine flood,,KEN,2015,12,2016,1,112,240799,,87.46993221
+2015-0139-KEN,2015,Technological,Technological,Miscellaneous accident,Other,Stampede,KEN,2015,4,2015,4,1,141,,87.46993221
+2015-0187-MEX,2015,Natural,Meteorological,Storm,Convective storm,,MEX,2015,5,2015,5,14,2320,,87.46993221
+2015-0382-MEX,2015,Natural,Hydrological,Flood,Riverine flood,,MEX,2015,3,2015,3,,3000,,87.46993221
+2015-0018-MEX,2015,Technological,Technological,Transport accident,Road,,MEX,2015,1,2015,1,16,20,,87.46993221
+2015-0115-MEX,2015,Technological,Technological,Transport accident,Road,,MEX,2015,3,2015,3,18,3,,87.46993221
+2015-0305-MEX,2015,Technological,Technological,Transport accident,Road,,MEX,2015,7,2015,7,27,100,,87.46993221
+2015-0517-MEX,2015,Technological,Technological,Transport accident,Road,,MEX,2015,11,2015,11,23,10,,87.46993221
+2015-0553-MEX,2015,Technological,Technological,Transport accident,Road,,MEX,2015,12,2015,12,15,30,,87.46993221
+2015-0041-MEX,2015,Technological,Technological,Transport accident,Rail,,MEX,2015,2,2015,2,20,31,,87.46993221
+2016-0161-KEN,2016,Natural,Hydrological,Flood,,,KEN,2016,4,2016,5,39,10000,,88.57345288
+2016-0089-KEN,2016,Natural,Hydrological,Flood,Riverine flood,,KEN,2016,3,2016,3,3,1000,,88.57345288
+2016-0015-MEX,2016,Technological,Technological,Transport accident,Road,,MEX,2016,1,2016,1,21,,,88.57345288
+2016-0067-MEX,2016,Technological,Technological,Transport accident,Road,,MEX,2016,2,2016,2,12,28,,88.57345288
+2016-0144-MEX,2016,Technological,Technological,Industrial accident,Explosion,Petrochimical plant,MEX,2016,4,2016,4,32,100,,88.57345288
+2013-0579-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,2,2013,2,1,,1279492,85.97164225
+2013-0550-USA,2013,Natural,Meteorological,Storm,Convective storm,Cleon and Dion,USA,2013,12,2013,12,20,,116317,85.97164225
+2013-0548-USA,2013,Natural,Meteorological,Storm,Convective storm,,USA,2013,3,2013,3,2,,2558983,85.97164225
+2013-0558-USA,2013,Natural,Hydrological,Flood,Riverine flood,,USA,2013,12,2013,12,5,,,85.97164225
+2013-0586-USA,2013,Technological,Technological,Transport accident,Air,Boeing 777,USA,2013,7,2013,7,3,182,,85.97164225
+2014-0482-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,12,2014,12,3,30,,87.36629784
+2014-0263-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,7,2014,7,,300,309044,87.36629784
+2014-0126-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,4,2014,5,40,15,2289212,87.36629784
+2014-0444-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,10,2014,10,2,,194583,87.36629784
+2014-0318-USA,2014,Natural,Geophysical,Earthquake,Ground movement,,USA,2014,8,2014,8,1,3250,801224,87.36629784
+2014-0491-USA,2014,Natural,Hydrological,Flood,Flash flood,,USA,2014,12,2014,12,,,103015,87.36629784
+2014-0192-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,5,2014,5,,,4463964,87.36629784
+2014-0540-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,6,2014,6,2,36,1831370,87.36629784
+2014-0048-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,2,2014,2,9,,286152,87.36629784
+2014-0072-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,2,2014,2,25,,858455,87.36629784
+2014-0052-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,1,2014,1,16,,240367,87.36629784
+2014-0053-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,1,2014,1,13,,286152,87.36629784
+2014-0100-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,2,2014,3,12,,2289,87.36629784
+2014-0459-USA,2014,Natural,Meteorological,Storm,Convective storm,,USA,2014,11,2014,11,13,,114461,87.36629784
+2014-0317-USA,2014,Natural,Hydrological,Flood,Riverine flood,,USA,2014,8,2014,8,2,102000,1831370,87.36629784
+2014-0095-USA,2014,Natural,Hydrological,Landslide,Landslide,,USA,2014,3,2014,3,43,150,22892,87.36629784
+2014-0310-USA,2014,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Iselle,USA,2014,8,2014,8,1,834,75544,87.36629784
+2014-0009-USA,2014,Natural,Meteorological,Extreme temperature ,Cold wave,,USA,2014,1,2014,1,21,,2861515,87.36629784
+2014-0165-USA,2014,Natural,Climatological,Wildfire,Forest fire,,USA,2014,5,2014,5,2,429,114461,87.36629784
+2014-0167-USA,2014,Technological,Technological,Transport accident,Road,,USA,2014,4,2014,4,10,30,,87.36629784
+2014-0568-USA,2014,Technological,Technological,Industrial accident,Chemical spill,,USA,2014,1,2014,1,,169,,87.36629784
+2014-0556-USA,2014,Technological,Technological,Miscellaneous accident,Explosion,Jail,USA,2014,4,2014,4,2,184,,87.36629784
+2014-9023-USA,2014,Natural,Climatological,Drought,Drought,,USA,2014,1,2014,12,,,2518133,87.36629784
+2015-0211-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,5,2015,5,4,,1600550,87.46993221
+2015-0488-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,10,2015,11,6,,308678,87.46993221
+2015-0155-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,4,2015,4,4,12,1086088,87.46993221
+2015-0180-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,5,2015,5,1,40,182920,87.46993221
+2015-0245-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,6,2015,6,,,743113,87.46993221
+2015-0138-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,4,2015,4,3,12,1600550,87.46993221
+2015-0326-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,7,2015,7,4,,800275,87.46993221
+2015-0401-USA,2015,Natural,Climatological,Wildfire,,Valley Fire,USA,2015,8,2015,8,4,4508,171488,87.46993221
+2015-0123-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,3,2015,3,1,3312,571625,87.46993221
+2015-0400-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,8,2015,8,4,40,1086088,87.46993221
+2015-0565-USA,2015,Natural,Hydrological,Flood,,,USA,2015,12,2016,1,31,4050,685950,87.46993221
+2015-0046-USA,2015,Natural,Meteorological,Storm,Convective storm,Storm Octavia,USA,2015,2,2015,2,10,,114325,87.46993221
+2015-0072-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,1,2015,2,22,,171488,87.46993221
+2015-0558-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,12,2015,12,50,60,2286500,87.46993221
+2015-0531-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,11,2015,12,18,300,160055,87.46993221
+2015-0459-USA,2015,Natural,Meteorological,Storm,Tropical cyclone,Joaquin,USA,2015,10,2015,10,25,800,2286500,87.46993221
+2015-0026-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,1,2015,1,2,,91460,87.46993221
+2015-0212-USA,2015,Natural,Hydrological,Flood,Flash flood,,USA,2015,5,2015,5,32,12000,3086775,87.46993221
+2015-0177-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,5,2015,5,6,,1143250,87.46993221
+2015-0025-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,1,2015,1,15,,114325,87.46993221
+2015-0073-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,2,2015,2,30,,3429750,87.46993221
+2015-0122-USA,2015,Natural,Meteorological,Storm,Convective storm,,USA,2015,3,2015,3,13,,194353,87.46993221
+2015-0186-USA,2015,Natural,Hydrological,Flood,Flash flood,,USA,2015,5,2015,5,16,12000,,87.46993221
+2015-0431-USA,2015,Natural,Hydrological,Flood,Flash flood,,USA,2015,9,2015,9,19,,2287,87.46993221
+2015-0421-USA,2015,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,USA,2015,9,2015,9,4,7302,1600550,87.46993221
+2015-0613-USA,2015,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",Butte fire,USA,2015,9,2015,9,3,1425,457300,87.46993221
+2015-0085-USA,2015,Technological,Technological,Transport accident,Air,Military Helicopter UH-60,USA,2015,3,2015,3,11,,,87.46993221
+2015-0174-USA,2015,Technological,Technological,Transport accident,Rail,,USA,2015,5,2015,5,8,200,,87.46993221
+2015-0587-USA,2015,Technological,Technological,Industrial accident,Gas leak,Storage facility,USA,2015,10,2015,10,,8234,,87.46993221
+2015-9210-USA,2015,Natural,Climatological,Drought,Drought,,USA,2015,1,2015,12,,,5144625,87.46993221
+2015-0221-USA,2015,Technological,Technological,Industrial accident,Oil spill,,USA,2015,5,2015,5,,,,87.46993221
+2015-0312-USA,2015,Natural,Climatological,Wildfire,,,USA,2015,7,2015,8,1,129,2287,87.46993221
+2015-0399-USA,2015,Natural,Hydrological,Flood,,,USA,2015,7,2015,8,,600,114325,87.46993221
+2015-0296-VEN,2015,Natural,Hydrological,Flood,Riverine flood,,VEN,2015,6,2015,7,,45297,,87.46993221
+2015-0422-VEN,2015,Technological,Technological,Miscellaneous accident,Fire,Prison,VEN,2015,9,2015,9,17,11,,87.46993221
+2016-0012-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,1,2016,1,,,141126,88.57345288
+2016-0203-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,6,2016,6,25,2000,1129006,88.57345288
+2016-0125-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,4,2016,5,6,,2709615,88.57345288
+2016-0123-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,4,2016,4,1,3000,4403125,88.57345288
+2016-0150-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,5,2016,5,2,10,1919311,88.57345288
+2016-0086-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,3,2016,3,1,,1354808,88.57345288
+2016-0087-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,3,2016,3,,300,2596715,88.57345288
+2016-0124-USA,2016,Natural,Hydrological,Flood,Flash flood,,USA,2016,4,2016,4,9,21000,2258013,88.57345288
+2016-0183-USA,2016,Natural,Hydrological,Flood,,,USA,2016,5,2016,6,15,,338702,88.57345288
+2016-0181-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,5,2016,5,9,12,1241907,88.57345288
+2016-0085-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,3,2016,3,7,,1806410,88.57345288
+2016-0010-USA,2016,Natural,Meteorological,Storm,Convective storm,Storm Jonas (Snowzilla),USA,2016,1,2016,1,50,85000012,620954,88.57345288
+2016-0051-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,2,2016,2,10,12,1354808,88.57345288
+2016-0206-USA,2016,Natural,Climatological,Wildfire,Forest fire,,USA,2016,6,2016,6,,891,169351,88.57345288
+2016-0022-USA,2016,Technological,Technological,Transport accident,Air,Helicopter,USA,2016,1,2016,1,12,,,88.57345288
+2016-0013-USA,2016,Technological,Technological,Industrial accident,Gas leak,,USA,2016,1,2016,1,,,,88.57345288
+2016-0170-USA,2016,Natural,Hydrological,Flood,,,USA,2016,4,2016,4,11,,,88.57345288
+2016-0515-AUS,2016,Natural,Biological,Epidemic,Viral disease,Dengue,AUS,2016,1,2016,1,,2016,,88.57345288
+2016-0428-AUS,2016,Natural,Hydrological,Flood,,,AUS,2016,9,2016,9,1,280,28225,88.57345288
+2016-0243-CAN,2016,Natural,Hydrological,Flood,,,CAN,2016,6,2016,6,,300,,88.57345288
+2017-0360-DEU,2017,Natural,Meteorological,Storm,Convective storm,,DEU,2017,8,2017,8,3,24,175768,90.46017931
+2017-0072-AUS,2017,Natural,Climatological,Wildfire,,Sir Ivan fire,AUS,2017,2,2017,2,,143,22109,90.46017931
+2017-0271-CAN,2017,Natural,Climatological,Wildfire,,"Gustafsen, Wildwood, Elephant Hill Fires",CAN,2017,7,2017,9,,43441,,90.46017931
+2017-0105-AUS,2017,Natural,Meteorological,Storm,Tropical cyclone,Debbie,AUS,2017,3,2017,4,12,45000,2984739,90.46017931
+2017-0562-AUS,2017,Natural,Meteorological,Storm,Convective storm,,AUS,2017,3,2017,3,,6000,541675,90.46017931
+2017-0126-CAN,2017,Natural,Hydrological,Flood,,,CAN,2017,5,2017,5,2,16113,221092,90.46017931
+2017-0471-CAN,2017,Natural,Hydrological,Flood,,,CAN,2017,8,2017,8,,3000,,90.46017931
+2017-0350-CHE,2017,Natural,Geophysical,Mass movement (dry),Rockfall,,CHE,2017,8,2017,8,8,200,,90.46017931
+2017-0565-DEU,2017,Natural,Meteorological,Storm,Convective storm,,DEU,2017,6,2017,6,2,,818040,90.46017931
+2017-0310-DEU,2017,Natural,Hydrological,Flood,Riverine flood,,DEU,2017,7,2017,7,,600,,90.46017931
+2017-0241-DEU,2017,Technological,Technological,Transport accident,Road,,DEU,2017,7,2017,7,18,30,,90.46017931
+2018-0299-CAN,2018,Natural,Climatological,Wildfire,Forest fire,,CAN,2018,7,2018,8,,3000,,92.6696698
+2018-0002-CHE,2018,Natural,Meteorological,Storm,Convective storm,Eleanor,CHE,2018,1,2018,1,,16,,92.6696698
+2018-0025-DEU,2018,Natural,Meteorological,Storm,Extra-tropical storm,'Friederike' (David),DEU,2018,1,2018,1,5,12,635024,92.6696698
+2018-0459-AUS,2018,Natural,Meteorological,Extreme temperature ,Heat wave,,AUS,2018,12,2019,1,,,,92.6696698
+2018-9258-AUS,2018,Natural,Climatological,Drought,Drought,,AUS,2018,1,2018,8,,,1294922,92.6696698
+2018-0123-AUS,2018,Natural,Hydrological,Flood,,,AUS,2018,3,2018,3,,600,12302,92.6696698
+2018-0366-CAN,2018,Natural,Meteorological,Storm,Convective storm,,CAN,2018,9,2018,9,,930,350708,92.6696698
+2018-0195-CAN,2018,Natural,Meteorological,Extreme temperature ,Heat wave,,CAN,2018,6,2018,7,70,,,92.6696698
+2018-0110-CAN,2018,Technological,Technological,Transport accident,Road,,CAN,2018,4,2018,4,16,13,,92.6696698
+2018-0160-CAN,2018,Natural,Hydrological,Flood,,,CAN,2018,5,2018,5,,4000,,92.6696698
+2018-0261-CHE,2018,Technological,Technological,Transport accident,Air,Junkers JU52 HB-HOT,CHE,2018,8,2018,8,20,,,92.6696698
+2018-0235-DEU,2018,Natural,Meteorological,Extreme temperature ,Heat wave,,DEU,2018,7,2018,7,,,,92.6696698
+2019-0171-CAN,2019,Natural,Hydrological,Flood,,,CAN,2019,4,2019,5,1,19500,847915,94.3490925
+2019-0084-AUS,2019,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,AUS,2019,3,2019,3,,627,,94.3490925
+2019-0001-CHE,2019,Natural,Meteorological,Storm,Convective storm,,CHE,2019,1,2019,1,4,,,94.3490925
+2019-0028-AUS,2019,Natural,Hydrological,Flood,Riverine flood,,AUS,2019,1,2019,2,3,9900,2119787,94.3490925
+2019-0001-DEU,2019,Natural,Meteorological,Storm,Convective storm,,DEU,2019,1,2019,1,1,,,94.3490925
+2016-0284-MEX,2016,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Earl',MEX,2016,8,2016,8,54,11000,,88.57345288
+2016-0424-MEX,2016,Natural,Hydrological,Flood,Flash flood,,MEX,2016,11,2016,11,2,35000,,88.57345288
+2016-0325-MEX,2016,Natural,Hydrological,Flood,,,MEX,2016,9,2016,9,3,6000,,88.57345288
+2016-0319-MEX,2016,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Newton,MEX,2016,9,2016,9,11,10500,56450,88.57345288
+2016-9452-KEN,2016,Natural,Climatological,Drought,Drought,,KEN,2016,6,2018,1,,3400000,,88.57345288
+2016-0484-KEN,2016,Technological,Technological,Transport accident,Road,,KEN,2016,12,2016,12,33,,,88.57345288
+2016-0574-KEN,2016,Technological,Technological,Miscellaneous accident,Collapse,,KEN,2016,4,2016,4,49,,,88.57345288
+2016-0333-MEX,2016,Natural,Hydrological,Flood,Flash flood,,MEX,2016,9,2016,10,5,3000,28225,88.57345288
+2016-0532-MEX,2016,Natural,Hydrological,Flood,Flash flood,,MEX,2016,2,2016,2,2,3000,,88.57345288
+2016-0501-MEX,2016,Technological,Technological,Miscellaneous accident,Explosion,Fireworks market,MEX,2016,12,2016,12,42,72,,88.57345288
+2016-0332-MEX,2016,Natural,Hydrological,Flood,,,MEX,2016,9,2016,9,13,6000,,88.57345288
+2017-0382-MEX,2017,Natural,Geophysical,Earthquake,Ground movement,,MEX,2017,9,2017,9,98,1200250,2542555,90.46017931
+2017-0168-MEX,2017,Natural,Meteorological,Storm,Tropical cyclone,Beatriz,MEX,2017,6,2017,6,6,600,,90.46017931
+2017-0334-MEX,2017,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Franklin',MEX,2017,8,2017,8,,300,2211,90.46017931
+2017-0392-MEX,2017,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Katia,MEX,2017,9,2017,9,3,1110,,90.46017931
+2017-0387-MEX,2017,Natural,Geophysical,Earthquake,Ground movement,,MEX,2017,9,2017,9,369,256000,6632753,90.46017931
+2017-0376-MEX,2017,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Lidia',MEX,2017,8,2017,9,20,1000,,90.46017931
+2017-0205-KEN,2017,Natural,Hydrological,Flood,Riverine flood,,KEN,2017,5,2017,5,26,25000,,90.46017931
+2017-0557-KEN,2017,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2017,1,2017,11,76,3967,,90.46017931
+2017-0447-KEN,2017,Natural,Biological,Epidemic,Viral disease,Marburg,KEN,2017,10,2017,11,,1,,90.46017931
+2017-0552-KEN,2017,Natural,Biological,Epidemic,Viral disease,Chikungunya,KEN,2017,12,2018,2,,453,,90.46017931
+2017-0005-KEN,2017,Technological,Technological,Transport accident,Road,,KEN,2017,1,2017,1,11,,,90.46017931
+2017-0116-KEN,2017,Technological,Technological,Transport accident,Road,,KEN,2017,4,2017,4,26,,,90.46017931
+2017-0533-KEN,2017,Technological,Technological,Transport accident,Road,,KEN,2017,12,2017,12,36,11,,90.46017931
+2017-0191-KEN,2017,Technological,Technological,Transport accident,Water,Migrants,KEN,2017,6,2017,6,10,,,90.46017931
+2017-0498-MEX,2017,Natural,Hydrological,Flood,Riverine flood,,MEX,2017,9,2017,10,2,800,,90.46017931
+2017-0100-MEX,2017,Technological,Technological,Transport accident,Road,,MEX,2017,4,2017,4,24,9,,90.46017931
+2017-0210-MEX,2017,Technological,Technological,Transport accident,Road,,MEX,2017,5,2017,5,17,31,,90.46017931
+2017-0518-MEX,2017,Technological,Technological,Transport accident,Road,,MEX,2017,12,2017,12,11,12,,90.46017931
+2017-0523-MEX,2017,Technological,Technological,Transport accident,Road,,MEX,2017,12,2017,12,12,2,,90.46017931
+2017-0127-MEX,2017,Technological,Technological,Miscellaneous accident,Explosion,Firework depot,MEX,2017,5,2017,5,14,22,,90.46017931
+2018-0148-KEN,2018,Natural,Hydrological,Flood,,,KEN,2018,5,2018,5,47,,,92.6696698
+2018-0421-MEX,2018,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Vicente',MEX,2018,10,2018,10,14,,7559,92.6696698
+2018-0172-KEN,2018,Technological,Technological,Transport accident,Air,,KEN,2018,6,2018,6,10,,,92.6696698
+2018-0107-KEN,2018,Technological,Technological,Transport accident,Road,,KEN,2018,4,2018,4,17,,,92.6696698
+2018-0362-KEN,2018,Technological,Technological,Transport accident,Road,,KEN,2018,10,2018,10,51,,,92.6696698
+2018-0187-KEN,2018,Technological,Technological,Miscellaneous accident,Fire,Open market,KEN,2018,6,2018,6,15,70,,92.6696698
+2018-0116-KEN,2018,Natural,Hydrological,Flood,,,KEN,2018,3,2018,3,15,,,92.6696698
+2018-0132-KEN,2018,Natural,Hydrological,Flood,,,KEN,2018,3,2018,5,72,211188,377686,92.6696698
+2018-0315-MEX,2018,Natural,Geophysical,Earthquake,Ground movement,,MEX,2018,2,2018,2,,3004,,92.6696698
+2018-0367-MEX,2018,Natural,Hydrological,Flood,Flash flood,,MEX,2018,9,2018,9,20,120,,92.6696698
+2018-0406-MEX,2018,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Willa,MEX,2018,10,2018,10,6,10000,579262,92.6696698
+2018-0035-MEX,2018,Technological,Technological,Transport accident,Air,Helicopter,MEX,2018,2,2018,2,14,,,92.6696698
+2018-0228-MEX,2018,Technological,Technological,Transport accident,Road,,MEX,2018,7,2018,7,13,,,92.6696698
+2018-0274-MEX,2018,Technological,Technological,Miscellaneous accident,Explosion,Fireworks depot,MEX,2018,7,2018,7,12,,,92.6696698
+2019-9145-KEN,2019,Natural,Climatological,Drought,Drought,,KEN,2019,1,2019,9,,2600000,,94.3490925
+2019-0192-KEN,2019,Natural,Biological,Epidemic,Bacterial disease,Cholera,KEN,2019,1,2019,5,26,3847,,94.3490925
+2019-0190-MEX,2019,Technological,Technological,Transport accident,Air,Bombardier Challenger 601,MEX,2019,5,2019,5,13,,,94.3490925
+2019-0103-MEX,2019,Technological,Technological,Transport accident,Road,,MEX,2019,3,2019,3,23,33,,94.3490925
+2019-0019-MEX,2019,Technological,Technological,Industrial accident,Explosion,Oleoduc,MEX,2019,1,2019,1,125,22,,94.3490925
+2008-0669-USA,2008,Technological,Technological,Industrial accident,Explosion,Sugar Refinery,USA,2008,2,2008,2,13,40,406513,79.4563044
+2016-0322-USA,2016,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Hermine,USA,2016,9,2016,9,3,14070,677404,88.57345288
+2016-0331-USA,2016,Natural,Hydrological,Flood,Riverine flood,,USA,2016,9,2016,9,1,,620954,88.57345288
+2016-0477-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,11,2016,12,8,33,310477,88.57345288
+2016-0521-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,12,2016,12,22,,112901,88.57345288
+2016-0355-USA,2016,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Matthew',USA,2016,10,2016,10,49,,11290065,88.57345288
+2016-0550-USA,2016,Natural,Meteorological,Storm,Convective storm,,USA,2016,4,2017,4,6,19,,88.57345288
+2016-0493-USA,2016,Natural,Geophysical,Earthquake,Ground movement,,USA,2016,11,2016,11,,120,22580,88.57345288
+2016-0264-USA,2016,Natural,Climatological,Wildfire,Forest fire,Sand Fire,USA,2016,7,2016,8,2,420,56450,88.57345288
+2016-0297-USA,2016,Natural,Climatological,Wildfire,Forest fire,Clayton Fire,USA,2016,8,2016,8,,567,112901,88.57345288
+2016-0463-USA,2016,Natural,Climatological,Wildfire,Forest fire,,USA,2016,11,2016,12,14,6574,1354808,88.57345288
+2016-0277-USA,2016,Technological,Technological,Transport accident,Air,Ballooning,USA,2016,7,2016,7,16,,,88.57345288
+2016-0408-USA,2016,Technological,Technological,Transport accident,Road,,USA,2016,10,2016,10,13,31,,88.57345288
+2016-0353-USA,2016,Technological,Technological,Transport accident,Rail,,USA,2016,9,2016,9,1,110,,88.57345288
+2016-0466-USA,2016,Technological,Technological,Miscellaneous accident,Fire,Party in a festival,USA,2016,12,2016,12,36,2,,88.57345288
+2016-0292-USA,2016,Natural,Hydrological,Flood,,,USA,2016,8,2016,8,13,70000,11290065,88.57345288
+2016-0552-USA,2016,Natural,Hydrological,Flood,,,USA,2016,3,2016,3,5,,2596715,88.57345288
+2016-0354-VEN,2016,Technological,Technological,Transport accident,Road,,VEN,2016,9,2016,9,11,14,,88.57345288
+2016-0522-VEN,2016,Natural,Hydrological,Flood,,,VEN,2016,11,2016,12,,,,88.57345288
+2017-0039-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,1,2017,1,3,,442184,90.46017931
+2017-0136-USA,2017,Natural,Hydrological,Flood,,,USA,2017,4,2017,5,20,70,1879280,90.46017931
+2017-0336-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,8,2017,8,,630,221092,90.46017931
+2017-0542-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,12,2018,1,22,,1216005,90.46017931
+2017-0062-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,2,2017,2,5,200000,1658188,90.46017931
+2017-0234-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,6,2017,6,,,1547642,90.46017931
+2017-0564-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,3,2017,3,1,,2984739,90.46017931
+2017-0362-USA,2017,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Harvey,USA,2017,8,2017,8,88,582024,105018585,90.46017931
+2017-0070-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,2,2017,3,4,612,2100372,90.46017931
+2017-0203-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,5,2017,5,,,3426922,90.46017931
+2017-0563-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,3,2017,3,2,615,2432009,90.46017931
+2017-0253-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,6,2017,6,,2,2210918,90.46017931
+2017-0512-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,11,2017,11,,8,287419,90.46017931
+2017-0381-USA,2017,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Irma',USA,2017,9,2017,9,97,70000,63011151,90.46017931
+2017-9342-TCD,2017,Natural,Climatological,Drought,Drought,,TCD,2017,3,2017,5,,1886800,,90.46017931
+2017-0421-TCD,2017,Natural,Biological,Epidemic,Bacterial disease,Cholera,TCD,2017,8,2017,10,58,652,,90.46017931
+2017-0108-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,3,2017,3,11,12,1105459,90.46017931
+2017-0022-USA,2017,Natural,Meteorological,Storm,Convective storm,,USA,2017,1,2017,1,24,200,1216005,90.46017931
+2017-0282-USA,2017,Natural,Hydrological,Flood,Flash flood,,USA,2017,7,2017,7,10,,,90.46017931
+2017-0058-USA,2017,Natural,Hydrological,Flood,Riverine flood,,USA,2017,2,2017,2,,300,,90.46017931
+2017-0383-USA,2017,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Maria',USA,2017,9,2017,9,4,,,90.46017931
+2017-0410-USA,2017,Natural,Meteorological,Storm,Tropical cyclone,Tropical depression'16/Hurricane 'Nate',USA,2017,10,2017,10,,60,276365,90.46017931
+2017-0252-USA,2017,Natural,Climatological,Wildfire,Forest fire,"Wall Fire, Alamo Fire, Whittier Fire",USA,2017,7,2017,7,,156,,90.46017931
+2017-0434-USA,2017,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)","Tubbs, Atlas, Nuns Fires",USA,2017,6,2017,12,43,9185,14370964,90.46017931
+2017-0309-USA,2017,Technological,Technological,Transport accident,Air,Military plane KC-130,USA,2017,7,2017,7,16,,,90.46017931
+2017-0004-USA,2017,Technological,Technological,Transport accident,Rail,,USA,2017,1,2017,1,,103,,90.46017931
+2017-0572-USA,2017,Technological,Technological,Industrial accident,Explosion,Cosmetics factory,USA,2017,11,2017,11,1,125,,90.46017931
+2017-9550-USA,2017,Natural,Climatological,Drought,Drought,,USA,2017,3,2017,12,,,2763647,90.46017931
+2017-0534-USA,2017,Technological,Technological,Miscellaneous accident,Fire,Appartment building,USA,2017,12,2017,12,13,3,,90.46017931
+2017-0511-USA,2017,Natural,Climatological,Wildfire,,'Thomas',USA,2017,12,2017,12,2,2963,2432009,90.46017931
+2018-0111-USA,2018,Natural,Meteorological,Storm,Convective storm,,USA,2018,3,2018,3,9,,2481934,92.6696698
+2018-0130-USA,2018,Natural,Hydrological,Flood,,,USA,2018,4,2018,4,,1596,134888,92.6696698
+2018-0146-USA,2018,Natural,Geophysical,Volcanic activity,Lava flow,Kilauea,USA,2018,5,2018,5,,2500,539551,92.6696698
+2018-0258-USA,2018,Natural,Climatological,Wildfire,Forest fire,Carr and Mendocino Complex fires,USA,2018,7,2018,8,14,3237,1079102,92.6696698
+2018-0344-USA,2018,Natural,Meteorological,Storm,Convective storm,,USA,2018,8,2018,8,,18,1079102,92.6696698
+2018-0129-USA,2018,Natural,Meteorological,Storm,,,USA,2018,4,2018,4,3,,1402832,92.6696698
+2018-0419-USA,2018,Natural,Hydrological,Flood,Riverine flood,,USA,2018,10,2018,10,5,,431641,92.6696698
+2018-0045-USA,2018,Natural,Meteorological,Storm,Convective storm,,USA,2018,1,2018,1,22,,1079102,92.6696698
+2018-0457-USA,2018,Natural,Meteorological,Storm,Convective storm,,USA,2018,12,2018,12,2,,161865,92.6696698
+2018-0342-USA,2018,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Florence,USA,2018,9,2018,9,53,1500000,15107424,92.6696698
+2018-0010-USA,2018,Natural,Hydrological,Landslide,Mudslide,,USA,2018,1,2018,1,21,1366,971192,92.6696698
+2018-0373-USA,2018,Natural,Meteorological,Storm,Tropical cyclone,Hurricane Michael,USA,2018,10,2018,10,49,5000,17265628,92.6696698
+2018-0279-USA,2018,Natural,Meteorological,Storm,Convective storm,,USA,2018,7,2018,7,,,1618653,92.6696698
+2018-0438-TCD,2018,Natural,Biological,Epidemic,Viral disease,Measles,TCD,2018,5,2019,4,90,4227,,92.6696698
+2018-0046-USA,2018,Natural,Meteorological,Storm,Convective storm,,USA,2018,1,2018,1,10,,53955,92.6696698
+2018-0331-USA,2018,Natural,Hydrological,Flood,Flash flood,,USA,2018,9,2018,9,2,,269775,92.6696698
+2018-0206-USA,2018,Natural,Meteorological,Storm,Convective storm,,USA,2018,5,2018,5,5,75,1564697,92.6696698
+2018-0170-USA,2018,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Alberto',USA,2018,5,2018,5,5,,134888,92.6696698
+2018-0409-USA,2018,Natural,Climatological,Wildfire,Forest fire,Camp Fire,USA,2018,6,2018,12,88,250000,17805178,92.6696698
+2018-0359-USA,2018,Technological,Technological,Transport accident,Road,,USA,2018,10,2018,10,20,,,92.6696698
+2018-0229-USA,2018,Technological,Technological,Transport accident,Water,,USA,2018,7,2018,7,17,,,92.6696698
+2018-9476-USA,2018,Natural,Climatological,Drought,Drought,,USA,2018,1,2018,12,,,3237305,92.6696698
+2018-0468-USA,2018,Natural,Climatological,Wildfire,,Woolsey Fire,USA,2018,11,2018,11,2,3,5611329,92.6696698
+2018-0386-VEN,2018,Natural,Hydrological,Flood,Flash flood,,VEN,2018,9,2018,9,2,1000,,92.6696698
+2018-0182-VEN,2018,Technological,Technological,Miscellaneous accident,Other,Stampede,VEN,2018,6,2018,6,17,,,92.6696698
+2018-0290-VEN,2018,Natural,Hydrological,Flood,,,VEN,2018,8,2018,8,,9700,,92.6696698
+2019-0086-USA,2019,Natural,Hydrological,Flood,,,USA,2019,2,2019,3,1,6000,,94.3490925
+2019-0545-AUS,2019,Natural,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",Currowan,AUS,2019,9,2020,2,32,8883,2119787,94.3490925
+2019-0089-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,2,2019,2,2,12,1271872,94.3490925
+2019-0045-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,1,2019,1,10,,105989,94.3490925
+2019-0090-USA,2019,Natural,Hydrological,Flood,,,USA,2019,2,2019,3,1,8000,,94.3490925
+2019-0160-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,4,2019,4,8,177,1377862,94.3490925
+2019-0116-USA,2019,Natural,Hydrological,Flood,Riverine flood,,USA,2019,3,2019,3,5,2000,10598936,94.3490925
+2019-0046-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,1,2019,1,22,,,94.3490925
+2019-0184-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,4,2019,4,5,,,94.3490925
+2019-0532-CAN,2019,Natural,Meteorological,Storm,Convective storm,,CAN,2019,10,2019,11,1,,291471,94.3490925
+2019-0007-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,1,2019,1,13,57,,94.3490925
+2019-0081-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,3,2019,3,28,90,201380,94.3490925
+2019-0174-VEN,2019,Technological,Technological,Transport accident,Water,Migrants,VEN,2019,4,2019,4,24,,,94.3490925
+2019-0296-DEU,2019,Natural,Meteorological,Extreme temperature ,Heat wave,,DEU,2019,6,2019,6,4,,,94.3490925
+2019-0366-DEU,2019,Natural,Meteorological,Extreme temperature ,Heat wave,,DEU,2019,7,2019,7,,,,94.3490925
+2020-0418-CHE,2020,Natural,Meteorological,Storm,Convective storm,Storm 'Alex',CHE,2020,10,2020,10,,13,,95.51296742
+2020-0019-AUS,2020,Natural,Meteorological,Storm,Convective storm,,AUS,2020,1,2020,1,,,1570467,95.51296742
+2020-0266-CAN,2020,Natural,Meteorological,Storm,Convective storm,,CAN,2020,6,2020,6,,60000,1256374,95.51296742
+2020-0053-AUS,2020,Natural,Hydrological,Flood,,,AUS,2020,2,2020,2,1,,1256374,95.51296742
+2020-0595-AUS,2020,Natural,Meteorological,Storm,Convective storm,,AUS,2020,10,2020,10,,,1256374,95.51296742
+2020-0191-CAN,2020,Natural,Hydrological,Flood,Riverine flood,,CAN,2020,4,2020,4,1,12936,1361072,95.51296742
+2020-0051-DEU,2020,Natural,Meteorological,Storm,Extra-tropical storm,Storm 'Ciara' (Sabine),DEU,2020,2,2020,2,,33,,95.51296742
+2019-0225-MEX,2019,Natural,Hydrological,Flood,,,MEX,2019,6,2019,6,7,3000,,94.3490925
+2019-0500-KEN,2019,Natural,Hydrological,Flood,Flash flood,,KEN,2019,10,2019,12,90,233339,,94.3490925
+2019-0557-KEN,2019,Natural,Hydrological,Landslide,Landslide,,KEN,2019,11,2019,11,97,120,,94.3490925
+2019-0418-MEX,2019,Natural,Meteorological,Storm,Tropical cyclone,Tropical cyclone 'Lorena',MEX,2019,9,2019,9,1,200,,94.3490925
+2019-0519-MEX,2019,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Fernand',MEX,2019,9,2019,9,1,,405939,94.3490925
+2019-0630-KEN,2019,Natural,Biological,Insect infestation,Locust,,KEN,2020,2,2020,2,,,,94.3490925
+2019-0450-MEX,2019,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Narda',MEX,2019,9,2019,9,2,1000,,94.3490925
+2019-0240-MEX,2019,Technological,Technological,Transport accident,Road,,MEX,2019,5,2019,5,21,30,,94.3490925
+2019-0628-MEX,2019,Technological,Technological,Transport accident,Road,,MEX,2019,12,2019,12,14,12,,94.3490925
+2019-0297-MEX,2019,Natural,Hydrological,Flood,,,MEX,2019,6,2019,6,2,142,,94.3490925
+2019-0596-MEX,2019,Natural,Hydrological,Flood,,,MEX,2019,11,2019,12,3,500,,94.3490925
+2020-0164-KEN,2020,Natural,Hydrological,Flood,,,KEN,2020,4,2020,6,285,810655,10470,95.51296742
+2020-0219-MEX,2020,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Cristobal',MEX,2020,6,2020,6,,606,,95.51296742
+2020-0353-MEX,2020,Natural,Hydrological,Flood,,,MEX,2020,8,2020,8,3,5100,,95.51296742
+2020-0506-MEX,2020,Natural,Hydrological,Flood,,,MEX,2020,11,2020,11,27,90000,,95.51296742
+2020-0316-MEX,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Hanna',MEX,2020,7,2020,7,5,,141342,95.51296742
+2020-0042-KEN,2020,Technological,Technological,Miscellaneous accident,Other,Stampede,KEN,2020,2,2020,2,13,39,,95.51296742
+2020-0281-MEX,2020,Natural,Geophysical,Earthquake,Ground movement,,MEX,2020,6,2020,6,10,24393,78523,95.51296742
+2020-0416-MEX,2020,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Gamma',MEX,2020,10,2020,10,6,3500,104698,95.51296742
+2020-0474-MEX,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Eta',MEX,2020,11,2020,11,31,,,95.51296742
+2020-0483-MEX,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Zeta',MEX,2020,10,2020,10,,,104698,95.51296742
+2019-0453-TCD,2019,Natural,Hydrological,Landslide,Landslide,,TCD,2019,9,2019,9,52,37,,94.3490925
+2019-0250-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,5,2019,5,3,150,,94.3490925
+2019-0624-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,12,2019,12,18,,249075,94.3490925
+2019-0593-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,11,2019,12,10,,,94.3490925
+2019-0412-USA,2019,Natural,Meteorological,Storm,Tropical cyclone,Tropical cyclone 'Dorian',USA,2019,8,2019,9,10,,1695830,94.3490925
+2019-0417-USA,2019,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm ' Imelda',USA,2019,9,2019,9,5,1000,3709628,94.3490925
+2019-0415-TCD,2019,Natural,Hydrological,Flood,,,TCD,2019,9,2019,9,,423,,94.3490925
+2019-0484-USA,2019,Natural,Meteorological,Storm,Convective storm,,USA,2019,10,2019,10,4,,2755723,94.3490925
+2019-0306-USA,2019,Natural,Geophysical,Earthquake,Ground movement,,USA,2019,7,2019,7,,150,211979,94.3490925
+2019-0335-USA,2019,Natural,Meteorological,Storm,Tropical cyclone,Tropical cylone 'Barry',USA,2019,7,2019,7,1,,635936,94.3490925
+2019-0513-USA,2019,Natural,Climatological,Wildfire,Forest fire,Saddleridge fire & Sandalwood fire,USA,2019,10,2019,10,3,603,344465,94.3490925
+2019-0517-USA,2019,Natural,Climatological,Wildfire,Forest fire,Kincade Fire,USA,2019,10,2019,10,,662,1377862,94.3490925
+2019-0278-USA,2019,Technological,Technological,Transport accident,Air,Bimoteur,USA,2019,6,2019,6,11,,,94.3490925
+2019-0341-USA,2019,Technological,Technological,Transport accident,Air,Bimotor,USA,2019,6,2019,6,10,,,94.3490925
+2019-0447-USA,2019,Technological,Technological,Transport accident,Water,Tourist boat 'Conception',USA,2019,9,2019,9,67,,,94.3490925
+2019-0307-USA,2019,Natural,Hydrological,Flood,,,USA,2019,6,2019,6,3,600,,94.3490925
+2019-0261-VEN,2019,Technological,Technological,Transport accident,Road,,VEN,2019,6,2019,6,18,33,,94.3490925
+2019-0262-VEN,2019,Technological,Technological,Transport accident,Water,Migrants,VEN,2019,6,2019,6,30,,,94.3490925
+2019-0609-VEN,2019,Natural,Hydrological,Flood,,,VEN,2019,10,2019,10,6,2000,,94.3490925
+2020-0583-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,5,2020,5,2,,1675165,95.51296742
+2020-0538-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,11,2020,11,11,,366442,95.51296742
+2020-0474-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Eta',USA,2020,11,2020,11,12,,1570467,95.51296742
+2020-0212-USA,2020,Natural,Hydrological,Flood,,,USA,2020,5,2020,5,1,10000,2198654,95.51296742
+2020-0190-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,4,2020,4,,,3036237,95.51296742
+2020-0238-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,5,2020,5,2,,889932,95.51296742
+2020-9585-USA,2020,Natural,Climatological,Drought,Drought,,USA,2020,1,2020,12,45,,4711402,95.51296742
+2020-0148-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,4,2020,4,38,200,3664424,95.51296742
+2020-0167-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,4,2020,4,3,31,1465770,95.51296742
+2020-0011-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,1,2020,1,10,,1256374,95.51296742
+2020-0316-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Hanna',USA,2020,7,2020,7,,,1151676,95.51296742
+2020-0412-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Delta',USA,2020,10,2020,10,4,9400,3036237,95.51296742
+2020-0438-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Sally',USA,2020,9,2020,9,8,,6595963,95.51296742
+2020-0483-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Zeta',USA,2020,10,2020,10,6,,3664424,95.51296742
+2020-0376-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Laura',USA,2020,8,2020,8,33,6500,13610717,95.51296742
+2020-0302-TCD,2020,Natural,Hydrological,Flood,,,TCD,2020,4,2020,4,,2062,,95.51296742
+2020-0382-TCD,2020,Natural,Hydrological,Flood,,,TCD,2020,8,2020,10,3,34872,,95.51296742
+2020-0580-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,8,2020,8,4,,7119452,95.51296742
+2020-0584-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,5,2020,5,,,1465770,95.51296742
+2020-0082-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,3,2020,3,25,12300,2617446,95.51296742
+2020-0582-USA,2020,Natural,Meteorological,Storm,Convective storm,,USA,2020,3,2020,3,,,3036237,95.51296742
+2020-0089-USA,2020,Natural,Hydrological,Flood,Riverine flood,,USA,2020,2,2020,2,,3000,183221,95.51296742
+2020-0219-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Cristobal',USA,2020,6,2020,6,1,,340268,95.51296742
+2020-0312-USA,2020,Natural,Meteorological,Storm,Tropical cyclone,Hurricane 'Isaias',USA,2020,7,2020,8,16,,5025496,95.51296742
+2020-0441-USA,2020,Natural,Climatological,Wildfire,Forest fire,August Complex fire,USA,2020,8,2020,10,32,,11516761,95.51296742
+2020-0549-VEN,2020,Technological,Technological,Transport accident,Water,Migrants,VEN,2020,12,2020,12,28,,,95.51296742
+2020-0498-VEN,2020,Natural,Hydrological,Flood,,,VEN,2020,11,2020,11,3,3690,31409,95.51296742
